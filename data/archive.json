@@ -1,9 +1,0 @@
-{
-  "filename": "initial_conditions_and_forecasts.zip",
-  "bytes": 2721170858,
-  "sha256": "571782e1c043e7ca9e591160e00ada1a931f0d540b06d8d106ba26e89795e10d",
-  "files": 216,
-  "manifest": "data/archive_manifest.json",
-  "destination": "Companion data in the prepared Zenodo deposit; permanent link pending author deposit",
-  "model_weights_included": false
-}

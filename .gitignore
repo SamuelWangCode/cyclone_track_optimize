@@ -2,9 +2,14 @@ __pycache__/
 .pytest_cache/
 *.pyc
 .venv/
-figures/
-runs/
+data/
 inputs/
+runs/
+figures/*.pdf
+figures/sources.json
+*.nc
+*.npy
+*.npz
 *.onnx
 *.pth
 *.pt
