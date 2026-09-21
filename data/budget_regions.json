@@ -1,0 +1,584 @@
+{
+  "purpose": "Assess how fixed-box displacement changes the diagnosed regional error contribution; this does not separate boundary flux from internal generation. Boxes are fixed before evaluating this follow-up.",
+  "period_hours": [
+    24,
+    72
+  ],
+  "layer_hpa": [
+    850,
+    700
+  ],
+  "scale": "(1e-5 s-1)^2",
+  "rows": [
+    {
+      "region": "core",
+      "box_SWNE": [
+        12,
+        127,
+        25,
+        142
+      ],
+      "model": "tianxing",
+      "state": "control",
+      "contributions": {
+        "relative_advection": 1.7081786536089518,
+        "planetary_advection": -0.08084998889647949,
+        "stretching": 1.962009075054718,
+        "residual": 0.4699223962801581,
+        "actual": 4.059260131900778
+      },
+      "closure_float32": 4.146570198315658e-09
+    },
+    {
+      "region": "core",
+      "box_SWNE": [
+        12,
+        127,
+        25,
+        142
+      ],
+      "model": "tianxing",
+      "state": "optimal",
+      "contributions": {
+        "relative_advection": -1.2499685056595797,
+        "planetary_advection": -0.049217437039500496,
+        "stretching": 2.7653222485578284,
+        "residual": 0.0020909009920190014,
+        "actual": 1.4682272025232326
+      },
+      "closure_float32": 4.327534552928114e-09
+    },
+    {
+      "region": "core",
+      "box_SWNE": [
+        12,
+        127,
+        25,
+        142
+      ],
+      "model": "tianxing",
+      "state": "era5init",
+      "contributions": {
+        "relative_advection": 2.4856736009276297,
+        "planetary_advection": -0.11012737522135568,
+        "stretching": 2.8642158504148125,
+        "residual": -0.0034498237016121758,
+        "actual": 5.236312268637958
+      },
+      "closure_float32": 1.621848344512955e-08
+    },
+    {
+      "region": "core",
+      "box_SWNE": [
+        12,
+        127,
+        25,
+        142
+      ],
+      "model": "pangu_6h",
+      "state": "control",
+      "contributions": {
+        "relative_advection": 2.6519412889421043,
+        "planetary_advection": -0.049573056602480486,
+        "stretching": 2.953125920586545,
+        "residual": 0.6510878436432889,
+        "actual": 6.20658199015862
+      },
+      "closure_float32": 6.410838082615555e-09
+    },
+    {
+      "region": "core",
+      "box_SWNE": [
+        12,
+        127,
+        25,
+        142
+      ],
+      "model": "pangu_6h",
+      "state": "optimal",
+      "contributions": {
+        "relative_advection": -1.1096185261901526,
+        "planetary_advection": -0.004384024331803363,
+        "stretching": 2.859156953272689,
+        "residual": -0.10705243957314638,
+        "actual": 1.6381019625537871
+      },
+      "closure_float32": 6.237992344892973e-10
+    },
+    {
+      "region": "core",
+      "box_SWNE": [
+        12,
+        127,
+        25,
+        142
+      ],
+      "model": "pangu_6h",
+      "state": "era5init",
+      "contributions": {
+        "relative_advection": 4.160025931019634,
+        "planetary_advection": -0.10380610762358475,
+        "stretching": 3.4865153290283564,
+        "residual": 0.4042087592285147,
+        "actual": 7.946943924809206
+      },
+      "closure_float32": 1.3156285838533677e-08
+    },
+    {
+      "region": "expanded",
+      "box_SWNE": [
+        10,
+        124,
+        28,
+        145
+      ],
+      "model": "tianxing",
+      "state": "control",
+      "contributions": {
+        "relative_advection": 1.4077213282201475,
+        "planetary_advection": -0.04827137315304906,
+        "stretching": 1.0642253231115497,
+        "residual": 0.37156858606145626,
+        "actual": 2.795243862285594
+      },
+      "closure_float32": 1.9545103313589607e-09
+    },
+    {
+      "region": "expanded",
+      "box_SWNE": [
+        10,
+        124,
+        28,
+        145
+      ],
+      "model": "tianxing",
+      "state": "optimal",
+      "contributions": {
+        "relative_advection": -0.5077747192502058,
+        "planetary_advection": -0.014586547404975326,
+        "stretching": 1.26443035225794,
+        "residual": 0.1943491939376916,
+        "actual": 0.9364182777186029
+      },
+      "closure_float32": 1.821847672722754e-09
+    },
+    {
+      "region": "expanded",
+      "box_SWNE": [
+        10,
+        124,
+        28,
+        145
+      ],
+      "model": "tianxing",
+      "state": "era5init",
+      "contributions": {
+        "relative_advection": 1.9943305372241886,
+        "planetary_advection": -0.046966634261123796,
+        "stretching": 1.8196280109814766,
+        "residual": 0.02502540074607088,
+        "actual": 3.7920173257464453
+      },
+      "closure_float32": 1.105583313787406e-08
+    },
+    {
+      "region": "expanded",
+      "box_SWNE": [
+        10,
+        124,
+        28,
+        145
+      ],
+      "model": "pangu_6h",
+      "state": "control",
+      "contributions": {
+        "relative_advection": 2.6799323039338705,
+        "planetary_advection": 0.04880461970078385,
+        "stretching": 1.5204336226077957,
+        "residual": 0.3575040955179459,
+        "actual": 4.606674639351696
+      },
+      "closure_float32": 2.408699906197853e-09
+    },
+    {
+      "region": "expanded",
+      "box_SWNE": [
+        10,
+        124,
+        28,
+        145
+      ],
+      "model": "pangu_6h",
+      "state": "optimal",
+      "contributions": {
+        "relative_advection": -0.5419180019911101,
+        "planetary_advection": -0.0049170104029731395,
+        "stretching": 1.3157543634999374,
+        "residual": 0.1477536398950725,
+        "actual": 0.9166729930237121
+      },
+      "closure_float32": 2.0227853836374265e-09
+    },
+    {
+      "region": "expanded",
+      "box_SWNE": [
+        10,
+        124,
+        28,
+        145
+      ],
+      "model": "pangu_6h",
+      "state": "era5init",
+      "contributions": {
+        "relative_advection": 3.141267091150667,
+        "planetary_advection": 0.021688904896861698,
+        "stretching": 2.0061506124621156,
+        "residual": 0.14391174500171763,
+        "actual": 5.313018357739196
+      },
+      "closure_float32": 4.2278349710045404e-09
+    },
+    {
+      "region": "west_shift",
+      "box_SWNE": [
+        12,
+        124,
+        25,
+        139
+      ],
+      "model": "tianxing",
+      "state": "control",
+      "contributions": {
+        "relative_advection": 1.9188423011716145,
+        "planetary_advection": 0.02588854098092866,
+        "stretching": 2.4062763544310153,
+        "residual": 0.5773110358337188,
+        "actual": 4.928318228264636
+      },
+      "closure_float32": 4.152641785992728e-09
+    },
+    {
+      "region": "west_shift",
+      "box_SWNE": [
+        12,
+        124,
+        25,
+        139
+      ],
+      "model": "tianxing",
+      "state": "optimal",
+      "contributions": {
+        "relative_advection": -1.208009208426606,
+        "planetary_advection": -0.02786034084352366,
+        "stretching": 2.544563189771094,
+        "residual": 0.22746526110180082,
+        "actual": 1.536158897447147
+      },
+      "closure_float32": 4.155618293921748e-09
+    },
+    {
+      "region": "west_shift",
+      "box_SWNE": [
+        12,
+        124,
+        25,
+        139
+      ],
+      "model": "tianxing",
+      "state": "era5init",
+      "contributions": {
+        "relative_advection": 2.627527760315178,
+        "planetary_advection": 0.06899069247522252,
+        "stretching": 4.020698941590921,
+        "residual": -0.0908617656476603,
+        "actual": 6.6263556463273705
+      },
+      "closure_float32": 1.7593708712126954e-08
+    },
+    {
+      "region": "west_shift",
+      "box_SWNE": [
+        12,
+        124,
+        25,
+        139
+      ],
+      "model": "pangu_6h",
+      "state": "control",
+      "contributions": {
+        "relative_advection": 3.250906717074372,
+        "planetary_advection": 0.24978484096792497,
+        "stretching": 3.3947557314362538,
+        "residual": 0.8080520250837072,
+        "actual": 7.703499310652014
+      },
+      "closure_float32": 3.9102436844018484e-09
+    },
+    {
+      "region": "west_shift",
+      "box_SWNE": [
+        12,
+        124,
+        25,
+        139
+      ],
+      "model": "pangu_6h",
+      "state": "optimal",
+      "contributions": {
+        "relative_advection": -0.971278545317694,
+        "planetary_advection": 0.025603109816880833,
+        "stretching": 2.861356894472843,
+        "residual": -0.1960849905635434,
+        "actual": 1.719596469304168
+      },
+      "closure_float32": 8.95681528945147e-10
+    },
+    {
+      "region": "west_shift",
+      "box_SWNE": [
+        12,
+        124,
+        25,
+        139
+      ],
+      "model": "pangu_6h",
+      "state": "era5init",
+      "contributions": {
+        "relative_advection": 4.146969439643789,
+        "planetary_advection": 0.2146446407512101,
+        "stretching": 4.543156975837162,
+        "residual": 0.4905169610482527,
+        "actual": 9.395288029324176
+      },
+      "closure_float32": 1.2043763319979917e-08
+    },
+    {
+      "region": "east_shift",
+      "box_SWNE": [
+        12,
+        130,
+        25,
+        145
+      ],
+      "model": "tianxing",
+      "state": "control",
+      "contributions": {
+        "relative_advection": 0.9707705678273529,
+        "planetary_advection": 0.00442932252744653,
+        "stretching": 1.6023049326334968,
+        "residual": 0.5586396432044668,
+        "actual": 3.136144466436617
+      },
+      "closure_float32": 2.438538260207679e-10
+    },
+    {
+      "region": "east_shift",
+      "box_SWNE": [
+        12,
+        130,
+        25,
+        145
+      ],
+      "model": "tianxing",
+      "state": "optimal",
+      "contributions": {
+        "relative_advection": -0.7166313530851518,
+        "planetary_advection": -0.016205521557237392,
+        "stretching": 2.0969332020084104,
+        "residual": 0.07085691086893127,
+        "actual": 1.4349532353904475
+      },
+      "closure_float32": 2.8445048538827677e-09
+    },
+    {
+      "region": "east_shift",
+      "box_SWNE": [
+        12,
+        130,
+        25,
+        145
+      ],
+      "model": "tianxing",
+      "state": "era5init",
+      "contributions": {
+        "relative_advection": 1.2802312407892855,
+        "planetary_advection": -0.007597853571789631,
+        "stretching": 2.000514632394398,
+        "residual": 0.45783816444019587,
+        "actual": 3.730986191915086
+      },
+      "closure_float32": 7.862996032059755e-09
+    },
+    {
+      "region": "east_shift",
+      "box_SWNE": [
+        12,
+        130,
+        25,
+        145
+      ],
+      "model": "pangu_6h",
+      "state": "control",
+      "contributions": {
+        "relative_advection": 1.3285494990675073,
+        "planetary_advection": -0.13332976716836567,
+        "stretching": 1.870917312139488,
+        "residual": 0.47013324438231724,
+        "actual": 3.536270283888025
+      },
+      "closure_float32": 4.532921593636274e-09
+    },
+    {
+      "region": "east_shift",
+      "box_SWNE": [
+        12,
+        130,
+        25,
+        145
+      ],
+      "model": "pangu_6h",
+      "state": "optimal",
+      "contributions": {
+        "relative_advection": -0.6562502403609576,
+        "planetary_advection": 0.0037892612861303993,
+        "stretching": 2.0573898086853704,
+        "residual": 0.17256139554510708,
+        "actual": 1.5774902213512896
+      },
+      "closure_float32": 3.8043608263649276e-09
+    },
+    {
+      "region": "east_shift",
+      "box_SWNE": [
+        12,
+        130,
+        25,
+        145
+      ],
+      "model": "pangu_6h",
+      "state": "era5init",
+      "contributions": {
+        "relative_advection": 1.9985012810653604,
+        "planetary_advection": -0.18434710274071028,
+        "stretching": 1.7385533965446665,
+        "residual": 0.35019295966824027,
+        "actual": 3.9029005376141184
+      },
+      "closure_float32": 3.0765616720884736e-09
+    },
+    {
+      "region": "north_shift",
+      "box_SWNE": [
+        15,
+        127,
+        28,
+        142
+      ],
+      "model": "tianxing",
+      "state": "control",
+      "contributions": {
+        "relative_advection": 2.0707827368160427,
+        "planetary_advection": -0.11333644207168458,
+        "stretching": 1.8471269515262665,
+        "residual": 0.572244965999663,
+        "actual": 4.376818210001183
+      },
+      "closure_float32": 2.2691049039735844e-09
+    },
+    {
+      "region": "north_shift",
+      "box_SWNE": [
+        15,
+        127,
+        28,
+        142
+      ],
+      "model": "tianxing",
+      "state": "optimal",
+      "contributions": {
+        "relative_advection": -1.2195177402730275,
+        "planetary_advection": -0.06818167720536181,
+        "stretching": 2.717156103965446,
+        "residual": 0.06409815574915778,
+        "actual": 1.4935548384853934
+      },
+      "closure_float32": 3.750821209180799e-09
+    },
+    {
+      "region": "north_shift",
+      "box_SWNE": [
+        15,
+        127,
+        28,
+        142
+      ],
+      "model": "tianxing",
+      "state": "era5init",
+      "contributions": {
+        "relative_advection": 3.15233381066888,
+        "planetary_advection": -0.15998951217406646,
+        "stretching": 2.7173925843856974,
+        "residual": 0.07065950148171818,
+        "actual": 5.780396402303394
+      },
+      "closure_float32": 1.7941164109913643e-08
+    },
+    {
+      "region": "north_shift",
+      "box_SWNE": [
+        15,
+        127,
+        28,
+        142
+      ],
+      "model": "pangu_6h",
+      "state": "control",
+      "contributions": {
+        "relative_advection": 4.175559581414962,
+        "planetary_advection": -0.1148638400886147,
+        "stretching": 2.651457094715516,
+        "residual": 0.5780530048119705,
+        "actual": 7.290205831498085
+      },
+      "closure_float32": 9.355749952533188e-09
+    },
+    {
+      "region": "north_shift",
+      "box_SWNE": [
+        15,
+        127,
+        28,
+        142
+      ],
+      "model": "pangu_6h",
+      "state": "optimal",
+      "contributions": {
+        "relative_advection": -1.1113446931041695,
+        "planetary_advection": -0.019813539674486354,
+        "stretching": 2.6741698432277783,
+        "residual": 0.0783742580623948,
+        "actual": 1.6213858686217915
+      },
+      "closure_float32": 1.1027423418852322e-10
+    },
+    {
+      "region": "north_shift",
+      "box_SWNE": [
+        15,
+        127,
+        28,
+        142
+      ],
+      "model": "pangu_6h",
+      "state": "era5init",
+      "contributions": {
+        "relative_advection": 5.445250210280385,
+        "planetary_advection": -0.16841918861217595,
+        "stretching": 3.201822430699628,
+        "residual": 0.3348190478236374,
+        "actual": 8.813472511165804
+      },
+      "closure_float32": 1.0974329001101069e-08
+    }
+  ]
+}

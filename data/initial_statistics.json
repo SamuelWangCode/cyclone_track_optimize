@@ -1,0 +1,691 @@
+{
+  "statistics": [
+    {
+      "region": "Philippine_Sea",
+      "variable": "u700",
+      "mean": 0.011040496525851165,
+      "rms": 1.237562069430273,
+      "positive_area_fraction": 0.49436328801228263,
+      "maximum": {
+        "value": 10.093476802110672,
+        "lat": 20.0,
+        "lon": 131.0
+      },
+      "minimum": {
+        "value": -4.358422756195068,
+        "lat": 16.75,
+        "lon": 130.5
+      }
+    },
+    {
+      "region": "Philippine_Sea",
+      "variable": "v700",
+      "mean": 0.18102507695203338,
+      "rms": 0.8383212103638901,
+      "positive_area_fraction": 0.6382533733332052,
+      "maximum": {
+        "value": 5.782971382141113,
+        "lat": 22.0,
+        "lon": 130.5
+      },
+      "minimum": {
+        "value": -4.474584506824613,
+        "lat": 20.0,
+        "lon": 130.0
+      }
+    },
+    {
+      "region": "Philippine_Sea",
+      "variable": "q925",
+      "mean": -0.2579596105054955,
+      "rms": 0.5996992648301586,
+      "positive_area_fraction": 0.39528998230955215,
+      "maximum": {
+        "value": 0.8880570530891418,
+        "lat": 12.0,
+        "lon": 145.0
+      },
+      "minimum": {
+        "value": -2.986363135278225,
+        "lat": 18.5,
+        "lon": 127.0
+      }
+    },
+    {
+      "region": "Philippine_Sea",
+      "variable": "q700",
+      "mean": 0.04811177477423451,
+      "rms": 0.16502360882776945,
+      "positive_area_fraction": 0.5982992614038893,
+      "maximum": {
+        "value": 0.8665118366479874,
+        "lat": 17.5,
+        "lon": 132.5
+      },
+      "minimum": {
+        "value": -0.4885289818048477,
+        "lat": 16.5,
+        "lon": 144.0
+      }
+    },
+    {
+      "region": "Philippine_Sea",
+      "variable": "t850",
+      "mean": -0.004645512329900899,
+      "rms": 0.021485719084072596,
+      "positive_area_fraction": 0.49305555449192207,
+      "maximum": {
+        "value": 0.08514404296875,
+        "lat": 12.75,
+        "lon": 136.75
+      },
+      "minimum": {
+        "value": -0.1435546875,
+        "lat": 15.0,
+        "lon": 136.0
+      }
+    },
+    {
+      "region": "Philippine_Sea",
+      "variable": "t700",
+      "mean": -0.0025650093079088374,
+      "rms": 0.031648415735083334,
+      "positive_area_fraction": 0.5855015957562638,
+      "maximum": {
+        "value": 0.119476318359375,
+        "lat": 12.0,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -0.19598388671875,
+        "lat": 17.5,
+        "lon": 130.5
+      }
+    },
+    {
+      "region": "Philippine_Sea",
+      "variable": "z500",
+      "mean": -0.09763051512846292,
+      "rms": 0.5955501510447876,
+      "positive_area_fraction": 0.45052841521728904,
+      "maximum": {
+        "value": 3.1208892690164327,
+        "lat": 19.5,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -2.9336757455400164,
+        "lat": 18.5,
+        "lon": 127.5
+      }
+    },
+    {
+      "region": "Philippine_Sea",
+      "variable": "r925",
+      "mean": -1.2133053936016207,
+      "rms": 2.896118155265464,
+      "positive_area_fraction": 0.40385171419706345,
+      "maximum": {
+        "value": 4.19671630859375,
+        "lat": 12.0,
+        "lon": 145.0
+      },
+      "minimum": {
+        "value": -14.215499877929688,
+        "lat": 18.5,
+        "lon": 127.0
+      }
+    },
+    {
+      "region": "Philippine_Sea",
+      "variable": "r700",
+      "mean": 0.4376674611154224,
+      "rms": 1.3889713743076628,
+      "positive_area_fraction": 0.5989610583042417,
+      "maximum": {
+        "value": 7.2086639404296875,
+        "lat": 17.5,
+        "lon": 132.5
+      },
+      "minimum": {
+        "value": -3.9652786254882812,
+        "lat": 16.5,
+        "lon": 144.0
+      }
+    },
+    {
+      "region": "Philippine_Sea",
+      "variable": "msl",
+      "mean": 0.02235256399050852,
+      "rms": 0.05457566508199351,
+      "positive_area_fraction": 0.6514335658050429,
+      "maximum": {
+        "value": 0.281875,
+        "lat": 18.5,
+        "lon": 128.5
+      },
+      "minimum": {
+        "value": -0.10359375,
+        "lat": 12.0,
+        "lon": 137.0
+      }
+    },
+    {
+      "region": "eastern_core",
+      "variable": "u700",
+      "mean": 1.8969498147850592,
+      "rms": 3.297656655418285,
+      "positive_area_fraction": 0.7982199650673185,
+      "maximum": {
+        "value": 10.093476802110672,
+        "lat": 20.0,
+        "lon": 131.0
+      },
+      "minimum": {
+        "value": -2.161557197570801,
+        "lat": 18.0,
+        "lon": 128.75
+      }
+    },
+    {
+      "region": "eastern_core",
+      "variable": "v700",
+      "mean": 0.35286344860060675,
+      "rms": 1.9000936127811947,
+      "positive_area_fraction": 0.599387810155211,
+      "maximum": {
+        "value": 5.782971382141113,
+        "lat": 22.0,
+        "lon": 130.5
+      },
+      "minimum": {
+        "value": -4.474584506824613,
+        "lat": 20.0,
+        "lon": 130.0
+      }
+    },
+    {
+      "region": "eastern_core",
+      "variable": "q925",
+      "mean": -0.24071482538121192,
+      "rms": 0.6686530191060429,
+      "positive_area_fraction": 0.4819201507330378,
+      "maximum": {
+        "value": 0.6511788815259933,
+        "lat": 21.5,
+        "lon": 129.5
+      },
+      "minimum": {
+        "value": -2.781645394861698,
+        "lat": 18.0,
+        "lon": 128.75
+      }
+    },
+    {
+      "region": "eastern_core",
+      "variable": "q700",
+      "mean": 0.12436966543117423,
+      "rms": 0.255622823602504,
+      "positive_area_fraction": 0.6787464093091589,
+      "maximum": {
+        "value": 0.7910598069429398,
+        "lat": 18.0,
+        "lon": 132.5
+      },
+      "minimum": {
+        "value": -0.2792198210954666,
+        "lat": 22.0,
+        "lon": 131.0
+      }
+    },
+    {
+      "region": "eastern_core",
+      "variable": "t850",
+      "mean": -0.009336975314589904,
+      "rms": 0.024105104027252553,
+      "positive_area_fraction": 0.4340168178000323,
+      "maximum": {
+        "value": 0.021209716796875,
+        "lat": 19.25,
+        "lon": 131.5
+      },
+      "minimum": {
+        "value": -0.07830810546875,
+        "lat": 18.25,
+        "lon": 130.0
+      }
+    },
+    {
+      "region": "eastern_core",
+      "variable": "t700",
+      "mean": 0.006941487352007621,
+      "rms": 0.02935767152230293,
+      "positive_area_fraction": 0.6951394029710667,
+      "maximum": {
+        "value": 0.068634033203125,
+        "lat": 21.0,
+        "lon": 129.5
+      },
+      "minimum": {
+        "value": -0.15087890625,
+        "lat": 18.0,
+        "lon": 130.5
+      }
+    },
+    {
+      "region": "eastern_core",
+      "variable": "z500",
+      "mean": 0.07914732901692323,
+      "rms": 1.0255871114590887,
+      "positive_area_fraction": 0.48786450576035356,
+      "maximum": {
+        "value": 3.1208892690164327,
+        "lat": 19.5,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -1.8004364385391547,
+        "lat": 18.5,
+        "lon": 128.0
+      }
+    },
+    {
+      "region": "eastern_core",
+      "variable": "r925",
+      "mean": -1.1056029458537826,
+      "rms": 3.1865772214141774,
+      "positive_area_fraction": 0.49528383883181837,
+      "maximum": {
+        "value": 3.4189987182617188,
+        "lat": 21.5,
+        "lon": 129.5
+      },
+      "minimum": {
+        "value": -13.570854187011719,
+        "lat": 18.0,
+        "lon": 128.75
+      }
+    },
+    {
+      "region": "eastern_core",
+      "variable": "r700",
+      "mean": 1.041139792101307,
+      "rms": 2.172572853351818,
+      "positive_area_fraction": 0.651745703477006,
+      "maximum": {
+        "value": 6.490745544433594,
+        "lat": 18.0,
+        "lon": 132.5
+      },
+      "minimum": {
+        "value": -2.287139892578125,
+        "lat": 22.0,
+        "lon": 131.0
+      }
+    },
+    {
+      "region": "eastern_core",
+      "variable": "msl",
+      "mean": 0.033286025211677846,
+      "rms": 0.07638160567042072,
+      "positive_area_fraction": 0.6214528023613155,
+      "maximum": {
+        "value": 0.281875,
+        "lat": 18.5,
+        "lon": 128.5
+      },
+      "minimum": {
+        "value": -0.090390625,
+        "lat": 21.0,
+        "lon": 130.5
+      }
+    },
+    {
+      "region": "eastern_south",
+      "variable": "u700",
+      "mean": -0.1898178521253159,
+      "rms": 1.2145795480259436,
+      "positive_area_fraction": 0.3072489443340949,
+      "maximum": {
+        "value": 10.093476802110672,
+        "lat": 20.0,
+        "lon": 131.0
+      },
+      "minimum": {
+        "value": -4.358422756195068,
+        "lat": 16.75,
+        "lon": 130.5
+      }
+    },
+    {
+      "region": "eastern_south",
+      "variable": "v700",
+      "mean": 0.2240585515251558,
+      "rms": 0.9282335024101428,
+      "positive_area_fraction": 0.5068585506597978,
+      "maximum": {
+        "value": 4.971787929534912,
+        "lat": 18.0,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -4.474584506824613,
+        "lat": 20.0,
+        "lon": 130.0
+      }
+    },
+    {
+      "region": "eastern_south",
+      "variable": "q925",
+      "mean": -0.4320458986114556,
+      "rms": 0.7438736914598244,
+      "positive_area_fraction": 0.2021614439771811,
+      "maximum": {
+        "value": 0.8880570530891418,
+        "lat": 12.0,
+        "lon": 145.0
+      },
+      "minimum": {
+        "value": -2.986363135278225,
+        "lat": 18.5,
+        "lon": 127.0
+      }
+    },
+    {
+      "region": "eastern_south",
+      "variable": "q700",
+      "mean": 0.0814483641072627,
+      "rms": 0.19947753696446388,
+      "positive_area_fraction": 0.6631753607542645,
+      "maximum": {
+        "value": 0.8665118366479874,
+        "lat": 17.5,
+        "lon": 132.5
+      },
+      "minimum": {
+        "value": -0.4885289818048477,
+        "lat": 16.5,
+        "lon": 144.0
+      }
+    },
+    {
+      "region": "eastern_south",
+      "variable": "t850",
+      "mean": -0.009529436655033427,
+      "rms": 0.026255983495302997,
+      "positive_area_fraction": 0.33303637493897953,
+      "maximum": {
+        "value": 0.08514404296875,
+        "lat": 12.75,
+        "lon": 136.75
+      },
+      "minimum": {
+        "value": -0.1435546875,
+        "lat": 15.0,
+        "lon": 136.0
+      }
+    },
+    {
+      "region": "eastern_south",
+      "variable": "t700",
+      "mean": -0.007355567040905097,
+      "rms": 0.03855750477946681,
+      "positive_area_fraction": 0.48219107887122004,
+      "maximum": {
+        "value": 0.119476318359375,
+        "lat": 12.0,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -0.19598388671875,
+        "lat": 17.5,
+        "lon": 130.5
+      }
+    },
+    {
+      "region": "eastern_south",
+      "variable": "z500",
+      "mean": -0.07535638046027104,
+      "rms": 0.6670337358475797,
+      "positive_area_fraction": 0.5122810483764804,
+      "maximum": {
+        "value": 3.1208892690164327,
+        "lat": 19.5,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -2.9336757455400164,
+        "lat": 18.5,
+        "lon": 127.5
+      }
+    },
+    {
+      "region": "eastern_south",
+      "variable": "r925",
+      "mean": -2.045966829453535,
+      "rms": 3.592739962242227,
+      "positive_area_fraction": 0.20751542701832365,
+      "maximum": {
+        "value": 4.19671630859375,
+        "lat": 12.0,
+        "lon": 145.0
+      },
+      "minimum": {
+        "value": -14.215499877929688,
+        "lat": 18.5,
+        "lon": 127.0
+      }
+    },
+    {
+      "region": "eastern_south",
+      "variable": "r700",
+      "mean": 0.7482803027467351,
+      "rms": 1.683299650929918,
+      "positive_area_fraction": 0.6833147892041964,
+      "maximum": {
+        "value": 7.2086639404296875,
+        "lat": 17.5,
+        "lon": 132.5
+      },
+      "minimum": {
+        "value": -3.9652786254882812,
+        "lat": 16.5,
+        "lon": 144.0
+      }
+    },
+    {
+      "region": "eastern_south",
+      "variable": "msl",
+      "mean": 0.03688335324912945,
+      "rms": 0.06744309786795594,
+      "positive_area_fraction": 0.7906937947208547,
+      "maximum": {
+        "value": 0.281875,
+        "lat": 18.5,
+        "lon": 128.5
+      },
+      "minimum": {
+        "value": -0.10359375,
+        "lat": 12.0,
+        "lon": 137.0
+      }
+    },
+    {
+      "region": "eastern_north",
+      "variable": "u700",
+      "mean": 0.395442169121612,
+      "rms": 1.369963200797627,
+      "positive_area_fraction": 0.8192553798735246,
+      "maximum": {
+        "value": 10.093476802110672,
+        "lat": 20.0,
+        "lon": 131.0
+      },
+      "minimum": {
+        "value": -1.119091510772705,
+        "lat": 22.75,
+        "lon": 130.0
+      }
+    },
+    {
+      "region": "eastern_north",
+      "variable": "v700",
+      "mean": 0.08213396670556941,
+      "rms": 0.6892517898736469,
+      "positive_area_fraction": 0.8477719366570948,
+      "maximum": {
+        "value": 5.782971382141113,
+        "lat": 22.0,
+        "lon": 130.5
+      },
+      "minimum": {
+        "value": -4.474584506824613,
+        "lat": 20.0,
+        "lon": 130.0
+      }
+    },
+    {
+      "region": "eastern_north",
+      "variable": "q925",
+      "mean": 0.03371145815136278,
+      "rms": 0.170040660570793,
+      "positive_area_fraction": 0.7156693637812115,
+      "maximum": {
+        "value": 0.6511788815259933,
+        "lat": 21.5,
+        "lon": 129.5
+      },
+      "minimum": {
+        "value": -0.8029453456401825,
+        "lat": 20.5,
+        "lon": 126.0
+      }
+    },
+    {
+      "region": "eastern_north",
+      "variable": "q700",
+      "mean": -0.005478091207398063,
+      "rms": 0.08198097431204443,
+      "positive_area_fraction": 0.49260225445472633,
+      "maximum": {
+        "value": 0.6154309958219528,
+        "lat": 20.25,
+        "lon": 130.25
+      },
+      "minimum": {
+        "value": -0.2792198210954666,
+        "lat": 22.0,
+        "lon": 131.0
+      }
+    },
+    {
+      "region": "eastern_north",
+      "variable": "t850",
+      "mean": 0.00364547439758192,
+      "rms": 0.008640621839039379,
+      "positive_area_fraction": 0.7665549355223471,
+      "maximum": {
+        "value": 0.05072021484375,
+        "lat": 22.0,
+        "lon": 125.5
+      },
+      "minimum": {
+        "value": -0.04150390625,
+        "lat": 20.0,
+        "lon": 128.75
+      }
+    },
+    {
+      "region": "eastern_north",
+      "variable": "t700",
+      "mean": 0.005564381113102479,
+      "rms": 0.012994287328558384,
+      "positive_area_fraction": 0.7612520315573816,
+      "maximum": {
+        "value": 0.068634033203125,
+        "lat": 21.0,
+        "lon": 129.5
+      },
+      "minimum": {
+        "value": -0.044281005859375,
+        "lat": 23.25,
+        "lon": 125.0
+      }
+    },
+    {
+      "region": "eastern_north",
+      "variable": "z500",
+      "mean": -0.12060908382179723,
+      "rms": 0.46592011761740854,
+      "positive_area_fraction": 0.3612824572031713,
+      "maximum": {
+        "value": 2.6552454201995586,
+        "lat": 20.0,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -1.6466823533010764,
+        "lat": 22.25,
+        "lon": 130.5
+      }
+    },
+    {
+      "region": "eastern_north",
+      "variable": "r925",
+      "mean": 0.18095556265795373,
+      "rms": 0.8148744073226992,
+      "positive_area_fraction": 0.7290582829669171,
+      "maximum": {
+        "value": 3.4189987182617188,
+        "lat": 21.5,
+        "lon": 129.5
+      },
+      "minimum": {
+        "value": -3.7525405883789062,
+        "lat": 20.5,
+        "lon": 126.0
+      }
+    },
+    {
+      "region": "eastern_north",
+      "variable": "r700",
+      "mean": -0.06481420943801741,
+      "rms": 0.6689270180748708,
+      "positive_area_fraction": 0.4608040354141054,
+      "maximum": {
+        "value": 4.9002532958984375,
+        "lat": 20.25,
+        "lon": 130.5
+      },
+      "minimum": {
+        "value": -2.287139892578125,
+        "lat": 22.0,
+        "lon": 131.0
+      }
+    },
+    {
+      "region": "eastern_north",
+      "variable": "msl",
+      "mean": -0.0016889600047898367,
+      "rms": 0.017419274533444627,
+      "positive_area_fraction": 0.4323726122800824,
+      "maximum": {
+        "value": 0.06765625,
+        "lat": 20.0,
+        "lon": 129.0
+      },
+      "minimum": {
+        "value": -0.090390625,
+        "lat": 21.0,
+        "lon": 130.5
+      }
+    }
+  ],
+  "support": {
+    "core_energy_fraction": 0.729402997756648,
+    "core_global_area_fraction": 0.09168374172864999,
+    "outer_support_energy_fraction": 0.729402997756648,
+    "global_energy_J_kg": 0.0268877453229321,
+    "note": "Energy fractions describe the original correction; actual retained energies are computed from exported inputs."
+  }
+}

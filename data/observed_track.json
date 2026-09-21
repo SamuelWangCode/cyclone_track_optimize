@@ -1,0 +1,711 @@
+{
+  "name": "SAUDEL",
+  "source": "ATCF bwp172026 via archived NaTyphoon file cited by Wikimedia Commons; NOAA origin as stated by the image author, not independently authenticated against the primary server",
+  "source_url": "https://web.archive.org/web/20260904051626if_/https://www.natyphoon.top/atcf/temp/bwp172026.dat",
+  "commons_table_matches_archived_file": true,
+  "raw_sha256": "71bf7874b917d2178b0ab3d575371988e80eda94709463b431160e715013d02a",
+  "not_final_best_track": true,
+  "points": [
+    {
+      "valid_time": "2026-08-17T12:00:00",
+      "lat": 8.2,
+      "lon": 156.1,
+      "wind_kt": 15,
+      "pressure_hPa": 1009,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-17T18:00:00",
+      "lat": 8.1,
+      "lon": 155.7,
+      "wind_kt": 20,
+      "pressure_hPa": 1009,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-18T00:00:00",
+      "lat": 8.1,
+      "lon": 155.5,
+      "wind_kt": 20,
+      "pressure_hPa": 1008,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-18T06:00:00",
+      "lat": 8.1,
+      "lon": 155.4,
+      "wind_kt": 25,
+      "pressure_hPa": 1006,
+      "nature": "TD"
+    },
+    {
+      "valid_time": "2026-08-18T12:00:00",
+      "lat": 8.1,
+      "lon": 155.1,
+      "wind_kt": 25,
+      "pressure_hPa": 1006,
+      "nature": "TD"
+    },
+    {
+      "valid_time": "2026-08-18T18:00:00",
+      "lat": 8.1,
+      "lon": 154.5,
+      "wind_kt": 30,
+      "pressure_hPa": 1005,
+      "nature": "TD"
+    },
+    {
+      "valid_time": "2026-08-19T00:00:00",
+      "lat": 8.1,
+      "lon": 154.2,
+      "wind_kt": 35,
+      "pressure_hPa": 1003,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-08-19T06:00:00",
+      "lat": 8.6,
+      "lon": 154.2,
+      "wind_kt": 35,
+      "pressure_hPa": 999,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-08-19T12:00:00",
+      "lat": 9.7,
+      "lon": 153.4,
+      "wind_kt": 35,
+      "pressure_hPa": 1000,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-08-19T18:00:00",
+      "lat": 10.8,
+      "lon": 152.7,
+      "wind_kt": 35,
+      "pressure_hPa": 1000,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-08-20T00:00:00",
+      "lat": 11.4,
+      "lon": 151.3,
+      "wind_kt": 35,
+      "pressure_hPa": 999,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-08-20T06:00:00",
+      "lat": 11.9,
+      "lon": 150.9,
+      "wind_kt": 35,
+      "pressure_hPa": 997,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-08-20T12:00:00",
+      "lat": 12.8,
+      "lon": 150.2,
+      "wind_kt": 40,
+      "pressure_hPa": 996,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-08-20T18:00:00",
+      "lat": 13.5,
+      "lon": 149.5,
+      "wind_kt": 45,
+      "pressure_hPa": 995,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-08-21T00:00:00",
+      "lat": 14.2,
+      "lon": 149.0,
+      "wind_kt": 50,
+      "pressure_hPa": 994,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-08-21T06:00:00",
+      "lat": 15.0,
+      "lon": 148.7,
+      "wind_kt": 60,
+      "pressure_hPa": 987,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-08-21T12:00:00",
+      "lat": 16.0,
+      "lon": 148.1,
+      "wind_kt": 70,
+      "pressure_hPa": 982,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-21T18:00:00",
+      "lat": 17.1,
+      "lon": 147.2,
+      "wind_kt": 80,
+      "pressure_hPa": 975,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-22T00:00:00",
+      "lat": 17.9,
+      "lon": 146.4,
+      "wind_kt": 85,
+      "pressure_hPa": 974,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-22T06:00:00",
+      "lat": 18.6,
+      "lon": 145.8,
+      "wind_kt": 95,
+      "pressure_hPa": 963,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-22T12:00:00",
+      "lat": 19.6,
+      "lon": 144.9,
+      "wind_kt": 105,
+      "pressure_hPa": 956,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-22T18:00:00",
+      "lat": 20.4,
+      "lon": 143.6,
+      "wind_kt": 115,
+      "pressure_hPa": 956,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-23T00:00:00",
+      "lat": 21.0,
+      "lon": 142.3,
+      "wind_kt": 110,
+      "pressure_hPa": 950,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-23T06:00:00",
+      "lat": 21.9,
+      "lon": 140.9,
+      "wind_kt": 110,
+      "pressure_hPa": 949,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-23T12:00:00",
+      "lat": 22.6,
+      "lon": 139.4,
+      "wind_kt": 110,
+      "pressure_hPa": 947,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-23T18:00:00",
+      "lat": 23.2,
+      "lon": 137.9,
+      "wind_kt": 110,
+      "pressure_hPa": 945,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-24T00:00:00",
+      "lat": 23.8,
+      "lon": 136.3,
+      "wind_kt": 105,
+      "pressure_hPa": 947,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-24T06:00:00",
+      "lat": 24.5,
+      "lon": 134.7,
+      "wind_kt": 105,
+      "pressure_hPa": 948,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-24T12:00:00",
+      "lat": 24.9,
+      "lon": 133.5,
+      "wind_kt": 100,
+      "pressure_hPa": 954,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-24T18:00:00",
+      "lat": 25.5,
+      "lon": 132.2,
+      "wind_kt": 95,
+      "pressure_hPa": 958,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-25T00:00:00",
+      "lat": 26.1,
+      "lon": 131.1,
+      "wind_kt": 85,
+      "pressure_hPa": 965,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-25T06:00:00",
+      "lat": 26.8,
+      "lon": 130.0,
+      "wind_kt": 85,
+      "pressure_hPa": 961,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-25T12:00:00",
+      "lat": 27.2,
+      "lon": 129.0,
+      "wind_kt": 85,
+      "pressure_hPa": 961,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-25T18:00:00",
+      "lat": 27.5,
+      "lon": 128.1,
+      "wind_kt": 85,
+      "pressure_hPa": 963,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-26T00:00:00",
+      "lat": 27.8,
+      "lon": 127.3,
+      "wind_kt": 85,
+      "pressure_hPa": 961,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-26T06:00:00",
+      "lat": 28.3,
+      "lon": 126.5,
+      "wind_kt": 85,
+      "pressure_hPa": 960,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-26T12:00:00",
+      "lat": 28.6,
+      "lon": 125.9,
+      "wind_kt": 80,
+      "pressure_hPa": 963,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-26T18:00:00",
+      "lat": 28.6,
+      "lon": 125.3,
+      "wind_kt": 80,
+      "pressure_hPa": 963,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-27T00:00:00",
+      "lat": 28.6,
+      "lon": 124.9,
+      "wind_kt": 80,
+      "pressure_hPa": 967,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-27T06:00:00",
+      "lat": 28.4,
+      "lon": 124.2,
+      "wind_kt": 75,
+      "pressure_hPa": 962,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-27T12:00:00",
+      "lat": 28.2,
+      "lon": 123.5,
+      "wind_kt": 70,
+      "pressure_hPa": 969,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-27T18:00:00",
+      "lat": 28.2,
+      "lon": 122.6,
+      "wind_kt": 65,
+      "pressure_hPa": 971,
+      "nature": "TY"
+    },
+    {
+      "valid_time": "2026-08-28T00:00:00",
+      "lat": 28.1,
+      "lon": 121.0,
+      "wind_kt": 55,
+      "pressure_hPa": 982,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-08-28T06:00:00",
+      "lat": 27.9,
+      "lon": 119.3,
+      "wind_kt": 40,
+      "pressure_hPa": 985,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-08-28T12:00:00",
+      "lat": 27.7,
+      "lon": 117.8,
+      "wind_kt": 30,
+      "pressure_hPa": 994,
+      "nature": "TD"
+    },
+    {
+      "valid_time": "2026-08-28T18:00:00",
+      "lat": 27.2,
+      "lon": 116.7,
+      "wind_kt": 20,
+      "pressure_hPa": 994,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-29T00:00:00",
+      "lat": 26.7,
+      "lon": 115.9,
+      "wind_kt": 15,
+      "pressure_hPa": 997,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-29T06:00:00",
+      "lat": 26.0,
+      "lon": 115.2,
+      "wind_kt": 15,
+      "pressure_hPa": 997,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-29T12:00:00",
+      "lat": 25.8,
+      "lon": 114.1,
+      "wind_kt": 15,
+      "pressure_hPa": 999,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-29T18:00:00",
+      "lat": 25.4,
+      "lon": 112.6,
+      "wind_kt": 15,
+      "pressure_hPa": 999,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-30T00:00:00",
+      "lat": 24.3,
+      "lon": 111.9,
+      "wind_kt": 15,
+      "pressure_hPa": 999,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-30T06:00:00",
+      "lat": 23.5,
+      "lon": 111.0,
+      "wind_kt": 15,
+      "pressure_hPa": 998,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-30T12:00:00",
+      "lat": 22.3,
+      "lon": 110.5,
+      "wind_kt": 15,
+      "pressure_hPa": 998,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-30T18:00:00",
+      "lat": 21.2,
+      "lon": 110.2,
+      "wind_kt": 20,
+      "pressure_hPa": 998,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-31T00:00:00",
+      "lat": 20.1,
+      "lon": 110.2,
+      "wind_kt": 20,
+      "pressure_hPa": 997,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-31T06:00:00",
+      "lat": 19.4,
+      "lon": 110.5,
+      "wind_kt": 25,
+      "pressure_hPa": 996,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-31T12:00:00",
+      "lat": 19.0,
+      "lon": 111.0,
+      "wind_kt": 25,
+      "pressure_hPa": 996,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-31T18:00:00",
+      "lat": 18.8,
+      "lon": 112.0,
+      "wind_kt": 25,
+      "pressure_hPa": 994,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-09-01T00:00:00",
+      "lat": 19.2,
+      "lon": 113.5,
+      "wind_kt": 30,
+      "pressure_hPa": 994,
+      "nature": "TD"
+    },
+    {
+      "valid_time": "2026-09-01T06:00:00",
+      "lat": 20.0,
+      "lon": 114.4,
+      "wind_kt": 35,
+      "pressure_hPa": 993,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-09-01T12:00:00",
+      "lat": 20.9,
+      "lon": 115.5,
+      "wind_kt": 35,
+      "pressure_hPa": 993,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-09-01T18:00:00",
+      "lat": 21.4,
+      "lon": 116.3,
+      "wind_kt": 30,
+      "pressure_hPa": 994,
+      "nature": "TD"
+    },
+    {
+      "valid_time": "2026-09-02T00:00:00",
+      "lat": 22.0,
+      "lon": 116.9,
+      "wind_kt": 30,
+      "pressure_hPa": 994,
+      "nature": "TD"
+    },
+    {
+      "valid_time": "2026-09-02T06:00:00",
+      "lat": 22.2,
+      "lon": 117.2,
+      "wind_kt": 30,
+      "pressure_hPa": 993,
+      "nature": "TD"
+    },
+    {
+      "valid_time": "2026-09-02T12:00:00",
+      "lat": 22.9,
+      "lon": 118.2,
+      "wind_kt": 35,
+      "pressure_hPa": 993,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-09-02T18:00:00",
+      "lat": 23.3,
+      "lon": 118.4,
+      "wind_kt": 40,
+      "pressure_hPa": 990,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-09-03T00:00:00",
+      "lat": 23.8,
+      "lon": 117.4,
+      "wind_kt": 40,
+      "pressure_hPa": 989,
+      "nature": "TS"
+    },
+    {
+      "valid_time": "2026-09-03T06:00:00",
+      "lat": 24.3,
+      "lon": 116.4,
+      "wind_kt": 30,
+      "pressure_hPa": 993,
+      "nature": "TD"
+    },
+    {
+      "valid_time": "2026-09-03T12:00:00",
+      "lat": 24.6,
+      "lon": 115.4,
+      "wind_kt": 20,
+      "pressure_hPa": 998,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-09-03T18:00:00",
+      "lat": 24.6,
+      "lon": 114.6,
+      "wind_kt": 15,
+      "pressure_hPa": 1000,
+      "nature": "DB"
+    }
+  ],
+  "CMA_missing_target_times_filled_in_ATCF": [
+    {
+      "valid_time": "2026-08-30T12:00:00",
+      "lat": 22.3,
+      "lon": 110.5,
+      "wind_kt": 15,
+      "pressure_hPa": 998,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-30T18:00:00",
+      "lat": 21.2,
+      "lon": 110.2,
+      "wind_kt": 20,
+      "pressure_hPa": 998,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-31T00:00:00",
+      "lat": 20.1,
+      "lon": 110.2,
+      "wind_kt": 20,
+      "pressure_hPa": 997,
+      "nature": "DB"
+    },
+    {
+      "valid_time": "2026-08-31T06:00:00",
+      "lat": 19.4,
+      "lon": 110.5,
+      "wind_kt": 25,
+      "pressure_hPa": 996,
+      "nature": "DB"
+    }
+  ],
+  "target_window_UTC": [
+    "2026-08-27T00:00:00",
+    "2026-09-03T00:00:00"
+  ],
+  "future_target_count": 28,
+  "CMA_overlap_n": 24,
+  "CMA_overlap_mean_distance_km": 42.549783040433326,
+  "CMA_overlap_max_distance_km": 101.98851623054733,
+  "CMA_overlap": [
+    {
+      "valid_time": "2026-08-27T06:00:00",
+      "distance_km": 11.11950802335366
+    },
+    {
+      "valid_time": "2026-08-27T12:00:00",
+      "distance_km": 11.11950802335366
+    },
+    {
+      "valid_time": "2026-08-27T18:00:00",
+      "distance_km": 22.541869394367676
+    },
+    {
+      "valid_time": "2026-08-28T00:00:00",
+      "distance_km": 29.426442835478387
+    },
+    {
+      "valid_time": "2026-08-28T06:00:00",
+      "distance_km": 90.45188488024513
+    },
+    {
+      "valid_time": "2026-08-28T12:00:00",
+      "distance_km": 74.02963273445575
+    },
+    {
+      "valid_time": "2026-08-28T18:00:00",
+      "distance_km": 51.78744964228728
+    },
+    {
+      "valid_time": "2026-08-29T00:00:00",
+      "distance_km": 38.81331584728596
+    },
+    {
+      "valid_time": "2026-08-29T06:00:00",
+      "distance_km": 89.51188546658871
+    },
+    {
+      "valid_time": "2026-08-29T12:00:00",
+      "distance_km": 101.98851623054733
+    },
+    {
+      "valid_time": "2026-08-29T18:00:00",
+      "distance_km": 37.43151800459297
+    },
+    {
+      "valid_time": "2026-08-30T00:00:00",
+      "distance_km": 15.042193524102908
+    },
+    {
+      "valid_time": "2026-08-30T06:00:00",
+      "distance_km": 42.262546642997684
+    },
+    {
+      "valid_time": "2026-08-31T12:00:00",
+      "distance_km": 92.14675463315363
+    },
+    {
+      "valid_time": "2026-08-31T18:00:00",
+      "distance_km": 61.21185758543634
+    },
+    {
+      "valid_time": "2026-09-01T00:00:00",
+      "distance_km": 56.99109590983403
+    },
+    {
+      "valid_time": "2026-09-01T06:00:00",
+      "distance_km": 11.119508023353307
+    },
+    {
+      "valid_time": "2026-09-01T12:00:00",
+      "distance_km": 43.02702671236181
+    },
+    {
+      "valid_time": "2026-09-01T18:00:00",
+      "distance_km": 23.50882651766728
+    },
+    {
+      "valid_time": "2026-09-02T00:00:00",
+      "distance_km": 15.16610892398744
+    },
+    {
+      "valid_time": "2026-09-02T06:00:00",
+      "distance_km": 23.407511688790475
+    },
+    {
+      "valid_time": "2026-09-02T12:00:00",
+      "distance_km": 52.869978905605244
+    },
+    {
+      "valid_time": "2026-09-02T18:00:00",
+      "distance_km": 15.100344797200185
+    },
+    {
+      "valid_time": "2026-09-03T00:00:00",
+      "distance_km": 11.119508023352953
+    }
+  ],
+  "usage": "Separate full-life-cycle reference comparison; never silently splice into CMA or erase earlier scores"
+}

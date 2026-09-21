@@ -1,0 +1,6340 @@
+{
+  "statistics": [
+    {
+      "model": "tianxing",
+      "lead_hours": 0,
+      "level_hpa": 850,
+      "variable": "delta_zeta",
+      "mean": -0.0238095585066269,
+      "rms": 0.3051211235374325,
+      "positive_area_fraction": 0.46629508359451005,
+      "maximum": {
+        "value": 1.1644343179664096,
+        "lat": 22.25,
+        "lon": 128.75
+      },
+      "minimum": {
+        "value": -1.2825075289512733,
+        "lat": 19.0,
+        "lon": 130.75
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 0,
+      "level_hpa": 850,
+      "variable": "delta_divergence",
+      "mean": 0.01483102212981045,
+      "rms": 0.21908292387656145,
+      "positive_area_fraction": 0.5970670708969923,
+      "maximum": {
+        "value": 1.2147963142678724,
+        "lat": 20.5,
+        "lon": 129.75
+      },
+      "minimum": {
+        "value": -0.7639490355208013,
+        "lat": 20.0,
+        "lon": 132.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 0,
+      "level_hpa": 850,
+      "variable": "delta_relative_advection",
+      "mean": 0.10032986464381016,
+      "rms": 0.46914441996651696,
+      "positive_area_fraction": 0.5249582571355446,
+      "maximum": {
+        "value": 3.82762706558386,
+        "lat": 21.5,
+        "lon": 131.0
+      },
+      "minimum": {
+        "value": -0.5574683901199857,
+        "lat": 19.0,
+        "lon": 132.5
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 0,
+      "level_hpa": 850,
+      "variable": "delta_q",
+      "mean": -0.029535662988107773,
+      "rms": 0.11745686076141106,
+      "positive_area_fraction": 0.5011958503010142,
+      "maximum": {
+        "value": 0.24165411320745953,
+        "lat": 12.25,
+        "lon": 137.0
+      },
+      "minimum": {
+        "value": -0.4021368211100996,
+        "lat": 17.75,
+        "lon": 128.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 0,
+      "level_hpa": 850,
+      "variable": "delta_t",
+      "mean": -0.005538383205057251,
+      "rms": 0.01609071319571861,
+      "positive_area_fraction": 0.5179540689177355,
+      "maximum": {
+        "value": 0.02659172612340548,
+        "lat": 12.25,
+        "lon": 136.75
+      },
+      "minimum": {
+        "value": -0.05687564527554532,
+        "lat": 15.0,
+        "lon": 136.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 0,
+      "level_hpa": 850,
+      "variable": "delta_rh",
+      "mean": -0.15964062078226504,
+      "rms": 0.661198171434089,
+      "positive_area_fraction": 0.4967917954647712,
+      "maximum": {
+        "value": 1.3583432406253302,
+        "lat": 12.25,
+        "lon": 137.0
+      },
+      "minimum": {
+        "value": -2.34029105690817,
+        "lat": 17.75,
+        "lon": 127.75
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 0,
+      "level_hpa": 700,
+      "variable": "delta_zeta",
+      "mean": -0.039671269386266514,
+      "rms": 0.732831489997502,
+      "positive_area_fraction": 0.5553292566689235,
+      "maximum": {
+        "value": 2.675014467722693,
+        "lat": 21.75,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -3.497257848659898,
+        "lat": 18.25,
+        "lon": 130.75
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 0,
+      "level_hpa": 700,
+      "variable": "delta_divergence",
+      "mean": 0.00982415906232819,
+      "rms": 0.37798718054463215,
+      "positive_area_fraction": 0.5402031799504021,
+      "maximum": {
+        "value": 1.995564699838244,
+        "lat": 21.0,
+        "lon": 129.0
+      },
+      "minimum": {
+        "value": -1.5921964269469975,
+        "lat": 19.25,
+        "lon": 131.75
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 0,
+      "level_hpa": 700,
+      "variable": "delta_relative_advection",
+      "mean": 0.13338541059104617,
+      "rms": 0.9161060153408473,
+      "positive_area_fraction": 0.495884774858219,
+      "maximum": {
+        "value": 6.21636870749975,
+        "lat": 21.75,
+        "lon": 130.75
+      },
+      "minimum": {
+        "value": -3.057479316164964,
+        "lat": 19.25,
+        "lon": 131.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 0,
+      "level_hpa": 700,
+      "variable": "delta_q",
+      "mean": 0.0693544047065992,
+      "rms": 0.13761612171339838,
+      "positive_area_fraction": 0.6622878396153511,
+      "maximum": {
+        "value": 0.4283895358063449,
+        "lat": 17.75,
+        "lon": 132.5
+      },
+      "minimum": {
+        "value": -0.1564942626312348,
+        "lat": 16.5,
+        "lon": 127.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 0,
+      "level_hpa": 700,
+      "variable": "delta_t",
+      "mean": -0.000560368502600482,
+      "rms": 0.02269018199900838,
+      "positive_area_fraction": 0.6447299824850425,
+      "maximum": {
+        "value": 0.06771463090900018,
+        "lat": 12.0,
+        "lon": 129.75
+      },
+      "minimum": {
+        "value": -0.09529140669758883,
+        "lat": 16.5,
+        "lon": 130.5
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 0,
+      "level_hpa": 700,
+      "variable": "delta_rh",
+      "mean": 0.6132045938861088,
+      "rms": 1.1979262732030884,
+      "positive_area_fraction": 0.6564538176535327,
+      "maximum": {
+        "value": 3.7025508685252273,
+        "lat": 17.75,
+        "lon": 132.5
+      },
+      "minimum": {
+        "value": -1.0424566269062543,
+        "lat": 16.75,
+        "lon": 127.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 6,
+      "level_hpa": 850,
+      "variable": "delta_zeta",
+      "mean": -0.04051121074821698,
+      "rms": 0.560110827849843,
+      "positive_area_fraction": 0.5240983508260108,
+      "maximum": {
+        "value": 1.6490819727824075,
+        "lat": 22.25,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -2.4036035656517103,
+        "lat": 19.0,
+        "lon": 131.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 6,
+      "level_hpa": 850,
+      "variable": "delta_divergence",
+      "mean": 0.046060712662038567,
+      "rms": 0.20307683268062696,
+      "positive_area_fraction": 0.5865179974524242,
+      "maximum": {
+        "value": 0.7040842574517152,
+        "lat": 15.25,
+        "lon": 135.25
+      },
+      "minimum": {
+        "value": -0.4833450009645404,
+        "lat": 22.5,
+        "lon": 129.5
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 6,
+      "level_hpa": 850,
+      "variable": "delta_relative_advection",
+      "mean": 0.004723879089701781,
+      "rms": 0.4967084434256182,
+      "positive_area_fraction": 0.5209034225283677,
+      "maximum": {
+        "value": 1.5156245348049469,
+        "lat": 22.75,
+        "lon": 131.0
+      },
+      "minimum": {
+        "value": -1.9328780056240111,
+        "lat": 20.75,
+        "lon": 129.5
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 6,
+      "level_hpa": 850,
+      "variable": "delta_q",
+      "mean": -0.011798504646572814,
+      "rms": 0.11870612747835799,
+      "positive_area_fraction": 0.5184084778554386,
+      "maximum": {
+        "value": 0.30176475768713606,
+        "lat": 12.5,
+        "lon": 138.75
+      },
+      "minimum": {
+        "value": -0.41789312855932725,
+        "lat": 19.75,
+        "lon": 127.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 6,
+      "level_hpa": 850,
+      "variable": "delta_t",
+      "mean": -0.037125300589278015,
+      "rms": 0.059695516074149815,
+      "positive_area_fraction": 0.2607344800005226,
+      "maximum": {
+        "value": 0.07900975129173309,
+        "lat": 20.25,
+        "lon": 127.0
+      },
+      "minimum": {
+        "value": -0.16917804533363753,
+        "lat": 18.0,
+        "lon": 130.5
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 6,
+      "level_hpa": 850,
+      "variable": "delta_rh",
+      "mean": 0.12909566433515715,
+      "rms": 0.6869880308685307,
+      "positive_area_fraction": 0.6023976146372761,
+      "maximum": {
+        "value": 2.019992188086922,
+        "lat": 12.5,
+        "lon": 138.75
+      },
+      "minimum": {
+        "value": -2.8948116202348584,
+        "lat": 20.0,
+        "lon": 127.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 6,
+      "level_hpa": 700,
+      "variable": "delta_zeta",
+      "mean": -0.049098560459381664,
+      "rms": 0.7011022084145515,
+      "positive_area_fraction": 0.5268906843093577,
+      "maximum": {
+        "value": 2.1961945064560893,
+        "lat": 21.5,
+        "lon": 131.25
+      },
+      "minimum": {
+        "value": -2.820033161032297,
+        "lat": 19.0,
+        "lon": 130.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 6,
+      "level_hpa": 700,
+      "variable": "delta_divergence",
+      "mean": 0.03843398548990843,
+      "rms": 0.18222365865497225,
+      "positive_area_fraction": 0.6511915546188883,
+      "maximum": {
+        "value": 0.5290644947177057,
+        "lat": 19.5,
+        "lon": 127.25
+      },
+      "minimum": {
+        "value": -0.8250026084975676,
+        "lat": 19.25,
+        "lon": 131.75
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 6,
+      "level_hpa": 700,
+      "variable": "delta_relative_advection",
+      "mean": 0.07575145067595673,
+      "rms": 0.4456317595298704,
+      "positive_area_fraction": 0.578312350015756,
+      "maximum": {
+        "value": 1.8239793529074568,
+        "lat": 22.5,
+        "lon": 131.5
+      },
+      "minimum": {
+        "value": -1.321732299585898,
+        "lat": 19.5,
+        "lon": 132.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 6,
+      "level_hpa": 700,
+      "variable": "delta_q",
+      "mean": 0.066212890660523,
+      "rms": 0.11565751488158035,
+      "positive_area_fraction": 0.7533240692275789,
+      "maximum": {
+        "value": 0.35647557317456985,
+        "lat": 16.0,
+        "lon": 133.25
+      },
+      "minimum": {
+        "value": -0.19554263951138745,
+        "lat": 20.25,
+        "lon": 127.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 6,
+      "level_hpa": 700,
+      "variable": "delta_t",
+      "mean": -0.008776041499943802,
+      "rms": 0.05179979514947425,
+      "positive_area_fraction": 0.48024641128032414,
+      "maximum": {
+        "value": 0.12010775924835328,
+        "lat": 15.5,
+        "lon": 135.5
+      },
+      "minimum": {
+        "value": -0.1623765041113391,
+        "lat": 16.0,
+        "lon": 130.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 6,
+      "level_hpa": 700,
+      "variable": "delta_rh",
+      "mean": 0.6199915256866282,
+      "rms": 1.023878718597886,
+      "positive_area_fraction": 0.7552218241489057,
+      "maximum": {
+        "value": 2.8766100851493808,
+        "lat": 16.25,
+        "lon": 132.75
+      },
+      "minimum": {
+        "value": -1.6735457850646338,
+        "lat": 20.5,
+        "lon": 127.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 12,
+      "level_hpa": 850,
+      "variable": "delta_zeta",
+      "mean": -0.0653748917266598,
+      "rms": 0.832670769710033,
+      "positive_area_fraction": 0.5576821152637459,
+      "maximum": {
+        "value": 2.654375565671138,
+        "lat": 23.0,
+        "lon": 130.25
+      },
+      "minimum": {
+        "value": -3.22352284080085,
+        "lat": 19.5,
+        "lon": 130.75
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 12,
+      "level_hpa": 850,
+      "variable": "delta_divergence",
+      "mean": 0.049165996779997514,
+      "rms": 0.18053034976592508,
+      "positive_area_fraction": 0.553974255572829,
+      "maximum": {
+        "value": 0.6510750897540384,
+        "lat": 19.75,
+        "lon": 129.0
+      },
+      "minimum": {
+        "value": -0.31866594909436746,
+        "lat": 20.0,
+        "lon": 133.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 12,
+      "level_hpa": 850,
+      "variable": "delta_relative_advection",
+      "mean": 0.0643728427382998,
+      "rms": 0.6106026303715081,
+      "positive_area_fraction": 0.5189154476219877,
+      "maximum": {
+        "value": 2.0743845719661764,
+        "lat": 23.75,
+        "lon": 130.25
+      },
+      "minimum": {
+        "value": -2.2940285554894904,
+        "lat": 20.75,
+        "lon": 130.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 12,
+      "level_hpa": 850,
+      "variable": "delta_q",
+      "mean": 0.0031383303149694203,
+      "rms": 0.13763759472479994,
+      "positive_area_fraction": 0.5549636155702932,
+      "maximum": {
+        "value": 0.31347613943719904,
+        "lat": 12.5,
+        "lon": 140.25
+      },
+      "minimum": {
+        "value": -0.37951144124485076,
+        "lat": 20.0,
+        "lon": 129.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 12,
+      "level_hpa": 850,
+      "variable": "delta_t",
+      "mean": -0.024869613376689186,
+      "rms": 0.05339813488714326,
+      "positive_area_fraction": 0.24116952513928613,
+      "maximum": {
+        "value": 0.15636437561703068,
+        "lat": 18.75,
+        "lon": 127.0
+      },
+      "minimum": {
+        "value": -0.14840251454026138,
+        "lat": 21.5,
+        "lon": 132.75
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 12,
+      "level_hpa": 850,
+      "variable": "delta_rh",
+      "mean": 0.15209833315047228,
+      "rms": 0.8978268647450789,
+      "positive_area_fraction": 0.6227471672410816,
+      "maximum": {
+        "value": 1.8876262710273468,
+        "lat": 12.25,
+        "lon": 140.5
+      },
+      "minimum": {
+        "value": -2.858380066165713,
+        "lat": 19.0,
+        "lon": 127.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 12,
+      "level_hpa": 700,
+      "variable": "delta_zeta",
+      "mean": -0.05626592870065314,
+      "rms": 0.8287169722645159,
+      "positive_area_fraction": 0.5705260510625215,
+      "maximum": {
+        "value": 2.802287296601524,
+        "lat": 22.75,
+        "lon": 130.25
+      },
+      "minimum": {
+        "value": -3.209527874846503,
+        "lat": 19.25,
+        "lon": 130.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 12,
+      "level_hpa": 700,
+      "variable": "delta_divergence",
+      "mean": 0.04925327233014502,
+      "rms": 0.1533000084958738,
+      "positive_area_fraction": 0.7311664437627634,
+      "maximum": {
+        "value": 0.33316724579292967,
+        "lat": 19.5,
+        "lon": 127.75
+      },
+      "minimum": {
+        "value": -0.6895283538590667,
+        "lat": 19.75,
+        "lon": 131.5
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 12,
+      "level_hpa": 700,
+      "variable": "delta_relative_advection",
+      "mean": 0.07593621902170486,
+      "rms": 0.4370004185037873,
+      "positive_area_fraction": 0.6012202110715024,
+      "maximum": {
+        "value": 2.2593188254813317,
+        "lat": 24.0,
+        "lon": 129.75
+      },
+      "minimum": {
+        "value": -1.0915288870565942,
+        "lat": 20.0,
+        "lon": 131.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 12,
+      "level_hpa": 700,
+      "variable": "delta_q",
+      "mean": 0.05489548392410202,
+      "rms": 0.15509937838406565,
+      "positive_area_fraction": 0.6869647331739683,
+      "maximum": {
+        "value": 0.5470944529483298,
+        "lat": 21.75,
+        "lon": 133.5
+      },
+      "minimum": {
+        "value": -0.4046672709200009,
+        "lat": 20.75,
+        "lon": 129.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 12,
+      "level_hpa": 700,
+      "variable": "delta_t",
+      "mean": 0.007537554462005984,
+      "rms": 0.11434390017980323,
+      "positive_area_fraction": 0.5009466329034864,
+      "maximum": {
+        "value": 0.3179007174509105,
+        "lat": 15.75,
+        "lon": 135.5
+      },
+      "minimum": {
+        "value": -0.2674573838171906,
+        "lat": 21.0,
+        "lon": 130.75
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 12,
+      "level_hpa": 700,
+      "variable": "delta_rh",
+      "mean": 0.3946104544122967,
+      "rms": 1.3459024954899557,
+      "positive_area_fraction": 0.6744175627624214,
+      "maximum": {
+        "value": 5.333099634203901,
+        "lat": 21.5,
+        "lon": 133.5
+      },
+      "minimum": {
+        "value": -2.4389364849876283,
+        "lat": 20.5,
+        "lon": 129.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 18,
+      "level_hpa": 850,
+      "variable": "delta_zeta",
+      "mean": -0.10922665996871235,
+      "rms": 1.0471011622907094,
+      "positive_area_fraction": 0.4914084787841346,
+      "maximum": {
+        "value": 3.40658001984587,
+        "lat": 23.75,
+        "lon": 129.75
+      },
+      "minimum": {
+        "value": -3.9243734005510795,
+        "lat": 20.25,
+        "lon": 130.5
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 18,
+      "level_hpa": 850,
+      "variable": "delta_divergence",
+      "mean": 0.02590436005417647,
+      "rms": 0.2172182801836132,
+      "positive_area_fraction": 0.5750908709087739,
+      "maximum": {
+        "value": 0.7625901472078336,
+        "lat": 19.5,
+        "lon": 127.75
+      },
+      "minimum": {
+        "value": -0.7929047851584741,
+        "lat": 22.5,
+        "lon": 128.5
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 18,
+      "level_hpa": 850,
+      "variable": "delta_relative_advection",
+      "mean": -0.015539827608734083,
+      "rms": 0.7022619146630564,
+      "positive_area_fraction": 0.4357090950415061,
+      "maximum": {
+        "value": 2.8325428176298395,
+        "lat": 25.0,
+        "lon": 129.25
+      },
+      "minimum": {
+        "value": -2.7166508523104693,
+        "lat": 21.75,
+        "lon": 130.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 18,
+      "level_hpa": 850,
+      "variable": "delta_q",
+      "mean": -0.002468406240881786,
+      "rms": 0.1681634868857472,
+      "positive_area_fraction": 0.520934959699667,
+      "maximum": {
+        "value": 0.31616233505692765,
+        "lat": 23.75,
+        "lon": 128.75
+      },
+      "minimum": {
+        "value": -0.46947472341169877,
+        "lat": 20.0,
+        "lon": 130.5
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 18,
+      "level_hpa": 850,
+      "variable": "delta_t",
+      "mean": -0.03800078563609459,
+      "rms": 0.08492401875070608,
+      "positive_area_fraction": 0.25586023459419316,
+      "maximum": {
+        "value": 0.18619723243251965,
+        "lat": 18.75,
+        "lon": 129.5
+      },
+      "minimum": {
+        "value": -0.24160157375432376,
+        "lat": 21.5,
+        "lon": 133.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 18,
+      "level_hpa": 850,
+      "variable": "delta_rh",
+      "mean": 0.19163126789077695,
+      "rms": 1.1886493371142377,
+      "positive_area_fraction": 0.6422258783036768,
+      "maximum": {
+        "value": 2.435121862347064,
+        "lat": 23.5,
+        "lon": 129.5
+      },
+      "minimum": {
+        "value": -3.4568576882052544,
+        "lat": 19.5,
+        "lon": 130.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 18,
+      "level_hpa": 700,
+      "variable": "delta_zeta",
+      "mean": -0.08920992019134272,
+      "rms": 0.9178750158465113,
+      "positive_area_fraction": 0.5127429489652042,
+      "maximum": {
+        "value": 3.315827459593936,
+        "lat": 23.5,
+        "lon": 129.75
+      },
+      "minimum": {
+        "value": -2.9317599546474757,
+        "lat": 19.5,
+        "lon": 130.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 18,
+      "level_hpa": 700,
+      "variable": "delta_divergence",
+      "mean": 0.047292951872318745,
+      "rms": 0.12093504931234485,
+      "positive_area_fraction": 0.7259363777406247,
+      "maximum": {
+        "value": 0.2878956133812893,
+        "lat": 23.25,
+        "lon": 131.5
+      },
+      "minimum": {
+        "value": -0.4335503511897431,
+        "lat": 19.75,
+        "lon": 131.75
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 18,
+      "level_hpa": 700,
+      "variable": "delta_relative_advection",
+      "mean": 0.01980355512541926,
+      "rms": 0.46496026930758433,
+      "positive_area_fraction": 0.5326873932621028,
+      "maximum": {
+        "value": 2.459698368879328,
+        "lat": 24.75,
+        "lon": 129.0
+      },
+      "minimum": {
+        "value": -1.4495397874625395,
+        "lat": 21.5,
+        "lon": 129.75
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 18,
+      "level_hpa": 700,
+      "variable": "delta_q",
+      "mean": 0.07123221810329085,
+      "rms": 0.23644341933968924,
+      "positive_area_fraction": 0.608523087961587,
+      "maximum": {
+        "value": 0.8769404573971707,
+        "lat": 23.25,
+        "lon": 131.25
+      },
+      "minimum": {
+        "value": -0.46391918412269845,
+        "lat": 20.5,
+        "lon": 129.75
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 18,
+      "level_hpa": 700,
+      "variable": "delta_t",
+      "mean": -0.0269798020874792,
+      "rms": 0.15917832169324686,
+      "positive_area_fraction": 0.4664342354628592,
+      "maximum": {
+        "value": 0.30483354898285625,
+        "lat": 16.0,
+        "lon": 135.75
+      },
+      "minimum": {
+        "value": -0.4491084436337662,
+        "lat": 22.25,
+        "lon": 129.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 18,
+      "level_hpa": 700,
+      "variable": "delta_rh",
+      "mean": 0.6994531718785374,
+      "rms": 2.2561223075476335,
+      "positive_area_fraction": 0.6046434704280432,
+      "maximum": {
+        "value": 8.281826730350257,
+        "lat": 22.75,
+        "lon": 131.75
+      },
+      "minimum": {
+        "value": -2.4907156480030106,
+        "lat": 19.75,
+        "lon": 130.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 24,
+      "level_hpa": 850,
+      "variable": "delta_zeta",
+      "mean": -0.18363356736471592,
+      "rms": 1.1681641960906648,
+      "positive_area_fraction": 0.44684555437727,
+      "maximum": {
+        "value": 3.862417469860786,
+        "lat": 24.75,
+        "lon": 129.0
+      },
+      "minimum": {
+        "value": -4.178235220029761,
+        "lat": 20.75,
+        "lon": 130.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 24,
+      "level_hpa": 850,
+      "variable": "delta_divergence",
+      "mean": 0.016443381740998856,
+      "rms": 0.23817496517489817,
+      "positive_area_fraction": 0.5831912583894028,
+      "maximum": {
+        "value": 0.8964931486960802,
+        "lat": 19.25,
+        "lon": 128.5
+      },
+      "minimum": {
+        "value": -0.8180519608893781,
+        "lat": 22.5,
+        "lon": 128.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 24,
+      "level_hpa": 850,
+      "variable": "delta_relative_advection",
+      "mean": -0.045774177642668085,
+      "rms": 0.6215270161595371,
+      "positive_area_fraction": 0.4169819141226909,
+      "maximum": {
+        "value": 2.044336079135764,
+        "lat": 25.0,
+        "lon": 128.25
+      },
+      "minimum": {
+        "value": -2.5118129759973997,
+        "lat": 22.75,
+        "lon": 130.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 24,
+      "level_hpa": 850,
+      "variable": "delta_q",
+      "mean": 0.0017617311670674249,
+      "rms": 0.17758440754901283,
+      "positive_area_fraction": 0.5650203097668934,
+      "maximum": {
+        "value": 0.4382657197893409,
+        "lat": 24.25,
+        "lon": 129.0
+      },
+      "minimum": {
+        "value": -0.4967174761233129,
+        "lat": 20.25,
+        "lon": 130.75
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 24,
+      "level_hpa": 850,
+      "variable": "delta_t",
+      "mean": -0.04613472917971629,
+      "rms": 0.11625235519143289,
+      "positive_area_fraction": 0.35289336261831245,
+      "maximum": {
+        "value": 0.13781968443536002,
+        "lat": 16.25,
+        "lon": 136.75
+      },
+      "minimum": {
+        "value": -0.39513627631150533,
+        "lat": 22.75,
+        "lon": 131.25
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 24,
+      "level_hpa": 850,
+      "variable": "delta_rh",
+      "mean": 0.2586229030954744,
+      "rms": 1.264935220443633,
+      "positive_area_fraction": 0.6395467795466149,
+      "maximum": {
+        "value": 3.9875656654197305,
+        "lat": 24.0,
+        "lon": 129.25
+      },
+      "minimum": {
+        "value": -2.9529311913920906,
+        "lat": 19.75,
+        "lon": 129.75
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 24,
+      "level_hpa": 700,
+      "variable": "delta_zeta",
+      "mean": -0.1614200130963636,
+      "rms": 0.9819646135159475,
+      "positive_area_fraction": 0.46403835436002533,
+      "maximum": {
+        "value": 3.7097178319469175,
+        "lat": 24.5,
+        "lon": 128.75
+      },
+      "minimum": {
+        "value": -2.7932246571732775,
+        "lat": 20.0,
+        "lon": 130.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 24,
+      "level_hpa": 700,
+      "variable": "delta_divergence",
+      "mean": 0.035421970785688275,
+      "rms": 0.11240929415257159,
+      "positive_area_fraction": 0.745781665911082,
+      "maximum": {
+        "value": 0.23632943419611444,
+        "lat": 14.75,
+        "lon": 131.0
+      },
+      "minimum": {
+        "value": -0.5082547108790673,
+        "lat": 22.25,
+        "lon": 128.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 24,
+      "level_hpa": 700,
+      "variable": "delta_relative_advection",
+      "mean": -0.04166073861266094,
+      "rms": 0.4777180187133106,
+      "positive_area_fraction": 0.4525068341932049,
+      "maximum": {
+        "value": 1.7267446882336188,
+        "lat": 25.0,
+        "lon": 128.0
+      },
+      "minimum": {
+        "value": -1.9993377461040507,
+        "lat": 22.5,
+        "lon": 129.75
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 24,
+      "level_hpa": 700,
+      "variable": "delta_q",
+      "mean": 0.07753614185099711,
+      "rms": 0.3225872025951137,
+      "positive_area_fraction": 0.5795644379456467,
+      "maximum": {
+        "value": 1.3937069981469543,
+        "lat": 24.5,
+        "lon": 129.5
+      },
+      "minimum": {
+        "value": -0.446681292954607,
+        "lat": 20.75,
+        "lon": 129.0
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 24,
+      "level_hpa": 700,
+      "variable": "delta_t",
+      "mean": -0.054009157643147954,
+      "rms": 0.2181340133879586,
+      "positive_area_fraction": 0.39986068552993237,
+      "maximum": {
+        "value": 0.35164793462127314,
+        "lat": 17.25,
+        "lon": 136.25
+      },
+      "minimum": {
+        "value": -0.6856244504391756,
+        "lat": 22.5,
+        "lon": 129.5
+      }
+    },
+    {
+      "model": "tianxing",
+      "lead_hours": 24,
+      "level_hpa": 700,
+      "variable": "delta_rh",
+      "mean": 0.8650314871018844,
+      "rms": 3.2003456745937044,
+      "positive_area_fraction": 0.567508052942391,
+      "maximum": {
+        "value": 12.402685305805523,
+        "lat": 24.0,
+        "lon": 129.75
+      },
+      "minimum": {
+        "value": -3.9110026816046326,
+        "lat": 19.75,
+        "lon": 141.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 0,
+      "level_hpa": 850,
+      "variable": "delta_zeta",
+      "mean": -0.0238095592370223,
+      "rms": 0.30512112251656887,
+      "positive_area_fraction": 0.46629508359451005,
+      "maximum": {
+        "value": 1.1644343232871945,
+        "lat": 22.25,
+        "lon": 128.75
+      },
+      "minimum": {
+        "value": -1.2825075084602624,
+        "lat": 19.0,
+        "lon": 130.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 0,
+      "level_hpa": 850,
+      "variable": "delta_divergence",
+      "mean": 0.014831021798914726,
+      "rms": 0.21908292165193632,
+      "positive_area_fraction": 0.5970670708969923,
+      "maximum": {
+        "value": 1.2147962801621737,
+        "lat": 20.5,
+        "lon": 129.75
+      },
+      "minimum": {
+        "value": -0.7639490063507038,
+        "lat": 20.0,
+        "lon": 132.25
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 0,
+      "level_hpa": 850,
+      "variable": "delta_relative_advection",
+      "mean": 0.10032987022772705,
+      "rms": 0.46914442046351534,
+      "positive_area_fraction": 0.5249582571355446,
+      "maximum": {
+        "value": 3.8276270697983326,
+        "lat": 21.5,
+        "lon": 131.0
+      },
+      "minimum": {
+        "value": -0.5574683581935467,
+        "lat": 19.0,
+        "lon": 132.5
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 0,
+      "level_hpa": 850,
+      "variable": "delta_q",
+      "mean": -0.029535643938314014,
+      "rms": 0.11745692646013119,
+      "positive_area_fraction": 0.5011958503010142,
+      "maximum": {
+        "value": 0.24165426899209408,
+        "lat": 12.25,
+        "lon": 137.0
+      },
+      "minimum": {
+        "value": -0.4021372523885991,
+        "lat": 17.75,
+        "lon": 128.0
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 0,
+      "level_hpa": 850,
+      "variable": "delta_t",
+      "mean": -0.005538383205057251,
+      "rms": 0.01609071319571861,
+      "positive_area_fraction": 0.5179540689177355,
+      "maximum": {
+        "value": 0.02659172612340548,
+        "lat": 12.25,
+        "lon": 136.75
+      },
+      "minimum": {
+        "value": -0.05687564527554532,
+        "lat": 15.0,
+        "lon": 136.0
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 0,
+      "level_hpa": 850,
+      "variable": "delta_rh",
+      "mean": -0.15965536304297387,
+      "rms": 0.661215665602778,
+      "positive_area_fraction": 0.49679179546477126,
+      "maximum": {
+        "value": 1.3582649764027581,
+        "lat": 12.25,
+        "lon": 137.0
+      },
+      "minimum": {
+        "value": -2.340385187633913,
+        "lat": 17.75,
+        "lon": 127.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 0,
+      "level_hpa": 700,
+      "variable": "delta_zeta",
+      "mean": -0.03967127187933714,
+      "rms": 0.7328314856263445,
+      "positive_area_fraction": 0.5553292566689235,
+      "maximum": {
+        "value": 2.675014428555667,
+        "lat": 21.75,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -3.4972578376524037,
+        "lat": 18.25,
+        "lon": 130.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 0,
+      "level_hpa": 700,
+      "variable": "delta_divergence",
+      "mean": 0.009824158316424813,
+      "rms": 0.3779871763357466,
+      "positive_area_fraction": 0.5402031799504021,
+      "maximum": {
+        "value": 1.9955646732644798,
+        "lat": 21.0,
+        "lon": 129.0
+      },
+      "minimum": {
+        "value": -1.5921964268168627,
+        "lat": 19.25,
+        "lon": 131.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 0,
+      "level_hpa": 700,
+      "variable": "delta_relative_advection",
+      "mean": 0.13338542213352794,
+      "rms": 0.9161060158486746,
+      "positive_area_fraction": 0.495884774858219,
+      "maximum": {
+        "value": 6.216368659679457,
+        "lat": 21.75,
+        "lon": 130.75
+      },
+      "minimum": {
+        "value": -3.0574792811537166,
+        "lat": 19.25,
+        "lon": 131.25
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 0,
+      "level_hpa": 700,
+      "variable": "delta_q",
+      "mean": 0.06935442691362036,
+      "rms": 0.1376161628713424,
+      "positive_area_fraction": 0.6622878396153511,
+      "maximum": {
+        "value": 0.428389634771896,
+        "lat": 17.75,
+        "lon": 132.5
+      },
+      "minimum": {
+        "value": -0.15649431416831308,
+        "lat": 16.5,
+        "lon": 127.0
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 0,
+      "level_hpa": 700,
+      "variable": "delta_t",
+      "mean": -0.000560368502600482,
+      "rms": 0.02269018199900838,
+      "positive_area_fraction": 0.6447299824850425,
+      "maximum": {
+        "value": 0.06771463090900018,
+        "lat": 12.0,
+        "lon": 129.75
+      },
+      "minimum": {
+        "value": -0.09529140669758883,
+        "lat": 16.5,
+        "lon": 130.5
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 0,
+      "level_hpa": 700,
+      "variable": "delta_rh",
+      "mean": 0.6132124251836912,
+      "rms": 1.1979111679269747,
+      "positive_area_fraction": 0.6564538176535328,
+      "maximum": {
+        "value": 3.7024647059310305,
+        "lat": 17.75,
+        "lon": 132.5
+      },
+      "minimum": {
+        "value": -1.0421186752287934,
+        "lat": 16.75,
+        "lon": 127.0
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 6,
+      "level_hpa": 850,
+      "variable": "delta_zeta",
+      "mean": -0.03800840189188443,
+      "rms": 0.5613557116654359,
+      "positive_area_fraction": 0.6139620666083437,
+      "maximum": {
+        "value": 2.224915543957409,
+        "lat": 22.25,
+        "lon": 131.0
+      },
+      "minimum": {
+        "value": -2.504314364323124,
+        "lat": 19.25,
+        "lon": 131.25
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 6,
+      "level_hpa": 850,
+      "variable": "delta_divergence",
+      "mean": 0.03818421004822665,
+      "rms": 0.25388416901112615,
+      "positive_area_fraction": 0.5483508977055855,
+      "maximum": {
+        "value": 0.9559992501553382,
+        "lat": 17.0,
+        "lon": 129.75
+      },
+      "minimum": {
+        "value": -0.5096127232032382,
+        "lat": 12.0,
+        "lon": 139.5
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 6,
+      "level_hpa": 850,
+      "variable": "delta_relative_advection",
+      "mean": -0.0606356560275899,
+      "rms": 0.5911924188730955,
+      "positive_area_fraction": 0.5527877151012323,
+      "maximum": {
+        "value": 1.9337446893626733,
+        "lat": 23.25,
+        "lon": 130.75
+      },
+      "minimum": {
+        "value": -2.68564009942116,
+        "lat": 20.5,
+        "lon": 131.5
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 6,
+      "level_hpa": 850,
+      "variable": "delta_q",
+      "mean": 0.024335882533389697,
+      "rms": 0.14673790045515556,
+      "positive_area_fraction": 0.6289437884387388,
+      "maximum": {
+        "value": 0.3471819789094808,
+        "lat": 12.25,
+        "lon": 138.25
+      },
+      "minimum": {
+        "value": -0.40329422611414467,
+        "lat": 19.5,
+        "lon": 127.0
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 6,
+      "level_hpa": 850,
+      "variable": "delta_t",
+      "mean": -0.014253317721994292,
+      "rms": 0.05630062397414676,
+      "positive_area_fraction": 0.41132358007323083,
+      "maximum": {
+        "value": 0.14880706102103206,
+        "lat": 19.75,
+        "lon": 127.0
+      },
+      "minimum": {
+        "value": -0.18101704854790984,
+        "lat": 17.25,
+        "lon": 129.0
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 6,
+      "level_hpa": 850,
+      "variable": "delta_rh",
+      "mean": 0.22741057934494857,
+      "rms": 1.0216446857598236,
+      "positive_area_fraction": 0.629541202318051,
+      "maximum": {
+        "value": 2.875901041420342,
+        "lat": 12.25,
+        "lon": 138.25
+      },
+      "minimum": {
+        "value": -3.0755055267941525,
+        "lat": 19.5,
+        "lon": 127.0
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 6,
+      "level_hpa": 700,
+      "variable": "delta_zeta",
+      "mean": -0.049719038155690704,
+      "rms": 0.5917007552342911,
+      "positive_area_fraction": 0.5767232389026293,
+      "maximum": {
+        "value": 1.9282600321221819,
+        "lat": 21.75,
+        "lon": 131.5
+      },
+      "minimum": {
+        "value": -2.7217262947402188,
+        "lat": 18.75,
+        "lon": 131.25
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 6,
+      "level_hpa": 700,
+      "variable": "delta_divergence",
+      "mean": 0.04468345353983816,
+      "rms": 0.2163016727164263,
+      "positive_area_fraction": 0.5883066141581474,
+      "maximum": {
+        "value": 0.796635196848133,
+        "lat": 19.0,
+        "lon": 127.75
+      },
+      "minimum": {
+        "value": -0.768698423561499,
+        "lat": 16.25,
+        "lon": 134.0
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 6,
+      "level_hpa": 700,
+      "variable": "delta_relative_advection",
+      "mean": -0.005764197018640643,
+      "rms": 0.4159750501290324,
+      "positive_area_fraction": 0.5246561008787516,
+      "maximum": {
+        "value": 1.701126239185229,
+        "lat": 22.75,
+        "lon": 131.0
+      },
+      "minimum": {
+        "value": -1.9448592145815458,
+        "lat": 20.0,
+        "lon": 131.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 6,
+      "level_hpa": 700,
+      "variable": "delta_q",
+      "mean": 0.032535005222326344,
+      "rms": 0.13774485816082097,
+      "positive_area_fraction": 0.6812229576993751,
+      "maximum": {
+        "value": 0.3077649733702204,
+        "lat": 16.0,
+        "lon": 134.0
+      },
+      "minimum": {
+        "value": -0.4221430582028678,
+        "lat": 19.25,
+        "lon": 127.5
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 6,
+      "level_hpa": 700,
+      "variable": "delta_t",
+      "mean": 0.01874742720184795,
+      "rms": 0.06859530161813454,
+      "positive_area_fraction": 0.6241139864401481,
+      "maximum": {
+        "value": 0.17207420628060457,
+        "lat": 15.75,
+        "lon": 136.75
+      },
+      "minimum": {
+        "value": -0.2046806085061969,
+        "lat": 16.75,
+        "lon": 130.0
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 6,
+      "level_hpa": 700,
+      "variable": "delta_rh",
+      "mean": 0.16772824737325218,
+      "rms": 1.0778970958364138,
+      "positive_area_fraction": 0.6226135205182707,
+      "maximum": {
+        "value": 2.763696751961779,
+        "lat": 21.25,
+        "lon": 131.25
+      },
+      "minimum": {
+        "value": -3.8421360099374247,
+        "lat": 19.5,
+        "lon": 127.5
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 12,
+      "level_hpa": 850,
+      "variable": "delta_zeta",
+      "mean": -0.05796585958423535,
+      "rms": 0.9687803561162951,
+      "positive_area_fraction": 0.6158284774490481,
+      "maximum": {
+        "value": 3.6648368212895837,
+        "lat": 23.0,
+        "lon": 130.5
+      },
+      "minimum": {
+        "value": -3.3263343593819434,
+        "lat": 19.5,
+        "lon": 131.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 12,
+      "level_hpa": 850,
+      "variable": "delta_divergence",
+      "mean": 0.017089136348524214,
+      "rms": 0.27598007961305504,
+      "positive_area_fraction": 0.4910357369648341,
+      "maximum": {
+        "value": 1.2611260847542212,
+        "lat": 17.0,
+        "lon": 131.5
+      },
+      "minimum": {
+        "value": -0.7899529805390916,
+        "lat": 13.75,
+        "lon": 133.0
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 12,
+      "level_hpa": 850,
+      "variable": "delta_relative_advection",
+      "mean": 0.09825533259501346,
+      "rms": 0.9169579872155531,
+      "positive_area_fraction": 0.5454717552402105,
+      "maximum": {
+        "value": 4.719444289998534,
+        "lat": 17.5,
+        "lon": 131.0
+      },
+      "minimum": {
+        "value": -3.0338071885654805,
+        "lat": 21.25,
+        "lon": 130.25
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 12,
+      "level_hpa": 850,
+      "variable": "delta_q",
+      "mean": 0.03323627062524423,
+      "rms": 0.18334278758946004,
+      "positive_area_fraction": 0.5815028021366277,
+      "maximum": {
+        "value": 0.47427245698591325,
+        "lat": 13.75,
+        "lon": 133.25
+      },
+      "minimum": {
+        "value": -0.4032102403023457,
+        "lat": 20.0,
+        "lon": 129.5
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 12,
+      "level_hpa": 850,
+      "variable": "delta_t",
+      "mean": -0.02252892512627109,
+      "rms": 0.06803964028315158,
+      "positive_area_fraction": 0.3415041687624585,
+      "maximum": {
+        "value": 0.16500447808328314,
+        "lat": 19.25,
+        "lon": 127.0
+      },
+      "minimum": {
+        "value": -0.21000313905851373,
+        "lat": 22.25,
+        "lon": 131.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 12,
+      "level_hpa": 850,
+      "variable": "delta_rh",
+      "mean": 0.32141905014998484,
+      "rms": 1.3304067378475535,
+      "positive_area_fraction": 0.6338203153825822,
+      "maximum": {
+        "value": 3.7884553389393854,
+        "lat": 14.0,
+        "lon": 133.5
+      },
+      "minimum": {
+        "value": -3.2970889107081516,
+        "lat": 20.0,
+        "lon": 129.5
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 12,
+      "level_hpa": 700,
+      "variable": "delta_zeta",
+      "mean": -0.07862942189828884,
+      "rms": 0.8975975263717385,
+      "positive_area_fraction": 0.5172514399058838,
+      "maximum": {
+        "value": 3.544510348552975,
+        "lat": 22.75,
+        "lon": 130.5
+      },
+      "minimum": {
+        "value": -3.6698356917227857,
+        "lat": 19.75,
+        "lon": 131.0
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 12,
+      "level_hpa": 700,
+      "variable": "delta_divergence",
+      "mean": 0.025911804389068437,
+      "rms": 0.20218080407652422,
+      "positive_area_fraction": 0.5797801941261292,
+      "maximum": {
+        "value": 0.6385422903785801,
+        "lat": 15.5,
+        "lon": 131.25
+      },
+      "minimum": {
+        "value": -0.6854554777922927,
+        "lat": 18.0,
+        "lon": 129.5
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 12,
+      "level_hpa": 700,
+      "variable": "delta_relative_advection",
+      "mean": 0.051490259027942936,
+      "rms": 0.6720296474450674,
+      "positive_area_fraction": 0.4801884632028612,
+      "maximum": {
+        "value": 3.1014014140161303,
+        "lat": 17.25,
+        "lon": 131.0
+      },
+      "minimum": {
+        "value": -2.724402464609501,
+        "lat": 21.0,
+        "lon": 131.0
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 12,
+      "level_hpa": 700,
+      "variable": "delta_q",
+      "mean": 0.036444026927966486,
+      "rms": 0.21604486643331366,
+      "positive_area_fraction": 0.5298848756327044,
+      "maximum": {
+        "value": 0.7121561790577414,
+        "lat": 22.5,
+        "lon": 131.75
+      },
+      "minimum": {
+        "value": -0.5468039311010345,
+        "lat": 20.5,
+        "lon": 129.25
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 12,
+      "level_hpa": 700,
+      "variable": "delta_t",
+      "mean": 0.0019172928892002734,
+      "rms": 0.1229493342911117,
+      "positive_area_fraction": 0.5302677079461549,
+      "maximum": {
+        "value": 0.31733156416105757,
+        "lat": 15.25,
+        "lon": 136.75
+      },
+      "minimum": {
+        "value": -0.26250298720326404,
+        "lat": 21.75,
+        "lon": 132.5
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 12,
+      "level_hpa": 700,
+      "variable": "delta_rh",
+      "mean": 0.2939417476865718,
+      "rms": 2.0138675954679144,
+      "positive_area_fraction": 0.5120597682000245,
+      "maximum": {
+        "value": 6.974904288164253,
+        "lat": 22.25,
+        "lon": 132.0
+      },
+      "minimum": {
+        "value": -4.327861262301643,
+        "lat": 20.5,
+        "lon": 129.25
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 18,
+      "level_hpa": 850,
+      "variable": "delta_zeta",
+      "mean": -0.09276775708488887,
+      "rms": 1.319869724275943,
+      "positive_area_fraction": 0.5525201386951049,
+      "maximum": {
+        "value": 5.159667697637431,
+        "lat": 23.75,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -4.751840608172273,
+        "lat": 20.75,
+        "lon": 130.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 18,
+      "level_hpa": 850,
+      "variable": "delta_divergence",
+      "mean": 0.006103287921549098,
+      "rms": 0.23784358392534324,
+      "positive_area_fraction": 0.43278979722358324,
+      "maximum": {
+        "value": 0.7980728638831267,
+        "lat": 20.75,
+        "lon": 128.75
+      },
+      "minimum": {
+        "value": -0.49694565659818585,
+        "lat": 19.5,
+        "lon": 133.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 18,
+      "level_hpa": 850,
+      "variable": "delta_relative_advection",
+      "mean": -0.033265828768427194,
+      "rms": 1.213508956204588,
+      "positive_area_fraction": 0.3510030884090463,
+      "maximum": {
+        "value": 4.8393348732212,
+        "lat": 17.25,
+        "lon": 132.25
+      },
+      "minimum": {
+        "value": -5.226416882927521,
+        "lat": 22.0,
+        "lon": 130.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 18,
+      "level_hpa": 850,
+      "variable": "delta_q",
+      "mean": 0.026721759524830878,
+      "rms": 0.21981441580797748,
+      "positive_area_fraction": 0.5594722834627593,
+      "maximum": {
+        "value": 0.5354237106110551,
+        "lat": 23.75,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -0.6021410959873433,
+        "lat": 19.5,
+        "lon": 130.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 18,
+      "level_hpa": 850,
+      "variable": "delta_t",
+      "mean": -0.03941686696410111,
+      "rms": 0.1091238356752077,
+      "positive_area_fraction": 0.35183959517746044,
+      "maximum": {
+        "value": 0.2166131452556088,
+        "lat": 19.25,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -0.3166794708476269,
+        "lat": 21.5,
+        "lon": 133.0
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 18,
+      "level_hpa": 850,
+      "variable": "delta_rh",
+      "mean": 0.3809002334620753,
+      "rms": 1.7174510343490748,
+      "positive_area_fraction": 0.5970763608553853,
+      "maximum": {
+        "value": 4.505880194465826,
+        "lat": 23.75,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -4.791071372767001,
+        "lat": 19.25,
+        "lon": 130.5
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 18,
+      "level_hpa": 700,
+      "variable": "delta_zeta",
+      "mean": -0.09793033965964226,
+      "rms": 1.1809400330604503,
+      "positive_area_fraction": 0.46924858652739465,
+      "maximum": {
+        "value": 5.0195728893955,
+        "lat": 23.75,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -4.389566026238742,
+        "lat": 20.75,
+        "lon": 130.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 18,
+      "level_hpa": 700,
+      "variable": "delta_divergence",
+      "mean": 0.011691888081636535,
+      "rms": 0.2888072084214728,
+      "positive_area_fraction": 0.6092264437446281,
+      "maximum": {
+        "value": 0.6386488077030175,
+        "lat": 20.75,
+        "lon": 129.75
+      },
+      "minimum": {
+        "value": -1.3697695284587534,
+        "lat": 15.25,
+        "lon": 137.5
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 18,
+      "level_hpa": 700,
+      "variable": "delta_relative_advection",
+      "mean": -0.12197987846836136,
+      "rms": 1.0742021742610108,
+      "positive_area_fraction": 0.41789248710712923,
+      "maximum": {
+        "value": 3.9570509818260193,
+        "lat": 24.75,
+        "lon": 129.5
+      },
+      "minimum": {
+        "value": -5.723363853057944,
+        "lat": 22.25,
+        "lon": 130.5
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 18,
+      "level_hpa": 700,
+      "variable": "delta_q",
+      "mean": 0.06654694800289337,
+      "rms": 0.31950584627229434,
+      "positive_area_fraction": 0.5522166082764087,
+      "maximum": {
+        "value": 0.8105866748076286,
+        "lat": 24.25,
+        "lon": 130.25
+      },
+      "minimum": {
+        "value": -1.0861463028299319,
+        "lat": 21.0,
+        "lon": 129.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 18,
+      "level_hpa": 700,
+      "variable": "delta_t",
+      "mean": 0.0031579595857542594,
+      "rms": 0.13227844743658368,
+      "positive_area_fraction": 0.5601953542287541,
+      "maximum": {
+        "value": 0.270324050444484,
+        "lat": 15.25,
+        "lon": 135.0
+      },
+      "minimum": {
+        "value": -0.3492379867626732,
+        "lat": 20.75,
+        "lon": 132.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 18,
+      "level_hpa": 700,
+      "variable": "delta_rh",
+      "mean": 0.5727310503710868,
+      "rms": 2.7662077632972792,
+      "positive_area_fraction": 0.48904447899588205,
+      "maximum": {
+        "value": 6.427170411877365,
+        "lat": 23.75,
+        "lon": 132.75
+      },
+      "minimum": {
+        "value": -8.803289200724628,
+        "lat": 21.0,
+        "lon": 129.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 24,
+      "level_hpa": 850,
+      "variable": "delta_zeta",
+      "mean": -0.1579573079692138,
+      "rms": 1.4942059388742712,
+      "positive_area_fraction": 0.5547806434013955,
+      "maximum": {
+        "value": 6.5622890718682765,
+        "lat": 24.75,
+        "lon": 129.25
+      },
+      "minimum": {
+        "value": -4.832530519531326,
+        "lat": 21.5,
+        "lon": 130.25
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 24,
+      "level_hpa": 850,
+      "variable": "delta_divergence",
+      "mean": -0.027517827699127514,
+      "rms": 0.2824305195688063,
+      "positive_area_fraction": 0.40904248422214684,
+      "maximum": {
+        "value": 0.8692441930602761,
+        "lat": 19.0,
+        "lon": 127.75
+      },
+      "minimum": {
+        "value": -0.6381155138310535,
+        "lat": 15.5,
+        "lon": 131.25
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 24,
+      "level_hpa": 850,
+      "variable": "delta_relative_advection",
+      "mean": -0.10141522543023707,
+      "rms": 1.2402699069585048,
+      "positive_area_fraction": 0.3690692109227215,
+      "maximum": {
+        "value": 5.126400046829828,
+        "lat": 17.5,
+        "lon": 133.5
+      },
+      "minimum": {
+        "value": -6.352594351446731,
+        "lat": 23.25,
+        "lon": 129.75
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 24,
+      "level_hpa": 850,
+      "variable": "delta_q",
+      "mean": 0.0226702795375757,
+      "rms": 0.2635354466189809,
+      "positive_area_fraction": 0.5366122471610164,
+      "maximum": {
+        "value": 0.6998108670117813,
+        "lat": 24.5,
+        "lon": 129.75
+      },
+      "minimum": {
+        "value": -0.6159169541915974,
+        "lat": 19.25,
+        "lon": 131.0
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 24,
+      "level_hpa": 850,
+      "variable": "delta_t",
+      "mean": -0.07737901816415926,
+      "rms": 0.14326529593954862,
+      "positive_area_fraction": 0.26482546737938256,
+      "maximum": {
+        "value": 0.25053952728202816,
+        "lat": 19.0,
+        "lon": 127.0
+      },
+      "minimum": {
+        "value": -0.4391386485189109,
+        "lat": 22.75,
+        "lon": 132.25
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 24,
+      "level_hpa": 850,
+      "variable": "delta_rh",
+      "mean": 0.5527924985126235,
+      "rms": 2.016288692935032,
+      "positive_area_fraction": 0.5972734447888935,
+      "maximum": {
+        "value": 6.150184997284708,
+        "lat": 24.5,
+        "lon": 130.0
+      },
+      "minimum": {
+        "value": -4.47331001201083,
+        "lat": 19.5,
+        "lon": 127.0
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 24,
+      "level_hpa": 700,
+      "variable": "delta_zeta",
+      "mean": -0.15461944114285528,
+      "rms": 1.2479080412131638,
+      "positive_area_fraction": 0.454891434669162,
+      "maximum": {
+        "value": 5.873619529725716,
+        "lat": 24.75,
+        "lon": 129.0
+      },
+      "minimum": {
+        "value": -3.862217658686139,
+        "lat": 21.75,
+        "lon": 130.25
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 24,
+      "level_hpa": 700,
+      "variable": "delta_divergence",
+      "mean": -0.056052790900199365,
+      "rms": 0.2912089198814929,
+      "positive_area_fraction": 0.502241565359163,
+      "maximum": {
+        "value": 0.7992229305858755,
+        "lat": 18.0,
+        "lon": 135.25
+      },
+      "minimum": {
+        "value": -1.0391119966022915,
+        "lat": 15.75,
+        "lon": 138.25
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 24,
+      "level_hpa": 700,
+      "variable": "delta_relative_advection",
+      "mean": -0.12764798199908328,
+      "rms": 1.1248170871799128,
+      "positive_area_fraction": 0.40382580558912884,
+      "maximum": {
+        "value": 3.289311805603661,
+        "lat": 25.0,
+        "lon": 128.0
+      },
+      "minimum": {
+        "value": -6.361608710264166,
+        "lat": 23.5,
+        "lon": 129.5
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 24,
+      "level_hpa": 700,
+      "variable": "delta_q",
+      "mean": 0.09190137882469096,
+      "rms": 0.35828933246549377,
+      "positive_area_fraction": 0.5637001789981235,
+      "maximum": {
+        "value": 1.106410325738436,
+        "lat": 25.0,
+        "lon": 129.5
+      },
+      "minimum": {
+        "value": -0.8678232557215404,
+        "lat": 21.75,
+        "lon": 129.25
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 24,
+      "level_hpa": 700,
+      "variable": "delta_t",
+      "mean": -0.057266504301659464,
+      "rms": 0.21254011741438125,
+      "positive_area_fraction": 0.3674600797474589,
+      "maximum": {
+        "value": 0.5310281816797848,
+        "lat": 18.0,
+        "lon": 136.75
+      },
+      "minimum": {
+        "value": -0.6574456262900045,
+        "lat": 22.25,
+        "lon": 131.5
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "lead_hours": 24,
+      "level_hpa": 700,
+      "variable": "delta_rh",
+      "mean": 1.081838711759222,
+      "rms": 3.2908979410274624,
+      "positive_area_fraction": 0.5871100807123868,
+      "maximum": {
+        "value": 9.863612237606223,
+        "lat": 23.0,
+        "lon": 132.25
+      },
+      "minimum": {
+        "value": -4.928344270868874,
+        "lat": 21.75,
+        "lon": 129.25
+      }
+    }
+  ],
+  "budgets": [
+    {
+      "model": "tianxing",
+      "level": "850",
+      "start_hour": 0,
+      "end_hour": 6,
+      "actual": {
+        "mean": -0.016701652241590096,
+        "rms": 0.33614210013010937,
+        "positive_area_fraction": 0.49736180269466557,
+        "maximum": {
+          "value": 1.420941629308357,
+          "lat": 22.5,
+          "lon": 131.0
+        },
+        "minimum": {
+          "value": -1.1954340963610126,
+          "lat": 19.0,
+          "lon": 132.0
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.052526871866755975,
+          "rms": 0.3650017729587234,
+          "positive_area_fraction": 0.5143347556589217,
+          "maximum": {
+            "value": 2.2088242332134302,
+            "lat": 21.75,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -1.1424660717255395,
+            "lat": 20.75,
+            "lon": 129.25
+          },
+          "projection_on_actual_change": 0.6226369399633893
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.031965865872473964,
+          "rms": 0.30924838533951315,
+          "positive_area_fraction": 0.6093351563033045,
+          "maximum": {
+            "value": 2.010493170646512,
+            "lat": 20.75,
+            "lon": 131.25
+          },
+          "minimum": {
+            "value": -1.4595516893556173,
+            "lat": 20.75,
+            "lon": 128.75
+          },
+          "projection_on_actual_change": 0.1717358454053265
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.036518284763962024,
+          "rms": 0.30972003810752696,
+          "positive_area_fraction": 0.5217458617697022,
+          "maximum": {
+            "value": 1.3447564425412317,
+            "lat": 20.5,
+            "lon": 127.75
+          },
+          "minimum": {
+            "value": -1.39853985660244,
+            "lat": 20.0,
+            "lon": 131.75
+          },
+          "projection_on_actual_change": 0.289126065504746
+        },
+        "nonlinear_advection": {
+          "mean": -0.015957278769680033,
+          "rms": 0.09942046464741859,
+          "positive_area_fraction": 0.49017736417753743,
+          "maximum": {
+            "value": 0.21391079769672344,
+            "lat": 22.5,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -0.6369070933303236,
+            "lat": 20.5,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": 0.16177502905331667
+        },
+        "delta_planetary_advection": {
+          "mean": -0.003663873344675508,
+          "rms": 0.01624557259362642,
+          "positive_area_fraction": 0.4682778692576007,
+          "maximum": {
+            "value": 0.025025533544316837,
+            "lat": 13.25,
+            "lon": 135.5
+          },
+          "minimum": {
+            "value": -0.05051051868602788,
+            "lat": 18.5,
+            "lon": 127.75
+          },
+          "projection_on_actual_change": -0.00338289254013826
+        },
+        "delta_stretching": {
+          "mean": -0.06685577982192578,
+          "rms": 0.3554249131664492,
+          "positive_area_fraction": 0.38522352660780024,
+          "maximum": {
+            "value": 1.0755899422301856,
+            "lat": 23.5,
+            "lon": 129.5
+          },
+          "minimum": {
+            "value": -1.9422000900985255,
+            "lat": 20.5,
+            "lon": 130.0
+          },
+          "projection_on_actual_change": 0.4949931644159725
+        },
+        "remainder": {
+          "mean": 0.0012911290582552186,
+          "rms": 0.33747832761067154,
+          "positive_area_fraction": 0.5294434996024646,
+          "maximum": {
+            "value": 2.19201470639491,
+            "lat": 20.75,
+            "lon": 129.5
+          },
+          "minimum": {
+            "value": -1.1787065359683873,
+            "lat": 21.25,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": -0.11424721183922368
+        }
+      }
+    },
+    {
+      "model": "tianxing",
+      "level": "850",
+      "start_hour": 6,
+      "end_hour": 12,
+      "actual": {
+        "mean": -0.024863680978442812,
+        "rms": 0.43915415777429584,
+        "positive_area_fraction": 0.5053767038223185,
+        "maximum": {
+          "value": 1.657224498080225,
+          "lat": 23.5,
+          "lon": 130.25
+        },
+        "minimum": {
+          "value": -1.6544819333429592,
+          "lat": 20.75,
+          "lon": 130.0
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.03454836091400077,
+          "rms": 0.5081897560651774,
+          "positive_area_fraction": 0.5597408877101975,
+          "maximum": {
+            "value": 1.5779523818674832,
+            "lat": 23.25,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -2.01951010520073,
+            "lat": 20.75,
+            "lon": 130.0
+          },
+          "projection_on_actual_change": 0.8966047297075889
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.018796642652223368,
+          "rms": 0.4192707745607524,
+          "positive_area_fraction": 0.6789176896178465,
+          "maximum": {
+            "value": 1.5028100008118725,
+            "lat": 21.5,
+            "lon": 131.25
+          },
+          "minimum": {
+            "value": -2.45083833869509,
+            "lat": 20.75,
+            "lon": 128.5
+          },
+          "projection_on_actual_change": 0.19115058775321478
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.044505804330216295,
+          "rms": 0.4918544598968008,
+          "positive_area_fraction": 0.5179665433466124,
+          "maximum": {
+            "value": 1.985946711340157,
+            "lat": 20.5,
+            "lon": 128.25
+          },
+          "minimum": {
+            "value": -1.9248183765822924,
+            "lat": 20.5,
+            "lon": 131.75
+          },
+          "projection_on_actual_change": 0.49444224402523873
+        },
+        "nonlinear_advection": {
+          "mean": -0.02875408606843888,
+          "rms": 0.17498635099620283,
+          "positive_area_fraction": 0.5031381131861132,
+          "maximum": {
+            "value": 0.46051598532389515,
+            "lat": 19.25,
+            "lon": 128.75
+          },
+          "minimum": {
+            "value": -1.0588633399015044,
+            "lat": 21.0,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": 0.2110118979291353
+        },
+        "delta_planetary_advection": {
+          "mean": 0.0003594133836424089,
+          "rms": 0.02782875380850033,
+          "positive_area_fraction": 0.5677030788660361,
+          "maximum": {
+            "value": 0.044215669976935296,
+            "lat": 13.5,
+            "lon": 136.0
+          },
+          "minimum": {
+            "value": -0.086115971362304,
+            "lat": 19.5,
+            "lon": 128.5
+          },
+          "projection_on_actual_change": -0.0027299049507156954
+        },
+        "delta_stretching": {
+          "mean": -0.06519679140876558,
+          "rms": 0.3154469265900057,
+          "positive_area_fraction": 0.4051214426126041,
+          "maximum": {
+            "value": 1.2347525172538572,
+            "lat": 22.25,
+            "lon": 129.25
+          },
+          "minimum": {
+            "value": -0.9844331584835443,
+            "lat": 17.75,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.10373247209647977
+        },
+        "remainder": {
+          "mean": 0.005425336132679573,
+          "rms": 0.2051130276936804,
+          "positive_area_fraction": 0.5611894735687508,
+          "maximum": {
+            "value": 0.7456490775004481,
+            "lat": 16.5,
+            "lon": 129.25
+          },
+          "minimum": {
+            "value": -0.8402892891319369,
+            "lat": 22.25,
+            "lon": 129.5
+          },
+          "projection_on_actual_change": 0.00239270314664705
+        }
+      }
+    },
+    {
+      "model": "tianxing",
+      "level": "850",
+      "start_hour": 12,
+      "end_hour": 18,
+      "actual": {
+        "mean": -0.04385176824205256,
+        "rms": 0.5123487898120161,
+        "positive_area_fraction": 0.37794239253005635,
+        "maximum": {
+          "value": 1.8301119492447895,
+          "lat": 24.5,
+          "lon": 129.5
+        },
+        "minimum": {
+          "value": -2.3528323556093,
+          "lat": 21.25,
+          "lon": 130.75
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.024416507564782863,
+          "rms": 0.5906738615787996,
+          "positive_area_fraction": 0.4799870276472228,
+          "maximum": {
+            "value": 2.166144981385916,
+            "lat": 24.5,
+            "lon": 129.75
+          },
+          "minimum": {
+            "value": -2.2256388504881635,
+            "lat": 21.25,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": 0.9969722179587609
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.04520961309495487,
+          "rms": 0.545315950519636,
+          "positive_area_fraction": 0.6307433785919917,
+          "maximum": {
+            "value": 1.9758726971914586,
+            "lat": 22.0,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -2.818071297814628,
+            "lat": 21.0,
+            "lon": 128.25
+          },
+          "projection_on_actual_change": -0.010719997971441917
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.011445966446379019,
+          "rms": 0.6309681579136982,
+          "positive_area_fraction": 0.4347339520903814,
+          "maximum": {
+            "value": 2.3241727229023725,
+            "lat": 24.5,
+            "lon": 129.0
+          },
+          "minimum": {
+            "value": -2.432518529870369,
+            "lat": 21.75,
+            "lon": 131.0
+          },
+          "projection_on_actual_change": 0.795353525689512
+        },
+        "nonlinear_advection": {
+          "mean": -0.03223907197655104,
+          "rms": 0.2393417860587148,
+          "positive_area_fraction": 0.5624852347021367,
+          "maximum": {
+            "value": 0.7113161143393982,
+            "lat": 20.0,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -1.291425084469736,
+            "lat": 21.25,
+            "lon": 130.5
+          },
+          "projection_on_actual_change": 0.21233869024069082
+        },
+        "delta_planetary_advection": {
+          "mean": 0.009476316647467092,
+          "rms": 0.03861681067564537,
+          "positive_area_fraction": 0.6658334398781881,
+          "maximum": {
+            "value": 0.05811657732393459,
+            "lat": 19.25,
+            "lon": 134.25
+          },
+          "minimum": {
+            "value": -0.11281585718437609,
+            "lat": 20.25,
+            "lon": 128.25
+          },
+          "projection_on_actual_change": 0.005227816171562163
+        },
+        "delta_stretching": {
+          "mean": -0.08096153686147985,
+          "rms": 0.34178969144496435,
+          "positive_area_fraction": 0.37600955785512685,
+          "maximum": {
+            "value": 1.3018317941877362,
+            "lat": 22.5,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -1.2363775792500347,
+            "lat": 20.0,
+            "lon": 129.5
+          },
+          "projection_on_actual_change": -0.09196603610026476
+        },
+        "remainder": {
+          "mean": 0.0032169444071773563,
+          "rms": 0.2649581807304366,
+          "positive_area_fraction": 0.4903998056249782,
+          "maximum": {
+            "value": 1.2863532016273411,
+            "lat": 20.25,
+            "lon": 130.0
+          },
+          "minimum": {
+            "value": -0.8354994669949097,
+            "lat": 22.5,
+            "lon": 129.75
+          },
+          "projection_on_actual_change": 0.08976600196994175
+        }
+      }
+    },
+    {
+      "model": "tianxing",
+      "level": "850",
+      "start_hour": 18,
+      "end_hour": 24,
+      "actual": {
+        "mean": -0.07440690739600357,
+        "rms": 0.45281577451999755,
+        "positive_area_fraction": 0.3629140105589411,
+        "maximum": {
+          "value": 1.793611134338066,
+          "lat": 25.0,
+          "lon": 128.25
+        },
+        "minimum": {
+          "value": -2.078063815412091,
+          "lat": 22.25,
+          "lon": 130.75
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": -0.030657002625701063,
+          "rms": 0.6104056243906397,
+          "positive_area_fraction": 0.4205341024691457,
+          "maximum": {
+            "value": 2.2880241775676753,
+            "lat": 25.0,
+            "lon": 129.0
+          },
+          "minimum": {
+            "value": -2.3832161917519143,
+            "lat": 22.0,
+            "lon": 130.0
+          },
+          "projection_on_actual_change": 1.1162723605739415
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.07415355893580663,
+          "rms": 0.5550873842536174,
+          "positive_area_fraction": 0.5719722046399844,
+          "maximum": {
+            "value": 2.3064743811388237,
+            "lat": 22.75,
+            "lon": 130.25
+          },
+          "minimum": {
+            "value": -2.4418075814587406,
+            "lat": 21.0,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": -0.18446222088586545
+        },
+        "control_on_delta_gradient": {
+          "mean": -0.07657908621683815,
+          "rms": 0.7125925592576544,
+          "positive_area_fraction": 0.3894349305450018,
+          "maximum": {
+            "value": 2.797532007285322,
+            "lat": 25.0,
+            "lon": 128.0
+          },
+          "minimum": {
+            "value": -3.669256353029864,
+            "lat": 22.75,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": 1.2019752512967727
+        },
+        "nonlinear_advection": {
+          "mean": -0.028231475344669577,
+          "rms": 0.2729178981050162,
+          "positive_area_fraction": 0.6083382632572534,
+          "maximum": {
+            "value": 0.9508280663960791,
+            "lat": 20.25,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -1.2632480026725132,
+            "lat": 21.5,
+            "lon": 131.25
+          },
+          "projection_on_actual_change": 0.09875933016303426
+        },
+        "delta_planetary_advection": {
+          "mean": 0.018310757994933424,
+          "rms": 0.04969731908315925,
+          "positive_area_fraction": 0.7378453852358275,
+          "maximum": {
+            "value": 0.07841095937633277,
+            "lat": 19.75,
+            "lon": 134.0
+          },
+          "minimum": {
+            "value": -0.14184947127326056,
+            "lat": 20.5,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": 0.026894369116691658
+        },
+        "delta_stretching": {
+          "mean": -0.058719732573501084,
+          "rms": 0.4260714754668992,
+          "positive_area_fraction": 0.4196557334278365,
+          "maximum": {
+            "value": 1.8853753429065607,
+            "lat": 22.5,
+            "lon": 128.25
+          },
+          "minimum": {
+            "value": -1.4926298812369116,
+            "lat": 19.75,
+            "lon": 130.0
+          },
+          "projection_on_actual_change": -0.23574360324692126
+        },
+        "remainder": {
+          "mean": -0.0033409301917348335,
+          "rms": 0.304176013732196,
+          "positive_area_fraction": 0.4739316225642534,
+          "maximum": {
+            "value": 1.6243405540793907,
+            "lat": 20.25,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -0.7836468983419672,
+            "lat": 22.75,
+            "lon": 129.0
+          },
+          "projection_on_actual_change": 0.09257687355628812
+        }
+      }
+    },
+    {
+      "model": "tianxing",
+      "level": "850",
+      "start_hour": 0,
+      "end_hour": 24,
+      "actual": {
+        "mean": -0.15982400885808898,
+        "rms": 1.1547575832891261,
+        "positive_area_fraction": 0.4114259250440931,
+        "maximum": {
+          "value": 3.7796765900792253,
+          "lat": 24.75,
+          "lon": 129.0
+        },
+        "minimum": {
+          "value": -4.853973817149075,
+          "lat": 21.0,
+          "lon": 130.5
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.08083473771983851,
+          "rms": 1.6346560532235253,
+          "positive_area_fraction": 0.5016062126456862,
+          "maximum": {
+            "value": 4.789357940063864,
+            "lat": 24.75,
+            "lon": 129.25
+          },
+          "minimum": {
+            "value": -5.988767482431639,
+            "lat": 21.5,
+            "lon": 129.25
+          },
+          "projection_on_actual_change": 1.036410756441884
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.17012568055545887,
+          "rms": 1.7195139170360314,
+          "positive_area_fraction": 0.6236309956040975,
+          "maximum": {
+            "value": 6.600743666668441,
+            "lat": 21.75,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -9.001127806729347,
+            "lat": 20.75,
+            "lon": 128.5
+          },
+          "projection_on_actual_change": 0.19737169038760213
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.015890969323719167,
+          "rms": 1.6907818809716413,
+          "positive_area_fraction": 0.4379708568230438,
+          "maximum": {
+            "value": 6.762963756284137,
+            "lat": 20.5,
+            "lon": 128.25
+          },
+          "minimum": {
+            "value": -5.610816065290952,
+            "lat": 20.75,
+            "lon": 131.75
+          },
+          "projection_on_actual_change": 0.5576041729828235
+        },
+        "nonlinear_advection": {
+          "mean": -0.10518191215933954,
+          "rms": 0.6816686634233511,
+          "positive_area_fraction": 0.5683009630941193,
+          "maximum": {
+            "value": 2.0303356332029763,
+            "lat": 19.75,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -3.5703949426151333,
+            "lat": 21.25,
+            "lon": 130.5
+          },
+          "projection_on_actual_change": 0.2814348930714584
+        },
+        "delta_planetary_advection": {
+          "mean": 0.024482614681367414,
+          "rms": 0.1258323283773309,
+          "positive_area_fraction": 0.6644225871513629,
+          "maximum": {
+            "value": 0.18456717746240903,
+            "lat": 14.0,
+            "lon": 136.0
+          },
+          "minimum": {
+            "value": -0.3716126693162981,
+            "lat": 20.25,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": 0.018166581773833075
+        },
+        "delta_stretching": {
+          "mean": -0.2717338406656723,
+          "rms": 1.2853345790000306,
+          "positive_area_fraction": 0.3815867309655625,
+          "maximum": {
+            "value": 4.9038431407481795,
+            "lat": 22.5,
+            "lon": 128.75
+          },
+          "minimum": {
+            "value": -5.159425683897663,
+            "lat": 20.0,
+            "lon": 129.75
+          },
+          "projection_on_actual_change": 0.20045040275521397
+        },
+        "remainder": {
+          "mean": 0.006592479406377317,
+          "rms": 0.8006504987317952,
+          "positive_area_fraction": 0.5305612268874011,
+          "maximum": {
+            "value": 5.162003524689558,
+            "lat": 20.5,
+            "lon": 129.75
+          },
+          "minimum": {
+            "value": -2.6913494547474937,
+            "lat": 22.75,
+            "lon": 129.5
+          },
+          "projection_on_actual_change": -0.25502774097093117
+        }
+      }
+    },
+    {
+      "model": "tianxing",
+      "level": "700",
+      "start_hour": 0,
+      "end_hour": 6,
+      "actual": {
+        "mean": -0.009427291073115143,
+        "rms": 0.3742116075009445,
+        "positive_area_fraction": 0.4306877624227478,
+        "maximum": {
+          "value": 1.548180440746869,
+          "lat": 21.75,
+          "lon": 132.25
+        },
+        "minimum": {
+          "value": -1.3840441842540785,
+          "lat": 21.25,
+          "lon": 129.75
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.10456843063350145,
+          "rms": 0.6151419595478433,
+          "positive_area_fraction": 0.5398456226098325,
+          "maximum": {
+            "value": 3.663994241317458,
+            "lat": 22.0,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -2.060639767294355,
+            "lat": 19.25,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.6518664522438853
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.042100858082491345,
+          "rms": 0.387246126494038,
+          "positive_area_fraction": 0.5995408956940141,
+          "maximum": {
+            "value": 2.733705918461242,
+            "lat": 21.0,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -1.8336902162012274,
+            "lat": 21.0,
+            "lon": 128.5
+          },
+          "projection_on_actual_change": 0.04474387884446096
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.047371333870377105,
+          "rms": 0.5184503805176712,
+          "positive_area_fraction": 0.512634734074519,
+          "maximum": {
+            "value": 2.041607921267611,
+            "lat": 20.5,
+            "lon": 128.0
+          },
+          "minimum": {
+            "value": -2.1005549111175266,
+            "lat": 19.5,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.38750781881570123
+        },
+        "nonlinear_advection": {
+          "mean": 0.015096238680632994,
+          "rms": 0.15306288990059982,
+          "positive_area_fraction": 0.5624903773570997,
+          "maximum": {
+            "value": 0.5508448017031682,
+            "lat": 22.0,
+            "lon": 131.25
+          },
+          "minimum": {
+            "value": -1.0109282153035126,
+            "lat": 20.25,
+            "lon": 130.5
+          },
+          "projection_on_actual_change": 0.21961475458372318
+        },
+        "delta_planetary_advection": {
+          "mean": -0.006997363389119305,
+          "rms": 0.02480426528031164,
+          "positive_area_fraction": 0.4036386465358998,
+          "maximum": {
+            "value": 0.04576103246150717,
+            "lat": 20.25,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -0.09830743034027536,
+            "lat": 17.75,
+            "lon": 129.25
+          },
+          "projection_on_actual_change": -0.021026994134867843
+        },
+        "delta_stretching": {
+          "mean": -0.09552190659654163,
+          "rms": 0.5841851708513678,
+          "positive_area_fraction": 0.32935947134602206,
+          "maximum": {
+            "value": 2.186464805371223,
+            "lat": 19.5,
+            "lon": 131.75
+          },
+          "minimum": {
+            "value": -3.977161600079924,
+            "lat": 21.0,
+            "lon": 129.5
+          },
+          "projection_on_actual_change": 0.15773874594495133
+        },
+        "remainder": {
+          "mean": -0.011476451720955669,
+          "rms": 0.5900295712082128,
+          "positive_area_fraction": 0.478924787486786,
+          "maximum": {
+            "value": 3.376259663489341,
+            "lat": 20.75,
+            "lon": 129.25
+          },
+          "minimum": {
+            "value": -2.2758714760016954,
+            "lat": 22.5,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": 0.21142179594603105
+        }
+      }
+    },
+    {
+      "model": "tianxing",
+      "level": "700",
+      "start_hour": 6,
+      "end_hour": 12,
+      "actual": {
+        "mean": -0.007167368241271489,
+        "rms": 0.35185476067593574,
+        "positive_area_fraction": 0.4603072076166026,
+        "maximum": {
+          "value": 1.7023441850690895,
+          "lat": 23.5,
+          "lon": 130.0
+        },
+        "minimum": {
+          "value": -1.1975986932499587,
+          "lat": 20.5,
+          "lon": 131.25
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.0758438348488308,
+          "rms": 0.40376000010315716,
+          "positive_area_fraction": 0.6073831017832804,
+          "maximum": {
+            "value": 1.7537408227902138,
+            "lat": 23.5,
+            "lon": 130.25
+          },
+          "minimum": {
+            "value": -1.1679045395437881,
+            "lat": 19.75,
+            "lon": 132.0
+          },
+          "projection_on_actual_change": 0.88858813495706
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.0022504875759191325,
+          "rms": 0.28667847967940885,
+          "positive_area_fraction": 0.6010374657786985,
+          "maximum": {
+            "value": 1.228950699443783,
+            "lat": 21.25,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -1.5306814693020812,
+            "lat": 20.75,
+            "lon": 128.25
+          },
+          "projection_on_actual_change": -0.15524736698222943
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.06085897537356824,
+          "rms": 0.5230202412630939,
+          "positive_area_fraction": 0.5558943568175042,
+          "maximum": {
+            "value": 2.0428143882958607,
+            "lat": 20.5,
+            "lon": 127.75
+          },
+          "minimum": {
+            "value": -1.8523435772691677,
+            "lat": 20.0,
+            "lon": 132.25
+          },
+          "projection_on_actual_change": 1.0229643619915652
+        },
+        "nonlinear_advection": {
+          "mean": 0.0127343718993434,
+          "rms": 0.1299872241386812,
+          "positive_area_fraction": 0.5651015193891936,
+          "maximum": {
+            "value": 0.4940858239436059,
+            "lat": 18.75,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -0.665653287853221,
+            "lat": 21.0,
+            "lon": 130.0
+          },
+          "projection_on_actual_change": 0.02087113994772395
+        },
+        "delta_planetary_advection": {
+          "mean": -0.003018323322009627,
+          "rms": 0.026313782615745466,
+          "positive_area_fraction": 0.5183027825672415,
+          "maximum": {
+            "value": 0.04237392806001402,
+            "lat": 20.25,
+            "lon": 131.25
+          },
+          "minimum": {
+            "value": -0.07227604188741615,
+            "lat": 19.0,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": -0.019876824852007542
+        },
+        "delta_stretching": {
+          "mean": -0.08818961763757466,
+          "rms": 0.24240870218033136,
+          "positive_area_fraction": 0.24420764544426518,
+          "maximum": {
+            "value": 0.9525459479335294,
+            "lat": 19.5,
+            "lon": 131.75
+          },
+          "minimum": {
+            "value": -0.9100509841098228,
+            "lat": 20.0,
+            "lon": 128.5
+          },
+          "projection_on_actual_change": -0.12990876409846935
+        },
+        "remainder": {
+          "mean": 0.008196737869481998,
+          "rms": 0.19813363975656173,
+          "positive_area_fraction": 0.5190427358539076,
+          "maximum": {
+            "value": 0.7107857213949039,
+            "lat": 20.5,
+            "lon": 129.25
+          },
+          "minimum": {
+            "value": -0.9823560080312559,
+            "lat": 20.5,
+            "lon": 131.25
+          },
+          "projection_on_actual_change": 0.2611974539934169
+        }
+      }
+    },
+    {
+      "model": "tianxing",
+      "level": "700",
+      "start_hour": 12,
+      "end_hour": 18,
+      "actual": {
+        "mean": -0.032943991490689585,
+        "rms": 0.3805761717316043,
+        "positive_area_fraction": 0.4408081219362948,
+        "maximum": {
+          "value": 1.8069703750886945,
+          "lat": 24.5,
+          "lon": 129.25
+        },
+        "minimum": {
+          "value": -1.439694942281729,
+          "lat": 21.25,
+          "lon": 131.0
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.047869887073562045,
+          "rms": 0.4147629701736289,
+          "positive_area_fraction": 0.5672519593205376,
+          "maximum": {
+            "value": 2.129800342822664,
+            "lat": 24.25,
+            "lon": 129.25
+          },
+          "minimum": {
+            "value": -1.0481550563865607,
+            "lat": 21.0,
+            "lon": 129.75
+          },
+          "projection_on_actual_change": 0.8623566429899261
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.04232118533033016,
+          "rms": 0.3425899315353885,
+          "positive_area_fraction": 0.6590696826188189,
+          "maximum": {
+            "value": 1.617311560908874,
+            "lat": 21.75,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -1.3872646342593602,
+            "lat": 20.75,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": -0.2474068451984562
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.001501651014823916,
+          "rms": 0.5527179879636226,
+          "positive_area_fraction": 0.4859717519962598,
+          "maximum": {
+            "value": 2.4552741779438203,
+            "lat": 24.5,
+            "lon": 129.0
+          },
+          "minimum": {
+            "value": -2.0173417817290007,
+            "lat": 21.5,
+            "lon": 131.25
+          },
+          "projection_on_actual_change": 1.0717789388235655
+        },
+        "nonlinear_advection": {
+          "mean": 0.004047050728407968,
+          "rms": 0.15400410207028278,
+          "positive_area_fraction": 0.5608349979035328,
+          "maximum": {
+            "value": 0.5406245693923937,
+            "lat": 23.0,
+            "lon": 131.75
+          },
+          "minimum": {
+            "value": -0.672959739831549,
+            "lat": 21.0,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": 0.03798454936481683
+        },
+        "delta_planetary_advection": {
+          "mean": 0.002990985184414184,
+          "rms": 0.03462635342869452,
+          "positive_area_fraction": 0.5681218595659222,
+          "maximum": {
+            "value": 0.060624165129268076,
+            "lat": 15.0,
+            "lon": 137.75
+          },
+          "minimum": {
+            "value": -0.07763687565095789,
+            "lat": 19.5,
+            "lon": 127.5
+          },
+          "projection_on_actual_change": -0.002859673495287284
+        },
+        "delta_stretching": {
+          "mean": -0.09868188883161186,
+          "rms": 0.21615060001645522,
+          "positive_area_fraction": 0.19617311663150705,
+          "maximum": {
+            "value": 0.8086157831181597,
+            "lat": 20.0,
+            "lon": 131.75
+          },
+          "minimum": {
+            "value": -0.8126085109617136,
+            "lat": 23.0,
+            "lon": 131.0
+          },
+          "projection_on_actual_change": -0.061397162475312475
+        },
+        "remainder": {
+          "mean": 0.01487702508294602,
+          "rms": 0.20080339711636075,
+          "positive_area_fraction": 0.5736301412505482,
+          "maximum": {
+            "value": 0.9850473908494962,
+            "lat": 19.5,
+            "lon": 129.75
+          },
+          "minimum": {
+            "value": -0.9275898478646751,
+            "lat": 20.75,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.20190019298067377
+        }
+      }
+    },
+    {
+      "model": "tianxing",
+      "level": "700",
+      "start_hour": 18,
+      "end_hour": 24,
+      "actual": {
+        "mean": -0.07221009290502092,
+        "rms": 0.41847725872163627,
+        "positive_area_fraction": 0.38540284334240815,
+        "maximum": {
+          "value": 1.93069316661848,
+          "lat": 25.0,
+          "lon": 128.0
+        },
+        "minimum": {
+          "value": -1.7809253465957808,
+          "lat": 22.25,
+          "lon": 130.5
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": -0.010928591743620847,
+          "rms": 0.420157549536282,
+          "positive_area_fraction": 0.5054500930953638,
+          "maximum": {
+            "value": 1.9351956081895452,
+            "lat": 25.0,
+            "lon": 128.25
+          },
+          "minimum": {
+            "value": -1.5637901447194147,
+            "lat": 22.0,
+            "lon": 129.75
+          },
+          "projection_on_actual_change": 0.8476972221828257
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.09192281746579266,
+          "rms": 0.3412057488688329,
+          "positive_area_fraction": 0.6761305301093935,
+          "maximum": {
+            "value": 1.7015494891775498,
+            "lat": 22.5,
+            "lon": 130.0
+          },
+          "minimum": {
+            "value": -0.9416557968816979,
+            "lat": 20.5,
+            "lon": 127.5
+          },
+          "projection_on_actual_change": -0.3519166562391466
+        },
+        "control_on_delta_gradient": {
+          "mean": -0.09783971657646444,
+          "rms": 0.6037708436639665,
+          "positive_area_fraction": 0.43393987319533106,
+          "maximum": {
+            "value": 2.369295936499965,
+            "lat": 25.0,
+            "lon": 127.75
+          },
+          "minimum": {
+            "value": -2.9330084788812343,
+            "lat": 22.5,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": 1.2462883646933398
+        },
+        "nonlinear_advection": {
+          "mean": -0.005011692632949069,
+          "rms": 0.1712637186245081,
+          "positive_area_fraction": 0.5779018883467008,
+          "maximum": {
+            "value": 0.6387711168679733,
+            "lat": 23.75,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -0.7920211891113542,
+            "lat": 23.5,
+            "lon": 127.75
+          },
+          "projection_on_actual_change": -0.046674486271367284
+        },
+        "delta_planetary_advection": {
+          "mean": 0.01215809453387166,
+          "rms": 0.04452415619779968,
+          "positive_area_fraction": 0.6306639723191554,
+          "maximum": {
+            "value": 0.083193751986823,
+            "lat": 16.75,
+            "lon": 138.0
+          },
+          "minimum": {
+            "value": -0.09754696863430472,
+            "lat": 24.75,
+            "lon": 131.25
+          },
+          "projection_on_actual_change": 0.019577992515206186
+        },
+        "delta_stretching": {
+          "mean": -0.0783742318873328,
+          "rms": 0.186510419702122,
+          "positive_area_fraction": 0.22890372805251127,
+          "maximum": {
+            "value": 0.7257246069028164,
+            "lat": 22.25,
+            "lon": 128.0
+          },
+          "minimum": {
+            "value": -0.5459188790292163,
+            "lat": 23.25,
+            "lon": 131.0
+          },
+          "projection_on_actual_change": 0.0015335820770785151
+        },
+        "remainder": {
+          "mean": 0.004934636192061024,
+          "rms": 0.17532768141825386,
+          "positive_area_fraction": 0.5366935099551003,
+          "maximum": {
+            "value": 0.7615281935617684,
+            "lat": 19.5,
+            "lon": 129.75
+          },
+          "minimum": {
+            "value": -0.5647324398775925,
+            "lat": 20.5,
+            "lon": 132.25
+          },
+          "projection_on_actual_change": 0.13119120322488956
+        }
+      }
+    },
+    {
+      "model": "tianxing",
+      "level": "700",
+      "start_hour": 0,
+      "end_hour": 24,
+      "actual": {
+        "mean": -0.12174874371009718,
+        "rms": 1.0589626006782429,
+        "positive_area_fraction": 0.3883915081587509,
+        "maximum": {
+          "value": 3.8367153131870575,
+          "lat": 24.5,
+          "lon": 128.75
+        },
+        "minimum": {
+          "value": -4.311378275454437,
+          "lat": 21.0,
+          "lon": 130.5
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.21735356081227344,
+          "rms": 1.344660316634934,
+          "positive_area_fraction": 0.5879152921925661,
+          "maximum": {
+            "value": 4.967602941546429,
+            "lat": 24.0,
+            "lon": 129.5
+          },
+          "minimum": {
+            "value": -3.9708607891917405,
+            "lat": 19.5,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.802261551645814
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.1785953484545333,
+          "rms": 1.2160263205450836,
+          "positive_area_fraction": 0.6762463451140476,
+          "maximum": {
+            "value": 6.631503465198946,
+            "lat": 21.25,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -5.264853875875474,
+            "lat": 20.75,
+            "lon": 128.25
+          },
+          "projection_on_actual_change": -0.21214486553944992
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.011892243682304848,
+          "rms": 1.572445341680772,
+          "positive_area_fraction": 0.4758540728724179,
+          "maximum": {
+            "value": 5.807220055297502,
+            "lat": 20.5,
+            "lon": 127.75
+          },
+          "minimum": {
+            "value": -5.477851122668977,
+            "lat": 20.25,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.8898828715294461
+        },
+        "nonlinear_advection": {
+          "mean": 0.02686596867543529,
+          "rms": 0.5256381377709002,
+          "positive_area_fraction": 0.5955193900821105,
+          "maximum": {
+            "value": 1.6379022740006044,
+            "lat": 19.25,
+            "lon": 128.25
+          },
+          "minimum": {
+            "value": -2.596392657137736,
+            "lat": 20.75,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": 0.12452354565581777
+        },
+        "delta_planetary_advection": {
+          "mean": 0.005133393007156912,
+          "rms": 0.11989885296744823,
+          "positive_area_fraction": 0.5658655898354257,
+          "maximum": {
+            "value": 0.19457350078239044,
+            "lat": 14.5,
+            "lon": 137.5
+          },
+          "minimum": {
+            "value": -0.2993443166339204,
+            "lat": 19.0,
+            "lon": 127.75
+          },
+          "projection_on_actual_change": -0.012764163219589241
+        },
+        "delta_stretching": {
+          "mean": -0.3607676449530609,
+          "rms": 0.9655231029520558,
+          "positive_area_fraction": 0.15494030995054975,
+          "maximum": {
+            "value": 4.130566562597796,
+            "lat": 19.5,
+            "lon": 132.0
+          },
+          "minimum": {
+            "value": -4.525984098479672,
+            "lat": 20.75,
+            "lon": 129.25
+          },
+          "projection_on_actual_change": 0.05844937128816916
+        },
+        "remainder": {
+          "mean": 0.01653194742353338,
+          "rms": 0.877892944488091,
+          "positive_area_fraction": 0.5185337106679468,
+          "maximum": {
+            "value": 4.897579530068411,
+            "lat": 20.5,
+            "lon": 129.25
+          },
+          "minimum": {
+            "value": -4.376973040199415,
+            "lat": 20.75,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.15205324028560618
+        }
+      }
+    },
+    {
+      "model": "tianxing",
+      "level": "850_700_mean",
+      "start_hour": 0,
+      "end_hour": 6,
+      "actual": {
+        "mean": -0.013064471657352627,
+        "rms": 0.311893489433677,
+        "positive_area_fraction": 0.4868638582758778,
+        "maximum": {
+          "value": 1.333128595464319,
+          "lat": 22.0,
+          "lon": 132.0
+        },
+        "minimum": {
+          "value": -1.154321027332894,
+          "lat": 19.0,
+          "lon": 132.75
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.07854765125012872,
+          "rms": 0.46445086554140735,
+          "positive_area_fraction": 0.5509873672934742,
+          "maximum": {
+            "value": 2.9156750511804885,
+            "lat": 21.75,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -1.4040717967898317,
+            "lat": 19.25,
+            "lon": 132.0
+          },
+          "projection_on_actual_change": 0.9859691318070606
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.03703336197748266,
+          "rms": 0.34315478102888153,
+          "positive_area_fraction": 0.6107741317358886,
+          "maximum": {
+            "value": 2.3626350011822326,
+            "lat": 21.0,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -1.6161154613444182,
+            "lat": 21.0,
+            "lon": 128.75
+          },
+          "projection_on_actual_change": 0.1381120429325878
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.04194480931716957,
+          "rms": 0.3902047867747773,
+          "positive_area_fraction": 0.5370522100429307,
+          "maximum": {
+            "value": 1.688687210699939,
+            "lat": 20.5,
+            "lon": 127.75
+          },
+          "minimum": {
+            "value": -1.6841007116361997,
+            "lat": 19.75,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.5977857314030102
+        },
+        "nonlinear_advection": {
+          "mean": -0.000430520044523517,
+          "rms": 0.12009811476466122,
+          "positive_area_fraction": 0.5317782228537038,
+          "maximum": {
+            "value": 0.37238220102344577,
+            "lat": 22.25,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -0.820296563439666,
+            "lat": 20.25,
+            "lon": 130.5
+          },
+          "projection_on_actual_change": 0.2500713574714626
+        },
+        "delta_planetary_advection": {
+          "mean": -0.005330618366897406,
+          "rms": 0.018881209152836167,
+          "positive_area_fraction": 0.4314763296376115,
+          "maximum": {
+            "value": 0.02234733844219402,
+            "lat": 13.75,
+            "lon": 136.5
+          },
+          "minimum": {
+            "value": -0.07013005562722302,
+            "lat": 18.0,
+            "lon": 129.0
+          },
+          "projection_on_actual_change": -0.014012714472574066
+        },
+        "delta_stretching": {
+          "mean": -0.08118884320923372,
+          "rms": 0.4201861908888685,
+          "positive_area_fraction": 0.3017621142255977,
+          "maximum": {
+            "value": 1.341203848635156,
+            "lat": 19.5,
+            "lon": 132.25
+          },
+          "minimum": {
+            "value": -2.7909151378705213,
+            "lat": 21.0,
+            "lon": 129.5
+          },
+          "projection_on_actual_change": 0.1791689777744194
+        },
+        "remainder": {
+          "mean": -0.005092661331350223,
+          "rms": 0.4380515433624769,
+          "positive_area_fraction": 0.5001878980169692,
+          "maximum": {
+            "value": 2.771796784961819,
+            "lat": 20.75,
+            "lon": 129.25
+          },
+          "minimum": {
+            "value": -1.5656731549357383,
+            "lat": 21.0,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": -0.15112539510890596
+        }
+      }
+    },
+    {
+      "model": "tianxing",
+      "level": "850_700_mean",
+      "start_hour": 6,
+      "end_hour": 12,
+      "actual": {
+        "mean": -0.016015524609857165,
+        "rms": 0.38002420255266267,
+        "positive_area_fraction": 0.466967437536576,
+        "maximum": {
+          "value": 1.6773989883838614,
+          "lat": 23.5,
+          "lon": 130.25
+        },
+        "minimum": {
+          "value": -1.3579625250784408,
+          "lat": 20.5,
+          "lon": 130.75
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.055196097881415794,
+          "rms": 0.43141161747283774,
+          "positive_area_fraction": 0.587932571898835,
+          "maximum": {
+            "value": 1.6484622572430456,
+            "lat": 23.5,
+            "lon": 130.25
+          },
+          "minimum": {
+            "value": -1.4544434828511945,
+            "lat": 20.5,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": 0.9193018772220799
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.01052356511407125,
+          "rms": 0.3470349950237672,
+          "positive_area_fraction": 0.658130208716309,
+          "maximum": {
+            "value": 1.3422568480773935,
+            "lat": 21.25,
+            "lon": 131.25
+          },
+          "minimum": {
+            "value": -1.9816234588630601,
+            "lat": 20.75,
+            "lon": 128.5
+          },
+          "projection_on_actual_change": 0.03251741227723451
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.05268238985189226,
+          "rms": 0.4914722553736559,
+          "positive_area_fraction": 0.5568493824617142,
+          "maximum": {
+            "value": 1.9917125715477197,
+            "lat": 20.5,
+            "lon": 128.0
+          },
+          "minimum": {
+            "value": -1.871685172396932,
+            "lat": 20.25,
+            "lon": 132.0
+          },
+          "projection_on_actual_change": 0.7507197274527839
+        },
+        "nonlinear_advection": {
+          "mean": -0.008009857084547739,
+          "rms": 0.14410259495594055,
+          "positive_area_fraction": 0.5198952431231327,
+          "maximum": {
+            "value": 0.46237200907528775,
+            "lat": 19.0,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -0.8483527032956553,
+            "lat": 21.0,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": 0.13606473749206138
+        },
+        "delta_planetary_advection": {
+          "mean": -0.0013294549691836082,
+          "rms": 0.025514918251888428,
+          "positive_area_fraction": 0.5433735877817111,
+          "maximum": {
+            "value": 0.03956825552566151,
+            "lat": 13.75,
+            "lon": 137.0
+          },
+          "minimum": {
+            "value": -0.0767228278737003,
+            "lat": 19.5,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": -0.012559350487902438
+        },
+        "delta_stretching": {
+          "mean": -0.0766932045231701,
+          "rms": 0.2325827630745424,
+          "positive_area_fraction": 0.2925379479267286,
+          "maximum": {
+            "value": 0.6983138353742866,
+            "lat": 22.5,
+            "lon": 128.75
+          },
+          "minimum": {
+            "value": -0.8475347689108756,
+            "lat": 20.0,
+            "lon": 128.75
+          },
+          "projection_on_actual_change": 0.0025000876511122767
+        },
+        "remainder": {
+          "mean": 0.006811037001080787,
+          "rms": 0.15145063606074097,
+          "positive_area_fraction": 0.5197355492023668,
+          "maximum": {
+            "value": 0.6349747222746338,
+            "lat": 20.5,
+            "lon": 129.25
+          },
+          "minimum": {
+            "value": -0.6282126428143974,
+            "lat": 21.0,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.09075738561471029
+        }
+      }
+    },
+    {
+      "model": "tianxing",
+      "level": "850_700_mean",
+      "start_hour": 12,
+      "end_hour": 18,
+      "actual": {
+        "mean": -0.038397879866371054,
+        "rms": 0.43425546813277255,
+        "positive_area_fraction": 0.411723911325672,
+        "maximum": {
+          "value": 1.7978923490967897,
+          "lat": 24.5,
+          "lon": 129.25
+        },
+        "minimum": {
+          "value": -1.8960378432959692,
+          "lat": 21.25,
+          "lon": 131.0
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.03614319731917247,
+          "rms": 0.48043381229577076,
+          "positive_area_fraction": 0.5258789587687328,
+          "maximum": {
+            "value": 2.1095112367950053,
+            "lat": 24.5,
+            "lon": 129.5
+          },
+          "minimum": {
+            "value": -1.5859221748493488,
+            "lat": 21.25,
+            "lon": 130.0
+          },
+          "projection_on_actual_change": 0.950956861685169
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.04376539921264252,
+          "rms": 0.43139005846691475,
+          "positive_area_fraction": 0.6453741232902234,
+          "maximum": {
+            "value": 1.7532373821299116,
+            "lat": 22.0,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -2.0846006986054846,
+            "lat": 21.0,
+            "lon": 128.25
+          },
+          "projection_on_actual_change": -0.13883308023306604
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.006473808730601469,
+          "rms": 0.5743248829713539,
+          "positive_area_fraction": 0.48229172385412017,
+          "maximum": {
+            "value": 2.3897234504230966,
+            "lat": 24.5,
+            "lon": 129.0
+          },
+          "minimum": {
+            "value": -2.223648797014691,
+            "lat": 21.5,
+            "lon": 131.25
+          },
+          "projection_on_actual_change": 0.9465855899484957
+        },
+        "nonlinear_advection": {
+          "mean": -0.014096010624071544,
+          "rms": 0.1859048309855076,
+          "positive_area_fraction": 0.5457980599622717,
+          "maximum": {
+            "value": 0.5431865722942126,
+            "lat": 19.75,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -0.9398368256469833,
+            "lat": 21.25,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": 0.14320435196973955
+        },
+        "delta_planetary_advection": {
+          "mean": 0.006233650915940637,
+          "rms": 0.03510567928907881,
+          "positive_area_fraction": 0.6118039410124564,
+          "maximum": {
+            "value": 0.05648160155626397,
+            "lat": 16.0,
+            "lon": 138.25
+          },
+          "minimum": {
+            "value": -0.09005838858530535,
+            "lat": 20.0,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": 0.000564466680642357
+        },
+        "delta_stretching": {
+          "mean": -0.08982171284654586,
+          "rms": 0.23830124672972694,
+          "positive_area_fraction": 0.25088468459232877,
+          "maximum": {
+            "value": 0.7295446916300761,
+            "lat": 22.5,
+            "lon": 128.25
+          },
+          "minimum": {
+            "value": -0.8570650405566832,
+            "lat": 19.75,
+            "lon": 129.25
+          },
+          "projection_on_actual_change": -0.08488337522907255
+        },
+        "remainder": {
+          "mean": 0.009046984745061687,
+          "rms": 0.18980537343593198,
+          "positive_area_fraction": 0.5491237361198711,
+          "maximum": {
+            "value": 0.9576518693264485,
+            "lat": 20.0,
+            "lon": 129.75
+          },
+          "minimum": {
+            "value": -0.6426976229614283,
+            "lat": 21.25,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.13336204686326084
+        }
+      }
+    },
+    {
+      "model": "tianxing",
+      "level": "850_700_mean",
+      "start_hour": 18,
+      "end_hour": 24,
+      "actual": {
+        "mean": -0.07330850015051227,
+        "rms": 0.424084997548251,
+        "positive_area_fraction": 0.36774484843136457,
+        "maximum": {
+          "value": 1.8492820285338105,
+          "lat": 25.0,
+          "lon": 128.0
+        },
+        "minimum": {
+          "value": -1.9273570978855872,
+          "lat": 22.25,
+          "lon": 130.75
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": -0.02079279718466097,
+          "rms": 0.4980777147376536,
+          "positive_area_fraction": 0.45829936039492947,
+          "maximum": {
+            "value": 2.071757415681377,
+            "lat": 25.0,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -1.961422592541212,
+            "lat": 22.0,
+            "lon": 130.0
+          },
+          "projection_on_actual_change": 1.0120783597518659
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.08303818820079967,
+          "rms": 0.4268022141405164,
+          "positive_area_fraction": 0.6366883820698722,
+          "maximum": {
+            "value": 1.9520611797537284,
+            "lat": 22.5,
+            "lon": 130.25
+          },
+          "minimum": {
+            "value": -1.6412076042830963,
+            "lat": 20.75,
+            "lon": 127.75
+          },
+          "projection_on_actual_change": -0.3025445161311239
+        },
+        "control_on_delta_gradient": {
+          "mean": -0.08720940139665129,
+          "rms": 0.6360640136484449,
+          "positive_area_fraction": 0.39720004178551027,
+          "maximum": {
+            "value": 2.5762292750057396,
+            "lat": 25.0,
+            "lon": 128.0
+          },
+          "minimum": {
+            "value": -3.28537468331065,
+            "lat": 22.5,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": 1.2738562352726617
+        },
+        "nonlinear_advection": {
+          "mean": -0.01662158398880932,
+          "rms": 0.206394951331207,
+          "positive_area_fraction": 0.6314845682153131,
+          "maximum": {
+            "value": 0.6297087904580683,
+            "lat": 20.0,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -0.8265895588904557,
+            "lat": 21.25,
+            "lon": 131.0
+          },
+          "projection_on_actual_change": 0.0407666406103279
+        },
+        "delta_planetary_advection": {
+          "mean": 0.01523442626440254,
+          "rms": 0.045569454812166406,
+          "positive_area_fraction": 0.6965962597896888,
+          "maximum": {
+            "value": 0.07448132750989625,
+            "lat": 17.5,
+            "lon": 137.75
+          },
+          "minimum": {
+            "value": -0.11110698461993818,
+            "lat": 20.25,
+            "lon": 127.75
+          },
+          "projection_on_actual_change": 0.023356116429142943
+        },
+        "delta_stretching": {
+          "mean": -0.06854698223041694,
+          "rms": 0.27688003631917435,
+          "positive_area_fraction": 0.281136051726374,
+          "maximum": {
+            "value": 1.2706637831247471,
+            "lat": 22.5,
+            "lon": 128.0
+          },
+          "minimum": {
+            "value": -0.9550993628357782,
+            "lat": 19.75,
+            "lon": 129.25
+          },
+          "projection_on_actual_change": -0.12177404782531756
+        },
+        "remainder": {
+          "mean": 0.0007968530001631032,
+          "rms": 0.1957473656782082,
+          "positive_area_fraction": 0.49371500320763567,
+          "maximum": {
+            "value": 0.9863541624501495,
+            "lat": 20.25,
+            "lon": 130.25
+          },
+          "minimum": {
+            "value": -0.4905476390499611,
+            "lat": 23.0,
+            "lon": 129.25
+          },
+          "projection_on_actual_change": 0.08633957164430872
+        }
+      }
+    },
+    {
+      "model": "tianxing",
+      "level": "850_700_mean",
+      "start_hour": 0,
+      "end_hour": 24,
+      "actual": {
+        "mean": -0.14078637628409307,
+        "rms": 1.0791215218865886,
+        "positive_area_fraction": 0.38342379361882223,
+        "maximum": {
+          "value": 3.7581725976021687,
+          "lat": 24.75,
+          "lon": 128.75
+        },
+        "minimum": {
+          "value": -4.582676046301756,
+          "lat": 21.0,
+          "lon": 130.5
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.14909414926605602,
+          "rms": 1.374562760421137,
+          "positive_area_fraction": 0.5566135495663544,
+          "maximum": {
+            "value": 4.631492724299507,
+            "lat": 24.5,
+            "lon": 129.25
+          },
+          "minimum": {
+            "value": -4.556836201638253,
+            "lat": 21.25,
+            "lon": 129.25
+          },
+          "projection_on_actual_change": 0.973914399685121
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.17436051450499607,
+          "rms": 1.42905579257761,
+          "positive_area_fraction": 0.6569604303264851,
+          "maximum": {
+            "value": 6.430681132168726,
+            "lat": 21.5,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -7.083298891224059,
+            "lat": 20.75,
+            "lon": 128.25
+          },
+          "projection_on_actual_change": -0.016760539047672045
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.013891606503012036,
+          "rms": 1.5517123026412454,
+          "positive_area_fraction": 0.4506245746810068,
+          "maximum": {
+            "value": 6.108914715779428,
+            "lat": 20.5,
+            "lon": 128.0
+          },
+          "minimum": {
+            "value": -5.399584924092595,
+            "lat": 20.5,
+            "lon": 131.75
+          },
+          "projection_on_actual_change": 0.7788943138077953
+        },
+        "nonlinear_advection": {
+          "mean": -0.03915797174195212,
+          "rms": 0.5605888102066561,
+          "positive_area_fraction": 0.572936908331859,
+          "maximum": {
+            "value": 1.7486944059060074,
+            "lat": 19.5,
+            "lon": 128.25
+          },
+          "minimum": {
+            "value": -2.8618707257448643,
+            "lat": 21.0,
+            "lon": 130.5
+          },
+          "projection_on_actual_change": 0.21178062492499766
+        },
+        "delta_planetary_advection": {
+          "mean": 0.014808003844262167,
+          "rms": 0.11716240476775332,
+          "positive_area_fraction": 0.6094350895866405,
+          "maximum": {
+            "value": 0.1842807492460928,
+            "lat": 14.25,
+            "lon": 137.0
+          },
+          "minimum": {
+            "value": -0.31550198011664654,
+            "lat": 19.75,
+            "lon": 127.75
+          },
+          "projection_on_actual_change": 0.0021012608211790212
+        },
+        "delta_stretching": {
+          "mean": -0.3162507428093666,
+          "rms": 0.9414006443975935,
+          "positive_area_fraction": 0.2356838252240626,
+          "maximum": {
+            "value": 2.9168499679453874,
+            "lat": 22.75,
+            "lon": 128.25
+          },
+          "minimum": {
+            "value": -4.459469677696536,
+            "lat": 20.25,
+            "lon": 129.25
+          },
+          "projection_on_actual_change": 0.10946758746110108
+        },
+        "remainder": {
+          "mean": 0.011562213414955336,
+          "rms": 0.7149293600094823,
+          "positive_area_fraction": 0.5322935684471083,
+          "maximum": {
+            "value": 4.887733077907673,
+            "lat": 20.5,
+            "lon": 129.5
+          },
+          "minimum": {
+            "value": -2.690946222022362,
+            "lat": 21.25,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": -0.08548324796740132
+        }
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "level": "850",
+      "start_hour": 0,
+      "end_hour": 6,
+      "actual": {
+        "mean": -0.01419884265486215,
+        "rms": 0.406090821544997,
+        "positive_area_fraction": 0.5892858567599637,
+        "maximum": {
+          "value": 2.212265000723558,
+          "lat": 22.5,
+          "lon": 131.0
+        },
+        "minimum": {
+          "value": -1.804601535958909,
+          "lat": 20.25,
+          "lon": 130.75
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.019847107100068567,
+          "rms": 0.3348700721599436,
+          "positive_area_fraction": 0.5700021684019625,
+          "maximum": {
+            "value": 1.7506408347655675,
+            "lat": 22.25,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -1.2016546074705863,
+            "lat": 19.75,
+            "lon": 132.25
+          },
+          "projection_on_actual_change": 0.5494374294885405
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.04863567533920723,
+          "rms": 0.31725266680257735,
+          "positive_area_fraction": 0.6614545642871075,
+          "maximum": {
+            "value": 2.2316163885043294,
+            "lat": 21.0,
+            "lon": 131.25
+          },
+          "minimum": {
+            "value": -1.0485738766146468,
+            "lat": 20.75,
+            "lon": 128.75
+          },
+          "projection_on_actual_change": 0.07874939927884234
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.007097395366792783,
+          "rms": 0.29114216906207174,
+          "positive_area_fraction": 0.522986244100019,
+          "maximum": {
+            "value": 1.1293464872739656,
+            "lat": 20.5,
+            "lon": 127.25
+          },
+          "minimum": {
+            "value": -1.5768779918112708,
+            "lat": 20.5,
+            "lon": 131.75
+          },
+          "projection_on_actual_change": 0.2911005947468621
+        },
+        "nonlinear_advection": {
+          "mean": -0.03588596360593143,
+          "rms": 0.1216323108753126,
+          "positive_area_fraction": 0.4461896170419139,
+          "maximum": {
+            "value": 0.20770385624483295,
+            "lat": 22.0,
+            "lon": 132.5
+          },
+          "minimum": {
+            "value": -0.7988622081639747,
+            "lat": 20.25,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.17958743546283587
+        },
+        "delta_planetary_advection": {
+          "mean": 0.0005500779332750956,
+          "rms": 0.018101482663438768,
+          "positive_area_fraction": 0.6049927010483291,
+          "maximum": {
+            "value": 0.0319054440805258,
+            "lat": 13.5,
+            "lon": 136.0
+          },
+          "minimum": {
+            "value": -0.0592299185381066,
+            "lat": 18.25,
+            "lon": 129.0
+          },
+          "projection_on_actual_change": -0.0032696522151148912
+        },
+        "delta_stretching": {
+          "mean": -0.03891660801641264,
+          "rms": 0.3311552171893874,
+          "positive_area_fraction": 0.45303656018335015,
+          "maximum": {
+            "value": 1.0187780762424898,
+            "lat": 23.5,
+            "lon": 129.25
+          },
+          "minimum": {
+            "value": -1.6139702654813124,
+            "lat": 20.5,
+            "lon": 130.0
+          },
+          "projection_on_actual_change": 0.4005997663618686
+        },
+        "remainder": {
+          "mean": 0.00432058032820682,
+          "rms": 0.26089617491485523,
+          "positive_area_fraction": 0.5253209734556851,
+          "maximum": {
+            "value": 1.455222934433372,
+            "lat": 20.5,
+            "lon": 129.0
+          },
+          "minimum": {
+            "value": -0.8308104433162415,
+            "lat": 20.5,
+            "lon": 131.25
+          },
+          "projection_on_actual_change": 0.05323245636470601
+        }
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "level": "850",
+      "start_hour": 6,
+      "end_hour": 12,
+      "actual": {
+        "mean": -0.01995745769235093,
+        "rms": 0.5670154594357796,
+        "positive_area_fraction": 0.5691035964373129,
+        "maximum": {
+          "value": 2.1216911491499024,
+          "lat": 23.5,
+          "lon": 130.25
+        },
+        "minimum": {
+          "value": -1.9958512281388265,
+          "lat": 17.25,
+          "lon": 132.25
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.018809838283711786,
+          "rms": 0.6587863296941698,
+          "positive_area_fraction": 0.5713912557749975,
+          "maximum": {
+            "value": 2.3209941713085964,
+            "lat": 17.75,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -2.585018853010814,
+            "lat": 20.75,
+            "lon": 131.25
+          },
+          "projection_on_actual_change": 0.7459983991562078
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.08203115264816872,
+          "rms": 0.48273358723304205,
+          "positive_area_fraction": 0.6720041820874153,
+          "maximum": {
+            "value": 2.2746239320871533,
+            "lat": 21.5,
+            "lon": 131.25
+          },
+          "minimum": {
+            "value": -2.225837260187573,
+            "lat": 21.5,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": -0.008714293736180498
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.0187546993120786,
+          "rms": 0.6635817550270624,
+          "positive_area_fraction": 0.495101658083902,
+          "maximum": {
+            "value": 2.3513369532713977,
+            "lat": 23.75,
+            "lon": 130.0
+          },
+          "minimum": {
+            "value": -3.3074904929056266,
+            "lat": 21.25,
+            "lon": 131.25
+          },
+          "projection_on_actual_change": 0.5866077364018023
+        },
+        "nonlinear_advection": {
+          "mean": -0.08197601367653552,
+          "rms": 0.27182646625500023,
+          "positive_area_fraction": 0.47299150373916005,
+          "maximum": {
+            "value": 0.6238840166673579,
+            "lat": 19.25,
+            "lon": 130.0
+          },
+          "minimum": {
+            "value": -1.2647010301581165,
+            "lat": 21.25,
+            "lon": 130.75
+          },
+          "projection_on_actual_change": 0.16810495649058602
+        },
+        "delta_planetary_advection": {
+          "mean": 0.01031188476409132,
+          "rms": 0.034658624836681334,
+          "positive_area_fraction": 0.695584073565753,
+          "maximum": {
+            "value": 0.05455495839961931,
+            "lat": 15.0,
+            "lon": 132.5
+          },
+          "minimum": {
+            "value": -0.09607603245008496,
+            "lat": 18.5,
+            "lon": 130.0
+          },
+          "projection_on_actual_change": -0.004512121822904608
+        },
+        "delta_stretching": {
+          "mean": -0.04606535910710308,
+          "rms": 0.46993701919597536,
+          "positive_area_fraction": 0.521943028200955,
+          "maximum": {
+            "value": 1.4864306935443459,
+            "lat": 22.0,
+            "lon": 129.75
+          },
+          "minimum": {
+            "value": -2.300428134729022,
+            "lat": 17.25,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.19507366548845884
+        },
+        "remainder": {
+          "mean": -0.0030138216330509557,
+          "rms": 0.1845340441955462,
+          "positive_area_fraction": 0.5029070892619267,
+          "maximum": {
+            "value": 0.7043560471627828,
+            "lat": 17.25,
+            "lon": 129.75
+          },
+          "minimum": {
+            "value": -0.7145803287219978,
+            "lat": 19.5,
+            "lon": 129.75
+          },
+          "projection_on_actual_change": 0.06344005717823802
+        }
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "level": "850",
+      "start_hour": 12,
+      "end_hour": 18,
+      "actual": {
+        "mean": -0.03480189750065349,
+        "rms": 0.8588789459172068,
+        "positive_area_fraction": 0.45027591213663853,
+        "maximum": {
+          "value": 2.8233894444605294,
+          "lat": 15.75,
+          "lon": 136.0
+        },
+        "minimum": {
+          "value": -3.797947122965476,
+          "lat": 21.5,
+          "lon": 130.5
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.032494751913293124,
+          "rms": 0.8796203058788464,
+          "positive_area_fraction": 0.43767215729926245,
+          "maximum": {
+            "value": 3.3948263058204224,
+            "lat": 17.5,
+            "lon": 131.75
+          },
+          "minimum": {
+            "value": -3.4661852978144667,
+            "lat": 21.75,
+            "lon": 130.75
+          },
+          "projection_on_actual_change": 0.9096656991460986
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.10240432979901191,
+          "rms": 0.699302730554508,
+          "positive_area_fraction": 0.5770639215189223,
+          "maximum": {
+            "value": 3.172034803453667,
+            "lat": 22.25,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -3.305545941927025,
+            "lat": 21.75,
+            "lon": 128.25
+          },
+          "projection_on_actual_change": 0.03657931188263602
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.012475951236355573,
+          "rms": 1.0323015866128125,
+          "positive_area_fraction": 0.40129762897882426,
+          "maximum": {
+            "value": 3.9311373683976276,
+            "lat": 24.25,
+            "lon": 129.25
+          },
+          "minimum": {
+            "value": -4.964737328733793,
+            "lat": 22.0,
+            "lon": 131.0
+          },
+          "projection_on_actual_change": 0.8463247816997925
+        },
+        "nonlinear_advection": {
+          "mean": -0.08238552912207434,
+          "rms": 0.43361945317142514,
+          "positive_area_fraction": 0.5463625760670285,
+          "maximum": {
+            "value": 1.242116125798575,
+            "lat": 23.25,
+            "lon": 132.0
+          },
+          "minimum": {
+            "value": -1.895987359877541,
+            "lat": 22.75,
+            "lon": 129.5
+          },
+          "projection_on_actual_change": 0.026761605563670018
+        },
+        "delta_planetary_advection": {
+          "mean": 0.02256106270765775,
+          "rms": 0.04410393982185587,
+          "positive_area_fraction": 0.751211651628453,
+          "maximum": {
+            "value": 0.09140567740402325,
+            "lat": 18.25,
+            "lon": 134.5
+          },
+          "minimum": {
+            "value": -0.06434196270512345,
+            "lat": 20.75,
+            "lon": 127.75
+          },
+          "projection_on_actual_change": -0.005013021751505815
+        },
+        "delta_stretching": {
+          "mean": -0.08550826200098788,
+          "rms": 0.40788711271949996,
+          "positive_area_fraction": 0.5249168766981327,
+          "maximum": {
+            "value": 0.9442467717222713,
+            "lat": 23.25,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -1.9527508045709132,
+            "lat": 17.0,
+            "lon": 132.25
+          },
+          "projection_on_actual_change": -0.1347726979019924
+        },
+        "remainder": {
+          "mean": -0.004349450120616492,
+          "rms": 0.31850788797698487,
+          "positive_area_fraction": 0.4638353623521769,
+          "maximum": {
+            "value": 1.437793873593022,
+            "lat": 15.75,
+            "lon": 135.75
+          },
+          "minimum": {
+            "value": -1.1437413737271136,
+            "lat": 21.5,
+            "lon": 130.5
+          },
+          "projection_on_actual_change": 0.23012002050739958
+        }
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "level": "850",
+      "start_hour": 18,
+      "end_hour": 24,
+      "actual": {
+        "mean": -0.06518955088432496,
+        "rms": 0.9762723583065116,
+        "positive_area_fraction": 0.4268161674305347,
+        "maximum": {
+          "value": 3.8141716917385597,
+          "lat": 17.25,
+          "lon": 133.0
+        },
+        "minimum": {
+          "value": -4.526511845607541,
+          "lat": 22.75,
+          "lon": 130.5
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": -0.06734052709933214,
+          "rms": 0.9206971030109019,
+          "positive_area_fraction": 0.3798625370784058,
+          "maximum": {
+            "value": 3.60619137438475,
+            "lat": 17.5,
+            "lon": 133.0
+          },
+          "minimum": {
+            "value": -4.1841413138365615,
+            "lat": 22.75,
+            "lon": 129.75
+          },
+          "projection_on_actual_change": 0.7912262569117224
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.11629216162749048,
+          "rms": 0.7629134900798417,
+          "positive_area_fraction": 0.5772811597796266,
+          "maximum": {
+            "value": 3.8964843672370737,
+            "lat": 22.75,
+            "lon": 130.5
+          },
+          "minimum": {
+            "value": -3.017326203173864,
+            "lat": 22.0,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": -0.08589876633896845
+        },
+        "control_on_delta_gradient": {
+          "mean": -0.14173039841751078,
+          "rms": 1.1843312376971196,
+          "positive_area_fraction": 0.3497856230833911,
+          "maximum": {
+            "value": 5.771114055708369,
+            "lat": 25.0,
+            "lon": 128.25
+          },
+          "minimum": {
+            "value": -6.449620191153582,
+            "lat": 23.0,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": 0.9634928027471522
+        },
+        "nonlinear_advection": {
+          "mean": -0.041902290309311786,
+          "rms": 0.4935897269343122,
+          "positive_area_fraction": 0.607146414619754,
+          "maximum": {
+            "value": 1.845092011598615,
+            "lat": 21.5,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -2.1367984841187915,
+            "lat": 24.25,
+            "lon": 128.25
+          },
+          "projection_on_actual_change": -0.08636777949646121
+        },
+        "delta_planetary_advection": {
+          "mean": 0.029548477481248697,
+          "rms": 0.050767738076196826,
+          "positive_area_fraction": 0.8231867603530679,
+          "maximum": {
+            "value": 0.11426605990062774,
+            "lat": 24.75,
+            "lon": 127.75
+          },
+          "minimum": {
+            "value": -0.10018607418636544,
+            "lat": 21.0,
+            "lon": 127.5
+          },
+          "projection_on_actual_change": 0.0008120448682086304
+        },
+        "delta_stretching": {
+          "mean": -0.040713426575544345,
+          "rms": 0.3754385805184892,
+          "positive_area_fraction": 0.5871654692565108,
+          "maximum": {
+            "value": 1.5206840475832033,
+            "lat": 23.5,
+            "lon": 128.25
+          },
+          "minimum": {
+            "value": -1.3442884788840077,
+            "lat": 20.5,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": -0.04546355654547893
+        },
+        "remainder": {
+          "mean": 0.013315925309302876,
+          "rms": 0.40653239463137525,
+          "positive_area_fraction": 0.513445673970643,
+          "maximum": {
+            "value": 1.7105238755871706,
+            "lat": 17.0,
+            "lon": 137.25
+          },
+          "minimum": {
+            "value": -1.8152070774632034,
+            "lat": 15.5,
+            "lon": 136.0
+          },
+          "projection_on_actual_change": 0.25342525476554767
+        }
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "level": "850",
+      "start_hour": 0,
+      "end_hour": 24,
+      "actual": {
+        "mean": -0.13414774873219146,
+        "rms": 1.52609722011688,
+        "positive_area_fraction": 0.565836777450849,
+        "maximum": {
+          "value": 6.503656183975758,
+          "lat": 24.75,
+          "lon": 129.25
+        },
+        "minimum": {
+          "value": -5.7356762253916544,
+          "lat": 21.5,
+          "lon": 130.25
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.003811170197741298,
+          "rms": 2.0037187577992372,
+          "positive_area_fraction": 0.4554411732811758,
+          "maximum": {
+            "value": 6.161904726913534,
+            "lat": 17.5,
+            "lon": 132.0
+          },
+          "minimum": {
+            "value": -7.005878134567529,
+            "lat": 22.5,
+            "lon": 128.75
+          },
+          "projection_on_actual_change": 1.0177242926672148
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.3493633194138783,
+          "rms": 2.086314018835956,
+          "positive_area_fraction": 0.6194103460011972,
+          "maximum": {
+            "value": 9.47904206020209,
+            "lat": 22.0,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -9.162477149205241,
+            "lat": 21.75,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": 0.031445021787034094
+        },
+        "control_on_delta_gradient": {
+          "mean": -0.10340235250228386,
+          "rms": 2.2142768436682485,
+          "positive_area_fraction": 0.41055893015675005,
+          "maximum": {
+            "value": 9.381519631262773,
+            "lat": 25.0,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -10.54890443303907,
+            "lat": 22.0,
+            "lon": 131.0
+          },
+          "projection_on_actual_change": 0.8495903121293701
+        },
+        "nonlinear_advection": {
+          "mean": -0.24214979671385306,
+          "rms": 1.0973797059872525,
+          "positive_area_fraction": 0.5280910033610628,
+          "maximum": {
+            "value": 2.5829569459137645,
+            "lat": 23.5,
+            "lon": 132.0
+          },
+          "minimum": {
+            "value": -4.98449472013518,
+            "lat": 21.0,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.1366889587508104
+        },
+        "delta_planetary_advection": {
+          "mean": 0.06297150288627286,
+          "rms": 0.1365822195539302,
+          "positive_area_fraction": 0.7494812317990189,
+          "maximum": {
+            "value": 0.2580954589639437,
+            "lat": 17.75,
+            "lon": 135.25
+          },
+          "minimum": {
+            "value": -0.24622453670447236,
+            "lat": 20.75,
+            "lon": 127.25
+          },
+          "projection_on_actual_change": 0.004106081042928194
+        },
+        "delta_stretching": {
+          "mean": -0.2112036557000479,
+          "rms": 1.2982222463629887,
+          "positive_area_fraction": 0.463881421962085,
+          "maximum": {
+            "value": 4.294965742427845,
+            "lat": 23.25,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -4.728164523634879,
+            "lat": 17.25,
+            "lon": 132.0
+          },
+          "projection_on_actual_change": -0.038655736635965846
+        },
+        "remainder": {
+          "mean": 0.010273233883842246,
+          "rms": 0.5208181892878423,
+          "positive_area_fraction": 0.4797371394156065,
+          "maximum": {
+            "value": 2.3835632643039792,
+            "lat": 20.5,
+            "lon": 128.75
+          },
+          "minimum": {
+            "value": -1.4075327836621647,
+            "lat": 15.75,
+            "lon": 134.75
+          },
+          "projection_on_actual_change": 0.016825362925823015
+        }
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "level": "700",
+      "start_hour": 0,
+      "end_hour": 6,
+      "actual": {
+        "mean": -0.010047766276353568,
+        "rms": 0.45736083491421015,
+        "positive_area_fraction": 0.48654196457821935,
+        "maximum": {
+          "value": 1.9421438602929302,
+          "lat": 18.25,
+          "lon": 129.75
+        },
+        "minimum": {
+          "value": -2.2953773561268744,
+          "lat": 21.25,
+          "lon": 129.75
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.06381061255744366,
+          "rms": 0.5673368706967902,
+          "positive_area_fraction": 0.5450810496344273,
+          "maximum": {
+            "value": 3.5846260003550507,
+            "lat": 22.0,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -2.1481376078020307,
+            "lat": 19.25,
+            "lon": 131.75
+          },
+          "projection_on_actual_change": 0.2122406274081199
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.031959712535728414,
+          "rms": 0.3659660954696032,
+          "positive_area_fraction": 0.6196677508941442,
+          "maximum": {
+            "value": 2.5407531518331408,
+            "lat": 21.0,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -1.6955284870462934,
+            "lat": 21.0,
+            "lon": 128.5
+          },
+          "projection_on_actual_change": -0.15829528071243168
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.026176031814128448,
+          "rms": 0.4792589418491627,
+          "positive_area_fraction": 0.49905341195428843,
+          "maximum": {
+            "value": 1.8627420038821865,
+            "lat": 22.5,
+            "lon": 130.25
+          },
+          "minimum": {
+            "value": -1.9498301274153802,
+            "lat": 19.5,
+            "lon": 131.75
+          },
+          "projection_on_actual_change": 0.2155756552718475
+        },
+        "nonlinear_advection": {
+          "mean": 0.0056748682075868345,
+          "rms": 0.14014479404489405,
+          "positive_area_fraction": 0.5649428656559576,
+          "maximum": {
+            "value": 0.4751980436824819,
+            "lat": 22.0,
+            "lon": 131.25
+          },
+          "minimum": {
+            "value": -0.9082060961513588,
+            "lat": 20.0,
+            "lon": 130.75
+          },
+          "projection_on_actual_change": 0.154960252848704
+        },
+        "delta_planetary_advection": {
+          "mean": -0.004403790194607337,
+          "rms": 0.02618127038417649,
+          "positive_area_fraction": 0.4455858009666507,
+          "maximum": {
+            "value": 0.04362093305531821,
+            "lat": 19.25,
+            "lon": 132.5
+          },
+          "minimum": {
+            "value": -0.10995582417884847,
+            "lat": 17.5,
+            "lon": 129.75
+          },
+          "projection_on_actual_change": -0.023329878162047495
+        },
+        "delta_stretching": {
+          "mean": -0.06913739088340541,
+          "rms": 0.5253361270386576,
+          "positive_area_fraction": 0.4180936069404036,
+          "maximum": {
+            "value": 1.7446486798150567,
+            "lat": 19.5,
+            "lon": 131.75
+          },
+          "minimum": {
+            "value": -3.459879895939939,
+            "lat": 21.25,
+            "lon": 129.5
+          },
+          "projection_on_actual_change": 0.533292477067312
+        },
+        "remainder": {
+          "mean": -0.00031719775578447837,
+          "rms": 0.5108279203505558,
+          "positive_area_fraction": 0.5144846782828273,
+          "maximum": {
+            "value": 2.463351027492019,
+            "lat": 20.75,
+            "lon": 129.0
+          },
+          "minimum": {
+            "value": -2.810056334784333,
+            "lat": 22.25,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": 0.2777967736866156
+        }
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "level": "700",
+      "start_hour": 6,
+      "end_hour": 12,
+      "actual": {
+        "mean": -0.028910383742598113,
+        "rms": 0.5747827796044511,
+        "positive_area_fraction": 0.4839955427364102,
+        "maximum": {
+          "value": 2.7867421425777823,
+          "lat": 23.0,
+          "lon": 130.0
+        },
+        "minimum": {
+          "value": -2.413164529841071,
+          "lat": 20.25,
+          "lon": 131.5
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.022863031004651146,
+          "rms": 0.45554172174051394,
+          "positive_area_fraction": 0.5196321510900821,
+          "maximum": {
+            "value": 2.014089889833477,
+            "lat": 23.5,
+            "lon": 130.25
+          },
+          "minimum": {
+            "value": -1.8155003020945406,
+            "lat": 20.5,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.6598828493074607
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.015012104058839225,
+          "rms": 0.3787407035393257,
+          "positive_area_fraction": 0.6230726278942572,
+          "maximum": {
+            "value": 1.5573367745221895,
+            "lat": 21.5,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -1.9127524401085774,
+            "lat": 21.5,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": 0.019883068556302296
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.03845508452478606,
+          "rms": 0.5629552680640945,
+          "positive_area_fraction": 0.49864308259878165,
+          "maximum": {
+            "value": 2.318269677021787,
+            "lat": 23.5,
+            "lon": 129.75
+          },
+          "minimum": {
+            "value": -2.1759218677864443,
+            "lat": 21.0,
+            "lon": 131.25
+          },
+          "projection_on_actual_change": 0.620746043149897
+        },
+        "nonlinear_advection": {
+          "mean": -0.030604157578974125,
+          "rms": 0.19293713635362203,
+          "positive_area_fraction": 0.5268048476807401,
+          "maximum": {
+            "value": 0.6178613421465755,
+            "lat": 19.25,
+            "lon": 129.5
+          },
+          "minimum": {
+            "value": -0.8953078440070867,
+            "lat": 21.25,
+            "lon": 130.5
+          },
+          "projection_on_actual_change": 0.019253737601261162
+        },
+        "delta_planetary_advection": {
+          "mean": 0.0047025948660116374,
+          "rms": 0.03140462514721253,
+          "positive_area_fraction": 0.6057409804902048,
+          "maximum": {
+            "value": 0.06647850407216097,
+            "lat": 18.75,
+            "lon": 133.25
+          },
+          "minimum": {
+            "value": -0.09421616809905754,
+            "lat": 17.25,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": -0.009761331113207405
+        },
+        "delta_stretching": {
+          "mean": -0.0441889681771359,
+          "rms": 0.2621875530577859,
+          "positive_area_fraction": 0.3522759727151661,
+          "maximum": {
+            "value": 1.2316012171355961,
+            "lat": 17.75,
+            "lon": 129.5
+          },
+          "minimum": {
+            "value": -0.8075212327299117,
+            "lat": 16.0,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.15469410310812193
+        },
+        "remainder": {
+          "mean": -0.012287041436125015,
+          "rms": 0.2420396414017335,
+          "positive_area_fraction": 0.5390004808374684,
+          "maximum": {
+            "value": 1.309484296213775,
+            "lat": 22.5,
+            "lon": 129.75
+          },
+          "minimum": {
+            "value": -0.8695256401813014,
+            "lat": 18.0,
+            "lon": 129.75
+          },
+          "projection_on_actual_change": 0.19518437869762478
+        }
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "level": "700",
+      "start_hour": 12,
+      "end_hour": 18,
+      "actual": {
+        "mean": -0.019300917761353426,
+        "rms": 0.7973273947912114,
+        "positive_area_fraction": 0.4520431235374996,
+        "maximum": {
+          "value": 3.138938946503859,
+          "lat": 24.25,
+          "lon": 129.5
+        },
+        "minimum": {
+          "value": -4.045093264734782,
+          "lat": 21.75,
+          "lon": 130.5
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": -0.03524480972020924,
+          "rms": 0.717568769868307,
+          "positive_area_fraction": 0.44766712242547324,
+          "maximum": {
+            "value": 3.002242062124589,
+            "lat": 24.25,
+            "lon": 129.75
+          },
+          "minimum": {
+            "value": -3.489693994583123,
+            "lat": 21.75,
+            "lon": 130.75
+          },
+          "projection_on_actual_change": 0.7946186872280127
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.05031860856487446,
+          "rms": 0.6015888820545556,
+          "positive_area_fraction": 0.5526919040561894,
+          "maximum": {
+            "value": 2.841204803054861,
+            "lat": 22.25,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -2.6471127283020626,
+            "lat": 22.0,
+            "lon": 127.75
+          },
+          "projection_on_actual_change": -0.13080535711793562
+        },
+        "control_on_delta_gradient": {
+          "mean": -0.03978030275885037,
+          "rms": 0.9784858072249802,
+          "positive_area_fraction": 0.45028549373074434,
+          "maximum": {
+            "value": 4.247550565608366,
+            "lat": 24.25,
+            "lon": 129.0
+          },
+          "minimum": {
+            "value": -4.962953434000962,
+            "lat": 22.0,
+            "lon": 130.75
+          },
+          "projection_on_actual_change": 0.8517312188243381
+        },
+        "nonlinear_advection": {
+          "mean": -0.04578311552623332,
+          "rms": 0.3611063553252861,
+          "positive_area_fraction": 0.5426236013243858,
+          "maximum": {
+            "value": 1.1555738470266392,
+            "lat": 20.75,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -1.9046585892436054,
+            "lat": 21.0,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.0736928255216102
+        },
+        "delta_planetary_advection": {
+          "mean": 0.013888816307421854,
+          "rms": 0.03983312373124614,
+          "positive_area_fraction": 0.6368411680792965,
+          "maximum": {
+            "value": 0.08453887582212585,
+            "lat": 16.25,
+            "lon": 138.25
+          },
+          "minimum": {
+            "value": -0.07212959255489666,
+            "lat": 20.5,
+            "lon": 127.75
+          },
+          "projection_on_actual_change": -0.007146670760458853
+        },
+        "delta_stretching": {
+          "mean": -0.0009044907667122241,
+          "rms": 0.2951464671098018,
+          "positive_area_fraction": 0.36427742643594097,
+          "maximum": {
+            "value": 1.413003303146758,
+            "lat": 23.0,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -0.9139148274569289,
+            "lat": 20.25,
+            "lon": 129.0
+          },
+          "projection_on_actual_change": -0.027855218693254163
+        },
+        "remainder": {
+          "mean": 0.0029595664181461707,
+          "rms": 0.3551872199799564,
+          "positive_area_fraction": 0.5911404633238492,
+          "maximum": {
+            "value": 1.0011752477102402,
+            "lat": 16.0,
+            "lon": 131.5
+          },
+          "minimum": {
+            "value": -1.4487016486118005,
+            "lat": 15.5,
+            "lon": 134.0
+          },
+          "projection_on_actual_change": 0.2403832022257003
+        }
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "level": "700",
+      "start_hour": 18,
+      "end_hour": 24,
+      "actual": {
+        "mean": -0.05668910148321307,
+        "rms": 0.8640564113674107,
+        "positive_area_fraction": 0.3934744737639309,
+        "maximum": {
+          "value": 3.409687581972407,
+          "lat": 25.0,
+          "lon": 128.25
+        },
+        "minimum": {
+          "value": -4.331264215376435,
+          "lat": 23.0,
+          "lon": 130.25
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": -0.12481393023372231,
+          "rms": 0.8437579912700672,
+          "positive_area_fraction": 0.41832544639869534,
+          "maximum": {
+            "value": 3.071578195538773,
+            "lat": 25.0,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -4.372211379782988,
+            "lat": 22.75,
+            "lon": 129.75
+          },
+          "projection_on_actual_change": 0.7691127335826249
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.09432177901193012,
+          "rms": 0.5702829181115233,
+          "positive_area_fraction": 0.5662473824233284,
+          "maximum": {
+            "value": 3.279066099989108,
+            "lat": 22.75,
+            "lon": 130.25
+          },
+          "minimum": {
+            "value": -2.094377222679042,
+            "lat": 23.75,
+            "lon": 127.0
+          },
+          "projection_on_actual_change": -0.2675580560341582
+        },
+        "control_on_delta_gradient": {
+          "mean": -0.15833072222553216,
+          "rms": 1.1849203784821816,
+          "positive_area_fraction": 0.4312071086673779,
+          "maximum": {
+            "value": 5.392914991155459,
+            "lat": 25.0,
+            "lon": 128.0
+          },
+          "minimum": {
+            "value": -7.041281794120335,
+            "lat": 23.0,
+            "lon": 130.0
+          },
+          "projection_on_actual_change": 1.093624852108053
+        },
+        "nonlinear_advection": {
+          "mean": -0.06080498702012028,
+          "rms": 0.4389787893394714,
+          "positive_area_fraction": 0.5237261420535353,
+          "maximum": {
+            "value": 1.5565849261553715,
+            "lat": 21.5,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -2.2799907201155847,
+            "lat": 21.5,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": -0.056954062491269726
+        },
+        "delta_planetary_advection": {
+          "mean": 0.020661808659894972,
+          "rms": 0.045797338628815035,
+          "positive_area_fraction": 0.7246423574778511,
+          "maximum": {
+            "value": 0.1284693995580688,
+            "lat": 24.5,
+            "lon": 127.75
+          },
+          "minimum": {
+            "value": -0.07910665190039823,
+            "lat": 25.0,
+            "lon": 131.75
+          },
+          "projection_on_actual_change": -0.0035286626579149635
+        },
+        "delta_stretching": {
+          "mean": 0.0611043051784917,
+          "rms": 0.40772789357171124,
+          "positive_area_fraction": 0.4422563996427239,
+          "maximum": {
+            "value": 2.189807592295608,
+            "lat": 23.25,
+            "lon": 128.25
+          },
+          "minimum": {
+            "value": -1.229405001672299,
+            "lat": 18.25,
+            "lon": 135.0
+          },
+          "projection_on_actual_change": 0.05073680570655324
+        },
+        "remainder": {
+          "mean": -0.013641285087877417,
+          "rms": 0.45191612615653953,
+          "positive_area_fraction": 0.5485907263636388,
+          "maximum": {
+            "value": 1.1021330936767064,
+            "lat": 14.75,
+            "lon": 135.5
+          },
+          "minimum": {
+            "value": -2.647033064419266,
+            "lat": 16.5,
+            "lon": 136.25
+          },
+          "projection_on_actual_change": 0.1836791233687369
+        }
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "level": "700",
+      "start_hour": 0,
+      "end_hour": 24,
+      "actual": {
+        "mean": -0.11494816926351822,
+        "rms": 1.533198072702167,
+        "positive_area_fraction": 0.41223638723016953,
+        "maximum": {
+          "value": 5.997020829021217,
+          "lat": 24.75,
+          "lon": 129.0
+        },
+        "minimum": {
+          "value": -6.522253359754513,
+          "lat": 21.75,
+          "lon": 130.0
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": -0.07338509639183674,
+          "rms": 1.4254291207760441,
+          "positive_area_fraction": 0.44689139156092106,
+          "maximum": {
+            "value": 5.706339760147664,
+            "lat": 25.0,
+            "lon": 129.25
+          },
+          "minimum": {
+            "value": -5.571320972334466,
+            "lat": 22.5,
+            "lon": 128.25
+          },
+          "projection_on_actual_change": 0.7514202329119454
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.1916122041713722,
+          "rms": 1.7090325616937827,
+          "positive_area_fraction": 0.6053611864256953,
+          "maximum": {
+            "value": 8.195108066102701,
+            "lat": 22.0,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -7.51365027482947,
+            "lat": 21.75,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": -0.17164396921777159
+        },
+        "control_on_delta_gradient": {
+          "mean": -0.13347990864546794,
+          "rms": 2.0010366727390836,
+          "positive_area_fraction": 0.42331494837424233,
+          "maximum": {
+            "value": 8.751682124491875,
+            "lat": 24.75,
+            "lon": 128.25
+          },
+          "minimum": {
+            "value": -8.34571539180579,
+            "lat": 22.25,
+            "lon": 130.5
+          },
+          "projection_on_actual_change": 0.8329836747469475
+        },
+        "nonlinear_advection": {
+          "mean": -0.13151739191774092,
+          "rms": 0.8832338761688351,
+          "positive_area_fraction": 0.509206808269404,
+          "maximum": {
+            "value": 2.5102822458112746,
+            "lat": 20.75,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -4.479915147491968,
+            "lat": 21.0,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.09008052738276937
+        },
+        "delta_planetary_advection": {
+          "mean": 0.034849429638721126,
+          "rms": 0.12797859644319415,
+          "positive_area_fraction": 0.6366668540264302,
+          "maximum": {
+            "value": 0.2730958012570176,
+            "lat": 16.25,
+            "lon": 137.75
+          },
+          "minimum": {
+            "value": -0.25853552316993444,
+            "lat": 17.5,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": -0.014999838451417806
+        },
+        "delta_stretching": {
+          "mean": -0.05312654464876182,
+          "rms": 0.9722114919878879,
+          "positive_area_fraction": 0.3889204734117757,
+          "maximum": {
+            "value": 4.096509167966457,
+            "lat": 23.25,
+            "lon": 128.25
+          },
+          "minimum": {
+            "value": -4.389010807267729,
+            "lat": 20.75,
+            "lon": 129.25
+          },
+          "projection_on_actual_change": 0.15942991853283162
+        },
+        "remainder": {
+          "mean": -0.023285957861640713,
+          "rms": 0.741686548284268,
+          "positive_area_fraction": 0.5482180083389824,
+          "maximum": {
+            "value": 3.1845325390258,
+            "lat": 20.5,
+            "lon": 128.75
+          },
+          "minimum": {
+            "value": -2.678072039116675,
+            "lat": 16.5,
+            "lon": 136.5
+          },
+          "projection_on_actual_change": 0.10414968700664086
+        }
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "level": "850_700_mean",
+      "start_hour": 0,
+      "end_hour": 6,
+      "actual": {
+        "mean": -0.012123304465607866,
+        "rms": 0.36623180385856513,
+        "positive_area_fraction": 0.5046821749712795,
+        "maximum": {
+          "value": 1.647358266427554,
+          "lat": 22.25,
+          "lon": 131.5
+        },
+        "minimum": {
+          "value": -1.887714032656303,
+          "lat": 20.5,
+          "lon": 130.5
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.04182885982875611,
+          "rms": 0.41424039505709975,
+          "positive_area_fraction": 0.5605336088550985,
+          "maximum": {
+            "value": 2.5903697906914065,
+            "lat": 22.0,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -1.5127627824067091,
+            "lat": 19.25,
+            "lon": 132.0
+          },
+          "projection_on_actual_change": 0.6701822433536921
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.04029769393746782,
+          "rms": 0.3332224990368653,
+          "positive_area_fraction": 0.6619328874433127,
+          "maximum": {
+            "value": 2.351293219641178,
+            "lat": 21.0,
+            "lon": 131.0
+          },
+          "minimum": {
+            "value": -1.368512040151035,
+            "lat": 21.0,
+            "lon": 128.5
+          },
+          "projection_on_actual_change": -0.031372143446936694
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.016636713590460612,
+          "rms": 0.3563304199490031,
+          "positive_area_fraction": 0.4892101030909169,
+          "maximum": {
+            "value": 1.3084475240977604,
+            "lat": 22.75,
+            "lon": 130.5
+          },
+          "minimum": {
+            "value": -1.5634001658610805,
+            "lat": 20.0,
+            "lon": 131.75
+          },
+          "projection_on_actual_change": 0.46751102997762833
+        },
+        "nonlinear_advection": {
+          "mean": -0.015105547699172297,
+          "rms": 0.11564529934277845,
+          "positive_area_fraction": 0.5218543852444001,
+          "maximum": {
+            "value": 0.27922060063515597,
+            "lat": 22.0,
+            "lon": 132.0
+          },
+          "minimum": {
+            "value": -0.7892319803657298,
+            "lat": 20.0,
+            "lon": 131.25
+          },
+          "projection_on_actual_change": 0.2340433568230005
+        },
+        "delta_planetary_advection": {
+          "mean": -0.001926856130666121,
+          "rms": 0.020274309567731654,
+          "positive_area_fraction": 0.5271541804388978,
+          "maximum": {
+            "value": 0.030079331332420193,
+            "lat": 14.0,
+            "lon": 137.25
+          },
+          "minimum": {
+            "value": -0.08137687713929853,
+            "lat": 17.75,
+            "lon": 129.5
+          },
+          "projection_on_actual_change": -0.016889051595295974
+        },
+        "delta_stretching": {
+          "mean": -0.054026999449909026,
+          "rms": 0.35957904289622156,
+          "positive_area_fraction": 0.4432468522530532,
+          "maximum": {
+            "value": 1.0739576553896317,
+            "lat": 19.75,
+            "lon": 132.25
+          },
+          "minimum": {
+            "value": -2.3964191602095095,
+            "lat": 21.0,
+            "lon": 129.75
+          },
+          "projection_on_actual_change": 0.3765365295816299
+        },
+        "remainder": {
+          "mean": 0.0020016912862111727,
+          "rms": 0.3414545706508924,
+          "positive_area_fraction": 0.5317054567723357,
+          "maximum": {
+            "value": 1.9508483158234704,
+            "lat": 20.75,
+            "lon": 129.0
+          },
+          "minimum": {
+            "value": -1.5189473869547723,
+            "lat": 20.75,
+            "lon": 131.25
+          },
+          "projection_on_actual_change": -0.029829721340026216
+        }
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "level": "850_700_mean",
+      "start_hour": 6,
+      "end_hour": 12,
+      "actual": {
+        "mean": -0.024433920717474508,
+        "rms": 0.5424211154708493,
+        "positive_area_fraction": 0.5185463239319095,
+        "maximum": {
+          "value": 2.3959381288021344,
+          "lat": 23.25,
+          "lon": 130.25
+        },
+        "minimum": {
+          "value": -2.0426328483998266,
+          "lat": 20.5,
+          "lon": 131.5
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": 0.02083643464418146,
+          "rms": 0.5361083001015466,
+          "positive_area_fraction": 0.5298202301397381,
+          "maximum": {
+            "value": 2.0268983255901922,
+            "lat": 17.75,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -2.1980517638727033,
+            "lat": 20.75,
+            "lon": 131.25
+          },
+          "projection_on_actual_change": 0.7512526475636234
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.04852162835350397,
+          "rms": 0.4203710620039075,
+          "positive_area_fraction": 0.6906783696981916,
+          "maximum": {
+            "value": 1.8917282047143913,
+            "lat": 21.5,
+            "lon": 131.25
+          },
+          "minimum": {
+            "value": -2.069294850148075,
+            "lat": 21.5,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": 0.008959507524075356
+        },
+        "control_on_delta_gradient": {
+          "mean": 0.02860489191843231,
+          "rms": 0.5997757489076955,
+          "positive_area_fraction": 0.46538277502163644,
+          "maximum": {
+            "value": 2.317955421311496,
+            "lat": 23.5,
+            "lon": 129.75
+          },
+          "minimum": {
+            "value": -2.7257253213288903,
+            "lat": 21.25,
+            "lon": 131.25
+          },
+          "projection_on_actual_change": 0.6499319012158933
+        },
+        "nonlinear_advection": {
+          "mean": -0.056290085627754824,
+          "rms": 0.22635526575746404,
+          "positive_area_fraction": 0.5318093571846181,
+          "maximum": {
+            "value": 0.5995505328508253,
+            "lat": 19.25,
+            "lon": 129.75
+          },
+          "minimum": {
+            "value": -1.0779250153619788,
+            "lat": 21.25,
+            "lon": 130.5
+          },
+          "projection_on_actual_change": 0.09236123882365473
+        },
+        "delta_planetary_advection": {
+          "mean": 0.007507239815051479,
+          "rms": 0.03126448024930788,
+          "positive_area_fraction": 0.6829951300688412,
+          "maximum": {
+            "value": 0.05830717269231327,
+            "lat": 15.0,
+            "lon": 138.0
+          },
+          "minimum": {
+            "value": -0.08766144859296254,
+            "lat": 18.0,
+            "lon": 130.0
+          },
+          "projection_on_actual_change": -0.007047190545300943
+        },
+        "delta_stretching": {
+          "mean": -0.045127163642119474,
+          "rms": 0.299758807093907,
+          "positive_area_fraction": 0.4437097887146444,
+          "maximum": {
+            "value": 0.8887912443460178,
+            "lat": 22.5,
+            "lon": 128.75
+          },
+          "minimum": {
+            "value": -1.4520143200364384,
+            "lat": 17.0,
+            "lon": 131.75
+          },
+          "projection_on_actual_change": 0.15212052882963512
+        },
+        "remainder": {
+          "mean": -0.007650431534587981,
+          "rms": 0.1615555120205653,
+          "positive_area_fraction": 0.5247896222297813,
+          "maximum": {
+            "value": 0.6501471867507151,
+            "lat": 22.5,
+            "lon": 129.5
+          },
+          "minimum": {
+            "value": -0.579687939239639,
+            "lat": 20.25,
+            "lon": 129.75
+          },
+          "projection_on_actual_change": 0.1036740141520425
+        }
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "level": "850_700_mean",
+      "start_hour": 12,
+      "end_hour": 18,
+      "actual": {
+        "mean": -0.027051407631003464,
+        "rms": 0.8014728677054814,
+        "positive_area_fraction": 0.4218671828541717,
+        "maximum": {
+          "value": 2.8978707693213486,
+          "lat": 24.25,
+          "lon": 129.5
+        },
+        "minimum": {
+          "value": -3.9020422477981755,
+          "lat": 21.75,
+          "lon": 130.25
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": -0.0013750289034580587,
+          "rms": 0.7733824119822614,
+          "positive_area_fraction": 0.4393310986078852,
+          "maximum": {
+            "value": 2.920345679415605,
+            "lat": 24.25,
+            "lon": 130.0
+          },
+          "minimum": {
+            "value": -3.477939646198795,
+            "lat": 21.75,
+            "lon": 130.75
+          },
+          "projection_on_actual_change": 0.8688281763691219
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.07636146918194318,
+          "rms": 0.6366271330100898,
+          "positive_area_fraction": 0.5884957770518164,
+          "maximum": {
+            "value": 3.006619803254264,
+            "lat": 22.25,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -2.9413665620203524,
+            "lat": 21.75,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": -0.055146249929167265
+        },
+        "control_on_delta_gradient": {
+          "mean": -0.013652175761247408,
+          "rms": 0.9760139945069733,
+          "positive_area_fraction": 0.4230128048657167,
+          "maximum": {
+            "value": 4.082182517915868,
+            "lat": 24.25,
+            "lon": 129.0
+          },
+          "minimum": {
+            "value": -4.889886481681277,
+            "lat": 22.0,
+            "lon": 131.0
+          },
+          "projection_on_actual_change": 0.8662071252961885
+        },
+        "nonlinear_advection": {
+          "mean": -0.06408432232415383,
+          "rms": 0.38754561637343166,
+          "positive_area_fraction": 0.5451780165802633,
+          "maximum": {
+            "value": 1.0931477203011724,
+            "lat": 20.75,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -1.750836690132618,
+            "lat": 21.0,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.057767301002100736
+        },
+        "delta_planetary_advection": {
+          "mean": 0.0182249395075398,
+          "rms": 0.040450457533699746,
+          "positive_area_fraction": 0.717519537924168,
+          "maximum": {
+            "value": 0.07921085718769999,
+            "lat": 18.25,
+            "lon": 134.5
+          },
+          "minimum": {
+            "value": -0.0679329785723391,
+            "lat": 20.75,
+            "lon": 127.75
+          },
+          "projection_on_actual_change": -0.006164288296509382
+        },
+        "delta_stretching": {
+          "mean": -0.04320637638385005,
+          "rms": 0.2979836208365694,
+          "positive_area_fraction": 0.3764927451998591,
+          "maximum": {
+            "value": 1.1459465373995128,
+            "lat": 23.0,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -1.0945328920508135,
+            "lat": 16.75,
+            "lon": 132.0
+          },
+          "projection_on_actual_change": -0.08027898784622861
+        },
+        "remainder": {
+          "mean": -0.0006949418512351632,
+          "rms": 0.2994984496363191,
+          "positive_area_fraction": 0.5535513845058256,
+          "maximum": {
+            "value": 1.0910258030603208,
+            "lat": 16.5,
+            "lon": 131.5
+          },
+          "minimum": {
+            "value": -1.1648866796697002,
+            "lat": 21.5,
+            "lon": 130.25
+          },
+          "projection_on_actual_change": 0.21761509977361596
+        }
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "level": "850_700_mean",
+      "start_hour": 18,
+      "end_hour": 24,
+      "actual": {
+        "mean": -0.06093932618376899,
+        "rms": 0.8668237153517281,
+        "positive_area_fraction": 0.38258642102653784,
+        "maximum": {
+          "value": 3.5481898399316325,
+          "lat": 25.0,
+          "lon": 128.5
+        },
+        "minimum": {
+          "value": -4.383165304130156,
+          "lat": 22.75,
+          "lon": 130.25
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": -0.09607722866652722,
+          "rms": 0.8527950113567695,
+          "positive_area_fraction": 0.39759519509082136,
+          "maximum": {
+            "value": 3.20039918154086,
+            "lat": 25.0,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -4.278176346809775,
+            "lat": 22.75,
+            "lon": 129.75
+          },
+          "projection_on_actual_change": 0.843364920559563
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.10530697031971029,
+          "rms": 0.6525356403262541,
+          "positive_area_fraction": 0.6133075002573282,
+          "maximum": {
+            "value": 3.5839395871881945,
+            "lat": 22.75,
+            "lon": 130.25
+          },
+          "minimum": {
+            "value": -2.4756732326867774,
+            "lat": 22.25,
+            "lon": 127.75
+          },
+          "projection_on_actual_change": -0.21159296318761517
+        },
+        "control_on_delta_gradient": {
+          "mean": -0.15003056032152146,
+          "rms": 1.153575963571216,
+          "positive_area_fraction": 0.3785409459187797,
+          "maximum": {
+            "value": 5.580965107486291,
+            "lat": 25.0,
+            "lon": 128.0
+          },
+          "minimum": {
+            "value": -6.712584339035947,
+            "lat": 23.0,
+            "lon": 130.0
+          },
+          "projection_on_actual_change": 1.1206223543049143
+        },
+        "nonlinear_advection": {
+          "mean": -0.05135363866471604,
+          "rms": 0.4522675754966278,
+          "positive_area_fraction": 0.569670571116195,
+          "maximum": {
+            "value": 1.7008384688769933,
+            "lat": 21.5,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -2.1542135857429967,
+            "lat": 21.5,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": -0.065664470557736
+        },
+        "delta_planetary_advection": {
+          "mean": 0.025105143070571833,
+          "rms": 0.046630289312958144,
+          "positive_area_fraction": 0.7851501804045469,
+          "maximum": {
+            "value": 0.1206970857112164,
+            "lat": 24.75,
+            "lon": 127.75
+          },
+          "minimum": {
+            "value": -0.08814656289846814,
+            "lat": 20.75,
+            "lon": 127.5
+          },
+          "projection_on_actual_change": -0.0008046474621042629
+        },
+        "delta_stretching": {
+          "mean": 0.010195439301473673,
+          "rms": 0.3179805192584574,
+          "positive_area_fraction": 0.4690101846631398,
+          "maximum": {
+            "value": 1.8311927156715397,
+            "lat": 23.25,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -0.9507470956626493,
+            "lat": 20.25,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": -0.02004233650161449
+        },
+        "remainder": {
+          "mean": -0.00016267988928726773,
+          "rms": 0.3387529937972733,
+          "positive_area_fraction": 0.5540456471419617,
+          "maximum": {
+            "value": 0.8788126935763314,
+            "lat": 17.5,
+            "lon": 137.25
+          },
+          "minimum": {
+            "value": -1.7537531952089167,
+            "lat": 16.25,
+            "lon": 136.0
+          },
+          "projection_on_actual_change": 0.1774820634041556
+        }
+      }
+    },
+    {
+      "model": "pangu_6h",
+      "level": "850_700_mean",
+      "start_hour": 0,
+      "end_hour": 24,
+      "actual": {
+        "mean": -0.12454795899785487,
+        "rms": 1.481504636463559,
+        "positive_area_fraction": 0.4774593146238882,
+        "maximum": {
+          "value": 6.2237334352569125,
+          "lat": 24.75,
+          "lon": 129.0
+        },
+        "minimum": {
+          "value": -6.117180538135177,
+          "lat": 21.75,
+          "lon": 130.0
+        }
+      },
+      "terms": {
+        "delta_relative_advection": {
+          "mean": -0.03478696309704768,
+          "rms": 1.6371660352641615,
+          "positive_area_fraction": 0.4674461576134234,
+          "maximum": {
+            "value": 5.732370864526276,
+            "lat": 25.0,
+            "lon": 129.25
+          },
+          "minimum": {
+            "value": -6.230332748511331,
+            "lat": 22.5,
+            "lon": 128.5
+          },
+          "projection_on_actual_change": 0.937011209558668
+        },
+        "wind_on_control_gradient": {
+          "mean": 0.2704877617926253,
+          "rms": 1.8682263850422272,
+          "positive_area_fraction": 0.631974597475098,
+          "maximum": {
+            "value": 8.752477485783679,
+            "lat": 22.0,
+            "lon": 130.75
+          },
+          "minimum": {
+            "value": -8.338063712017355,
+            "lat": 21.75,
+            "lon": 128.0
+          },
+          "projection_on_actual_change": -0.08150724253207084
+        },
+        "control_on_delta_gradient": {
+          "mean": -0.11844113057387598,
+          "rms": 2.0511792684608467,
+          "positive_area_fraction": 0.40171892481541027,
+          "maximum": {
+            "value": 9.052356443792359,
+            "lat": 25.0,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -9.213538697373595,
+            "lat": 22.0,
+            "lon": 130.75
+          },
+          "projection_on_actual_change": 0.8905743259970984
+        },
+        "nonlinear_advection": {
+          "mean": -0.186833594315797,
+          "rms": 0.9632445978991179,
+          "positive_area_fraction": 0.5310585598605405,
+          "maximum": {
+            "value": 2.2276436580866035,
+            "lat": 21.0,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -4.732204933813574,
+            "lat": 21.0,
+            "lon": 131.5
+          },
+          "projection_on_actual_change": 0.12794412609364028
+        },
+        "delta_planetary_advection": {
+          "mean": 0.048910466262496996,
+          "rms": 0.1264760708657873,
+          "positive_area_fraction": 0.7194744876476882,
+          "maximum": {
+            "value": 0.23006944534411133,
+            "lat": 16.5,
+            "lon": 137.75
+          },
+          "minimum": {
+            "value": -0.2400033668901049,
+            "lat": 20.25,
+            "lon": 127.5
+          },
+          "projection_on_actual_change": -0.00615742453974818
+        },
+        "delta_stretching": {
+          "mean": -0.13216510017440486,
+          "rms": 0.9415236370906338,
+          "positive_area_fraction": 0.38233634649703374,
+          "maximum": {
+            "value": 4.185657917051597,
+            "lat": 23.25,
+            "lon": 128.5
+          },
+          "minimum": {
+            "value": -3.609978243064882,
+            "lat": 20.5,
+            "lon": 129.0
+          },
+          "projection_on_actual_change": 0.023178299546490026
+        },
+        "remainder": {
+          "mean": -0.0065063619888992424,
+          "rms": 0.5443919512649816,
+          "positive_area_fraction": 0.509185321621714,
+          "maximum": {
+            "value": 2.78404790166489,
+            "lat": 20.5,
+            "lon": 128.75
+          },
+          "minimum": {
+            "value": -1.8503333866789573,
+            "lat": 21.25,
+            "lon": 131.0
+          },
+          "projection_on_actual_change": 0.045967915434590244
+        }
+      }
+    }
+  ],
+  "checks": {
+    "advection_decomposition_max_abs_s2": 1.079470699381701e-22
+  },
+  "projection_definition": "Weighted inner product of cumulative term with actual OPT-minus-CTRL vorticity change, divided by squared actual change; may exceed100% or be negative due to cancellation. Diagnostic association, not a causal fraction."
+}

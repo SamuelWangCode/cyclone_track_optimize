@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+figures/
+runs/
+inputs/
+*.onnx
+*.pth
+*.pt
+*.pem
+*.key
+.env

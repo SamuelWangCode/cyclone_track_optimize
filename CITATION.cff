@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying study and this repository version when using these materials."
+type: software
+title: "Cyclone track optimization: Saudel initial conditions and circulation diagnostics"
+authors:
+  - family-names: Yuan
+    given-names: Shijin
+  - family-names: Wang
+    given-names: Xingzhou
+  - family-names: Mu
+    given-names: Bin
+  - family-names: Qin
+    given-names: Bo
+  - family-names: Han
+    given-names: Yuchen
+version: 0.1.0
+date-released: 2026-09-21
+repository-code: "https://github.com/SamuelWangCode/cyclone_track_optimize"
+url: "https://github.com/SamuelWangCode/cyclone_track_optimize"
+abstract: "Retrospective constrained initial-condition optimization with TianXing, forward evaluation in Pangu-Weather, and circulation diagnostics for Typhoon Saudel. The repository includes final figure source data and summaries; a companion data archive contains the full initial states and diagnostic forecast sequences. Model weights are external dependencies."
+keywords:
+  - tropical cyclone
+  - initial conditions
+  - predictability
+  - weather forecasting

@@ -15,7 +15,7 @@ python scripts/plot_figures.py
 python -m pytest -q
 ```
 
-The first command script recomputes the track scores from the archived coordinates and verifies steering and vorticity-budget identities. The second generates all four main figures and eight supporting figures from the supplied data. Cartopy downloads Natural Earth coastlines on first use. Output folders are `tables/` and `figures/`.
+`summarize.py` recomputes the track scores from the archived coordinates and verifies steering and vorticity-budget identities. `plot_figures.py` generates all four main figures and eight supporting figures from the supplied data. Cartopy downloads Natural Earth coastlines on first use. Output folders are `tables/` and `figures/`.
 
 | Mean track error over 28 future times (km) | TianXing | Pangu-Weather |
 |---|---:|---:|

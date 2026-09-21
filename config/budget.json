@@ -1,0 +1,63 @@
+{
+  "case": "SAUDEL_LATE_2026082700",
+  "description": "Post-screening resolved horizontal vorticity-tendency diagnostic, fixed before its computation; not a closed three-dimensional budget.",
+  "levels_hpa": [
+    850,
+    700
+  ],
+  "leads_hours": {
+    "first": 0,
+    "last": 168,
+    "step": 6
+  },
+  "smoothing_km": 100,
+  "metric_latitude_deg": 25,
+  "vorticity_scale_s1": 1e-05,
+  "regions_SWNE": {
+    "eastern_core": [
+      12,
+      127,
+      25,
+      142
+    ],
+    "eastern_wide": [
+      12,
+      125,
+      28,
+      145
+    ],
+    "western_flank": [
+      12,
+      120,
+      28,
+      130
+    ],
+    "eastern_flank": [
+      12,
+      130,
+      28,
+      145
+    ]
+  },
+  "phase_hours": [
+    [
+      0,
+      24
+    ],
+    [
+      24,
+      72
+    ],
+    [
+      72,
+      120
+    ],
+    [
+      120,
+      168
+    ]
+  ],
+  "terrain": "Static original IFS surface pressure, two-cell erosion before differentiation products, smoothed valid coverage at least 0.95; identical across sources and times.",
+  "discretization": "Spherical centered finite differences, products at native resolution before smoothing; six-hour endpoint tendency and trapezoidal right-hand-side average.",
+  "residual_interpretation": "Contains unmeasured vertical advection, tilting, friction and other effects, analysis increments, temporal/spatial discretization, and forecast inconsistency. It is not an isolated heating or model-error term."
+}

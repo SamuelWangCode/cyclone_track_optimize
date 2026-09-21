@@ -1,0 +1,3757 @@
+{
+  "phases": [
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.028038384469735483,
+        "reference_wind_on_vorticity_error": -0.2119026952996557,
+        "nonlinear_error_advection": -0.0367329771628937
+      },
+      "total": -0.22059728799281392
+    },
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.1017220305286104,
+        "reference_wind_on_vorticity_error": 0.1560770100611517,
+        "nonlinear_error_advection": -0.2773517002120388
+      },
+      "total": 1.9804473403777232
+    },
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -2.1018374523895718,
+        "reference_wind_on_vorticity_error": -9.038087466913648,
+        "nonlinear_error_advection": 5.951037711122309
+      },
+      "total": -5.18888720818091
+    },
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -9.223543421722471,
+        "reference_wind_on_vorticity_error": -25.69457696637585,
+        "nonlinear_error_advection": 10.035530707118586
+      },
+      "total": -24.88258968097973
+    },
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.0794298841981013,
+        "reference_wind_on_vorticity_error": -0.16784174197503246,
+        "nonlinear_error_advection": -0.04095491848991189
+      },
+      "total": -0.12936677626684304
+    },
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.2947203346888565,
+        "reference_wind_on_vorticity_error": 0.46025754377826955,
+        "nonlinear_error_advection": -0.6901523055029029
+      },
+      "total": 2.064825572964223
+    },
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 1.8990154884727024,
+        "reference_wind_on_vorticity_error": -8.157257090813907,
+        "nonlinear_error_advection": 4.723831566591414
+      },
+      "total": -1.53441003574979
+    },
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -12.24556694091404,
+        "reference_wind_on_vorticity_error": -14.52583367993759,
+        "nonlinear_error_advection": 15.259503125313962
+      },
+      "total": -11.511897495537667
+    },
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 1.2230956131795259,
+        "reference_wind_on_vorticity_error": -0.5924084590855307,
+        "nonlinear_error_advection": -0.5131504337345218
+      },
+      "total": 0.11753672035947327
+    },
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.8748546925436806,
+        "reference_wind_on_vorticity_error": 1.9563535288272123,
+        "nonlinear_error_advection": -1.9066003293916503
+      },
+      "total": 2.9246078919792433
+    },
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 7.56044494463341,
+        "reference_wind_on_vorticity_error": -4.387925192451524,
+        "nonlinear_error_advection": -0.8909806994151093
+      },
+      "total": 2.2815390527667767
+    },
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 9.418460274065476,
+        "reference_wind_on_vorticity_error": -10.187364138545629,
+        "nonlinear_error_advection": 0.35029672647770616
+      },
+      "total": -0.418607138002447
+    },
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.0006832544449274919,
+        "reference_wind_on_vorticity_error": -0.09047470304830169,
+        "nonlinear_error_advection": -0.0039703077447901525
+      },
+      "total": -0.09376175634816435
+    },
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 1.5876213162527892,
+        "reference_wind_on_vorticity_error": -1.0218414208768838,
+        "nonlinear_error_advection": 0.5392479634713264
+      },
+      "total": 1.1050278588472318
+    },
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -0.5101991070700167,
+        "reference_wind_on_vorticity_error": -5.930106825491554,
+        "nonlinear_error_advection": 5.299187844632557
+      },
+      "total": -1.141118087929014
+    },
+    {
+      "source": "control_tianxing",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -18.470689188720698,
+        "reference_wind_on_vorticity_error": -15.07583006456402,
+        "nonlinear_error_advection": 18.56237674607635
+      },
+      "total": -14.984142507208364
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.35170294508393946,
+        "reference_wind_on_vorticity_error": 0.034598480030893664,
+        "nonlinear_error_advection": -0.297432524038733
+      },
+      "total": 0.08886890107610013
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 1.7118779896907756,
+        "reference_wind_on_vorticity_error": -1.0219462754010544,
+        "nonlinear_error_advection": 0.8491194418214298
+      },
+      "total": 1.539051156111151
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -4.133651228479815,
+        "reference_wind_on_vorticity_error": -9.015106243756046,
+        "nonlinear_error_advection": 7.350727540421751
+      },
+      "total": -5.79802993181411
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -9.383669294809597,
+        "reference_wind_on_vorticity_error": -23.420992680263947,
+        "nonlinear_error_advection": 9.852001196350226
+      },
+      "total": -22.952660778723317
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.244243600687867,
+        "reference_wind_on_vorticity_error": -0.011133714293199592,
+        "nonlinear_error_advection": -0.16037086807115866
+      },
+      "total": 0.07273901832350874
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 1.8231106889105106,
+        "reference_wind_on_vorticity_error": -0.8173082382473132,
+        "nonlinear_error_advection": 0.18989323708481376
+      },
+      "total": 1.1956956877480112
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 0.2925948155236203,
+        "reference_wind_on_vorticity_error": -8.102719956188926,
+        "nonlinear_error_advection": 5.331108184350641
+      },
+      "total": -2.4790169563146645
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -10.30851036850579,
+        "reference_wind_on_vorticity_error": -12.05924564077618,
+        "nonlinear_error_advection": 11.887782721324788
+      },
+      "total": -10.479973287957181
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 1.1641687801566263,
+        "reference_wind_on_vorticity_error": -0.3953470070769074,
+        "nonlinear_error_advection": -0.30108293214666537
+      },
+      "total": 0.4677388409330535
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.042514844782886,
+        "reference_wind_on_vorticity_error": 0.01628090758526718,
+        "nonlinear_error_advection": -0.8180332540485991
+      },
+      "total": 1.240762498319554
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 4.031477181887754,
+        "reference_wind_on_vorticity_error": -4.615106790823097,
+        "nonlinear_error_advection": -1.5097051330553857
+      },
+      "total": -2.093334741990728
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 7.121315283322196,
+        "reference_wind_on_vorticity_error": 2.903954283211635,
+        "nonlinear_error_advection": -9.417033058501419
+      },
+      "total": 0.6082365080324124
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.1531525980967312,
+        "reference_wind_on_vorticity_error": 0.03144641370583509,
+        "nonlinear_error_advection": -0.11270373907908794
+      },
+      "total": 0.07189527272347836
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 0.8745524263063011,
+        "reference_wind_on_vorticity_error": -1.5408207560327762,
+        "nonlinear_error_advection": 1.5022700081643485
+      },
+      "total": 0.8360016784378734
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -1.7307024845019048,
+        "reference_wind_on_vorticity_error": -4.332275673755799,
+        "nonlinear_error_advection": 5.220311904306769
+      },
+      "total": -0.8426662539509344
+    },
+    {
+      "source": "control_tianxing",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -17.42583297818545,
+        "reference_wind_on_vorticity_error": -14.483992919043379,
+        "nonlinear_error_advection": 17.515980835598853
+      },
+      "total": -14.393845061629975
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.09202622191836432,
+        "reference_wind_on_vorticity_error": -0.1261312944998077,
+        "nonlinear_error_advection": -0.08787818143612611
+      },
+      "total": -0.12198325401756949
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 1.732502620145007,
+        "reference_wind_on_vorticity_error": -0.38141763120684014,
+        "nonlinear_error_advection": 0.3570936683973603
+      },
+      "total": 1.7081786573355273
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -3.0889129837645104,
+        "reference_wind_on_vorticity_error": -9.033595584213899,
+        "nonlinear_error_advection": 6.355445333009969
+      },
+      "total": -5.76706323496844
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -8.891100273896757,
+        "reference_wind_on_vorticity_error": -24.900607651394562,
+        "nonlinear_error_advection": 9.367299976879627
+      },
+      "total": -24.42440794841169
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.08618382436212667,
+        "reference_wind_on_vorticity_error": -0.13007041622157997,
+        "nonlinear_error_advection": -0.04502628339250981
+      },
+      "total": -0.08891287525196312
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 1.910672869405678,
+        "reference_wind_on_vorticity_error": -0.12822317194660154,
+        "nonlinear_error_advection": -0.21890900328977342
+      },
+      "total": 1.563540694169303
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 1.0150893267211303,
+        "reference_wind_on_vorticity_error": -8.137161058706898,
+        "nonlinear_error_advection": 4.785257699288146
+      },
+      "total": -2.336814032697622
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -11.011059571665852,
+        "reference_wind_on_vorticity_error": -13.310615341784867,
+        "nonlinear_error_advection": 12.943685415606481
+      },
+      "total": -11.37798949784424
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 1.3831445305617494,
+        "reference_wind_on_vorticity_error": -0.5606282500964751,
+        "nonlinear_error_advection": -0.5390393878775221
+      },
+      "total": 0.2834768925877521
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.4548969238346947,
+        "reference_wind_on_vorticity_error": 0.9143055906772728,
+        "nonlinear_error_advection": -1.500962378816161
+      },
+      "total": 1.8682401356958067
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 5.48567547198939,
+        "reference_wind_on_vorticity_error": -5.494673850874905,
+        "nonlinear_error_advection": -0.7782574049764741
+      },
+      "total": -0.7872557838619891
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 8.406717450322704,
+        "reference_wind_on_vorticity_error": -2.464586421583836,
+        "nonlinear_error_advection": -6.215189993172038
+      },
+      "total": -0.27305896443316957
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.007375319214750072,
+        "reference_wind_on_vorticity_error": -0.05815623544813705,
+        "nonlinear_error_advection": -0.001908227686922736
+      },
+      "total": -0.05268914392030971
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 1.1119102688379685,
+        "reference_wind_on_vorticity_error": -1.297660723749674,
+        "nonlinear_error_advection": 1.0644072890578054
+      },
+      "total": 0.8786568341460999
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -1.21207861739052,
+        "reference_wind_on_vorticity_error": -5.064003845638043,
+        "nonlinear_error_advection": 5.117791202645974
+      },
+      "total": -1.1582912603825886
+    },
+    {
+      "source": "control_tianxing",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -17.850688301496703,
+        "reference_wind_on_vorticity_error": -14.834634104044321,
+        "nonlinear_error_advection": 17.883150541200916
+      },
+      "total": -14.802171864340107
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.026864752927220598,
+        "reference_wind_on_vorticity_error": -0.3754366924047828,
+        "nonlinear_error_advection": 0.08869998423072617
+      },
+      "total": -0.259871955246836
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -0.4590339227688366,
+        "reference_wind_on_vorticity_error": -2.1274084216117988,
+        "nonlinear_error_advection": 1.814605162914779
+      },
+      "total": -0.7718371814658564
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -3.3243541005938826,
+        "reference_wind_on_vorticity_error": -5.195291289309678,
+        "nonlinear_error_advection": 1.0959797431495444
+      },
+      "total": -7.423665646754016
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -1.673156271651157,
+        "reference_wind_on_vorticity_error": -10.069256053996753,
+        "nonlinear_error_advection": 4.187104103257966
+      },
+      "total": -7.555308222389944
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.032234640838193065,
+        "reference_wind_on_vorticity_error": -0.249517377496445,
+        "nonlinear_error_advection": 0.06594390194743222
+      },
+      "total": -0.21580811638720587
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 0.05681423765232782,
+        "reference_wind_on_vorticity_error": -1.3256553122449022,
+        "nonlinear_error_advection": 0.9687307517209723
+      },
+      "total": -0.3001103228716021
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -2.318781937505216,
+        "reference_wind_on_vorticity_error": -3.582275831896861,
+        "nonlinear_error_advection": 1.1812211438295757
+      },
+      "total": -4.719836625572501
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -2.669965332722389,
+        "reference_wind_on_vorticity_error": -4.136180479862283,
+        "nonlinear_error_advection": 3.664982027654128
+      },
+      "total": -3.1411637849305443
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.053890137272714536,
+        "reference_wind_on_vorticity_error": -0.5067067307775436,
+        "nonlinear_error_advection": 0.0716429813810847
+      },
+      "total": -0.4889538866691734
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 0.5115617675773607,
+        "reference_wind_on_vorticity_error": -1.2027652025653197,
+        "nonlinear_error_advection": -0.23356966927757952
+      },
+      "total": -0.9247731042655385
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -3.1205651991604433,
+        "reference_wind_on_vorticity_error": -5.835741901549397,
+        "nonlinear_error_advection": 3.971337452807351
+      },
+      "total": -4.98496964790249
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 6.09524802686005,
+        "reference_wind_on_vorticity_error": -3.3643790806821707,
+        "nonlinear_error_advection": -2.5677652789371477
+      },
+      "total": 0.16310366724073155
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.03759683832102119,
+        "reference_wind_on_vorticity_error": -0.19030639851381576,
+        "nonlinear_error_advection": 0.1338780488432265
+      },
+      "total": -0.018831511349568092
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -0.030307701485379895,
+        "reference_wind_on_vorticity_error": -1.4026820437198468,
+        "nonlinear_error_advection": 1.0879033878523205
+      },
+      "total": -0.34508635735290616
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -1.1668677804890035,
+        "reference_wind_on_vorticity_error": -1.389181487889524,
+        "nonlinear_error_advection": -0.7737146608699732
+      },
+      "total": -3.3297639292485
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -6.484710956339493,
+        "reference_wind_on_vorticity_error": -4.3938358465042615,
+        "nonlinear_error_advection": 6.365909280827364
+      },
+      "total": -4.51263752201639
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.6740246526524503,
+        "reference_wind_on_vorticity_error": -0.9700266458292561,
+        "nonlinear_error_advection": 0.8151587507874039
+      },
+      "total": -0.8288925476943025
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -0.9431552736373818,
+        "reference_wind_on_vorticity_error": -3.2288931652488473,
+        "nonlinear_error_advection": 2.53606055593412
+      },
+      "total": -1.6359878829521088
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -4.365316296266546,
+        "reference_wind_on_vorticity_error": -6.267918457051784,
+        "nonlinear_error_advection": 2.988469628045083
+      },
+      "total": -7.644765125273247
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -3.7850851974842623,
+        "reference_wind_on_vorticity_error": -11.009362517484757,
+        "nonlinear_error_advection": 5.7540993797417945
+      },
+      "total": -9.040348335227225
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.3301779274955504,
+        "reference_wind_on_vorticity_error": -0.617326346262211,
+        "nonlinear_error_advection": 0.4818564789170076
+      },
+      "total": -0.46564779484075375
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -0.30833562727049857,
+        "reference_wind_on_vorticity_error": -2.2332271717943684,
+        "nonlinear_error_advection": 1.6144463167933174
+      },
+      "total": -0.9271164822715496
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -3.1265234246211433,
+        "reference_wind_on_vorticity_error": -4.708908282239324,
+        "nonlinear_error_advection": 2.6552897567391787
+      },
+      "total": -5.180141950121288
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -4.674952797635367,
+        "reference_wind_on_vorticity_error": -5.047199427698924,
+        "nonlinear_error_advection": 4.9253668114094
+      },
+      "total": -4.7967854139248916
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.2516413832209899,
+        "reference_wind_on_vorticity_error": 0.015663485390089382,
+        "nonlinear_error_advection": 0.1666261394045608
+      },
+      "total": -0.0693517584263397
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -1.0606792126710944,
+        "reference_wind_on_vorticity_error": -1.96067831641061,
+        "nonlinear_error_advection": 1.2551779814170785
+      },
+      "total": -1.7661795476646263
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -5.323637311830314,
+        "reference_wind_on_vorticity_error": -7.343757076865543,
+        "nonlinear_error_advection": 5.698977614405206
+      },
+      "total": -6.9684167742906515
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 1.4085432587042588,
+        "reference_wind_on_vorticity_error": -1.6295692871768512,
+        "nonlinear_error_advection": -0.902319367033718
+      },
+      "total": -1.1233453955063104
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.46977242552246384,
+        "reference_wind_on_vorticity_error": -0.5640003290470064,
+        "nonlinear_error_advection": 0.5979647823512426
+      },
+      "total": -0.43580797221822754
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 0.01581683728591554,
+        "reference_wind_on_vorticity_error": -2.102281805477975,
+        "nonlinear_error_advection": 1.463902301045849
+      },
+      "total": -0.6225626671462103
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -1.0900039124132894,
+        "reference_wind_on_vorticity_error": -2.185857903566764,
+        "nonlinear_error_advection": 0.21243011179347154
+      },
+      "total": -3.0634317041865815
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -7.422795248308521,
+        "reference_wind_on_vorticity_error": -6.394299498008912,
+        "nonlinear_error_advection": 7.642634474212374
+      },
+      "total": -6.174460272105059
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.33693254208587065,
+        "reference_wind_on_vorticity_error": -0.634919240556965,
+        "nonlinear_error_advection": 0.4397492231195622
+      },
+      "total": -0.5321025595232735
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -0.8310299229782759,
+        "reference_wind_on_vorticity_error": -2.632498781888743,
+        "nonlinear_error_advection": 2.21356020254261
+      },
+      "total": -1.2499685023244091
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -4.031985405799021,
+        "reference_wind_on_vorticity_error": -5.801239027983974,
+        "nonlinear_error_advection": 2.1112298123703783
+      },
+      "total": -7.721994621412616
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -2.948876643132969,
+        "reference_wind_on_vorticity_error": -10.642767080261814,
+        "nonlinear_error_advection": 4.742991036482602
+      },
+      "total": -8.848652686912182
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.19298886411186322,
+        "reference_wind_on_vorticity_error": -0.4197371244122208,
+        "nonlinear_error_advection": 0.2707838593442113
+      },
+      "total": -0.3419421291798727
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -0.22762242629232726,
+        "reference_wind_on_vorticity_error": -1.750020848680875,
+        "nonlinear_error_advection": 1.30694932182612
+      },
+      "total": -0.6706939531470824
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -2.899060824626758,
+        "reference_wind_on_vorticity_error": -4.1745252360337615,
+        "nonlinear_error_advection": 1.9419514964632332
+      },
+      "total": -5.131634564197286
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -3.9494270293554044,
+        "reference_wind_on_vorticity_error": -4.576876896560531,
+        "nonlinear_error_advection": 4.135867107800303
+      },
+      "total": -4.390436818115633
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.14903466988458688,
+        "reference_wind_on_vorticity_error": -0.007443567659563638,
+        "nonlinear_error_advection": -0.040060067070881326
+      },
+      "total": -0.19653830461503186
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -0.4273617621931921,
+        "reference_wind_on_vorticity_error": -1.5435744977806352,
+        "nonlinear_error_advection": 0.5333065220981351
+      },
+      "total": -1.4376297378756924
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -4.745217166508187,
+        "reference_wind_on_vorticity_error": -6.7392616063424065,
+        "nonlinear_error_advection": 5.142738134076078
+      },
+      "total": -6.341740638774516
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 3.114496937750285,
+        "reference_wind_on_vorticity_error": -2.1139454511386906,
+        "nonlinear_error_advection": -1.9351150451574672
+      },
+      "total": -0.9345635585458729
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.2411052912232874,
+        "reference_wind_on_vorticity_error": -0.36726794870591917,
+        "nonlinear_error_advection": 0.36499131117449235
+      },
+      "total": -0.2433819287547142
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -0.1371915287984758,
+        "reference_wind_on_vorticity_error": -1.7476006296113473,
+        "nonlinear_error_advection": 1.3073065796459462
+      },
+      "total": -0.5774855787638769
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -1.2610789751718483,
+        "reference_wind_on_vorticity_error": -1.8110325693516813,
+        "nonlinear_error_advection": -0.266644412030127
+      },
+      "total": -3.3387559565536566
+    },
+    {
+      "source": "optimal_tianxing",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -7.115873491887539,
+        "reference_wind_on_vorticity_error": -5.412980671529338,
+        "nonlinear_error_advection": 6.887974953120132
+      },
+      "total": -5.640879210296745
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.12782800241305825,
+        "reference_wind_on_vorticity_error": -0.0029176011956201717,
+        "nonlinear_error_advection": -0.06011716600558278
+      },
+      "total": 0.06479323521185529
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.662887377897179,
+        "reference_wind_on_vorticity_error": 0.8701011739401915,
+        "nonlinear_error_advection": -1.0183770047778162
+      },
+      "total": 2.5146115470595545
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -5.565576704421501,
+        "reference_wind_on_vorticity_error": -9.75495158668969,
+        "nonlinear_error_advection": 8.632455559770388
+      },
+      "total": -6.688072731340803
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -16.097780791834328,
+        "reference_wind_on_vorticity_error": -27.16793487384625,
+        "nonlinear_error_advection": 16.41546323572276
+      },
+      "total": -26.850252429957813
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.13649959462072492,
+        "reference_wind_on_vorticity_error": -0.011311883368317295,
+        "nonlinear_error_advection": -0.03260303584455369
+      },
+      "total": 0.09258467540785394
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.988362284124034,
+        "reference_wind_on_vorticity_error": 1.091690819689565,
+        "nonlinear_error_advection": -1.3873824812440518
+      },
+      "total": 2.692670622569547
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -0.10001268593818993,
+        "reference_wind_on_vorticity_error": -9.064913031637307,
+        "nonlinear_error_advection": 6.281538038040643
+      },
+      "total": -2.883387679534853
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -13.190991234094174,
+        "reference_wind_on_vorticity_error": -16.114187737841412,
+        "nonlinear_error_advection": 16.674556074539503
+      },
+      "total": -12.630622897396083
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.5097445896083179,
+        "reference_wind_on_vorticity_error": -0.7360289422565036,
+        "nonlinear_error_advection": 0.2041440087519754
+      },
+      "total": -0.022140343896210307
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 4.364618346917362,
+        "reference_wind_on_vorticity_error": 3.070112352616599,
+        "nonlinear_error_advection": -3.7276030996866756
+      },
+      "total": 3.707127599847285
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 10.45465614682287,
+        "reference_wind_on_vorticity_error": -4.751272472751613,
+        "nonlinear_error_advection": -4.645751559394122
+      },
+      "total": 1.0576321146771352
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 7.5669044456371575,
+        "reference_wind_on_vorticity_error": -10.289665457481611,
+        "nonlinear_error_advection": 2.3077647180237935
+      },
+      "total": -0.41499629382066017
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.019840367538429594,
+        "reference_wind_on_vorticity_error": 0.04924182901073092,
+        "nonlinear_error_advection": -0.0480726901019321
+      },
+      "total": 0.021009506447228404
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 1.8516323467547269,
+        "reference_wind_on_vorticity_error": -1.1347818939001277,
+        "nonlinear_error_advection": 0.6500457754623146
+      },
+      "total": 1.3668962283169137
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -4.482308462524551,
+        "reference_wind_on_vorticity_error": -6.339781907260909,
+        "nonlinear_error_advection": 8.09867977376411
+      },
+      "total": -2.723410596021351
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -19.57166939092143,
+        "reference_wind_on_vorticity_error": -17.18168146895268,
+        "nonlinear_error_advection": 20.88383860043788
+      },
+      "total": -15.869512259436224
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.10872148393381442,
+        "reference_wind_on_vorticity_error": -0.06672317746384392,
+        "nonlinear_error_advection": -0.0009645709438092578
+      },
+      "total": 0.04103373552616125
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.4579982368751696,
+        "reference_wind_on_vorticity_error": -0.460441976839571,
+        "nonlinear_error_advection": 0.4803912989579797
+      },
+      "total": 2.4779475589935784
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -5.983566912668874,
+        "reference_wind_on_vorticity_error": -9.506302326281233,
+        "nonlinear_error_advection": 8.996952942230749
+      },
+      "total": -6.492916296719358
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -14.461486984921612,
+        "reference_wind_on_vorticity_error": -24.17005091127913,
+        "nonlinear_error_advection": 14.883639124279311
+      },
+      "total": -23.747898771921427
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.10085834197621753,
+        "reference_wind_on_vorticity_error": -0.050568557414853395,
+        "nonlinear_error_advection": 0.008131896882484273
+      },
+      "total": 0.058421681443848406
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.464967290454882,
+        "reference_wind_on_vorticity_error": -0.32114950535150805,
+        "nonlinear_error_advection": -0.2054168929972569
+      },
+      "total": 1.9384008921061173
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -0.8219878327582335,
+        "reference_wind_on_vorticity_error": -8.441503952931557,
+        "nonlinear_error_advection": 6.0263290500707045
+      },
+      "total": -3.237162735619086
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -9.849772159076851,
+        "reference_wind_on_vorticity_error": -12.550246286145633,
+        "nonlinear_error_advection": 12.196449459981956
+      },
+      "total": -10.20356898524053
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.7008172260588698,
+        "reference_wind_on_vorticity_error": 0.13105831394475517,
+        "nonlinear_error_advection": -0.1496407999643303
+      },
+      "total": 0.6822347400392946
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.375117416105101,
+        "reference_wind_on_vorticity_error": 1.5115140498504804,
+        "nonlinear_error_advection": -2.099924415362554
+      },
+      "total": 1.7867070505930274
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 5.711630643733552,
+        "reference_wind_on_vorticity_error": -5.31577655604557,
+        "nonlinear_error_advection": -3.684883491193144
+      },
+      "total": -3.289029403505162
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 6.7184521250992475,
+        "reference_wind_on_vorticity_error": 3.3346099965194274,
+        "nonlinear_error_advection": -8.492816429471448
+      },
+      "total": 1.5602456921472267
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.026023867840299784,
+        "reference_wind_on_vorticity_error": -0.07763146991680395,
+        "nonlinear_error_advection": 0.03859501535580223
+      },
+      "total": -0.013012586720701935
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 1.2206618398478215,
+        "reference_wind_on_vorticity_error": -1.8674778273269477,
+        "nonlinear_error_advection": 1.8359254722470608
+      },
+      "total": 1.1891094847679347
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -4.533141816201704,
+        "reference_wind_on_vorticity_error": -4.2847197935823775,
+        "nonlinear_error_advection": 7.3608306265883545
+      },
+      "total": -1.457030983195727
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -16.769981579776633,
+        "reference_wind_on_vorticity_error": -15.39635967119773,
+        "nonlinear_error_advection": 18.04253402747421
+      },
+      "total": -14.123807223500151
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.041199766315941286,
+        "reference_wind_on_vorticity_error": -0.06767331003808388,
+        "nonlinear_error_advection": 0.0176055059822634
+      },
+      "total": -0.008868037739879198
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.4058164109340927,
+        "reference_wind_on_vorticity_error": 0.30498271510446534,
+        "nonlinear_error_advection": -0.22512551405440842
+      },
+      "total": 2.4856736119841494
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -5.638425768752674,
+        "reference_wind_on_vorticity_error": -9.73743085606199,
+        "nonlinear_error_advection": 8.479029611810992
+      },
+      "total": -6.896827013003673
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -14.703735225642308,
+        "reference_wind_on_vorticity_error": -26.049284372952222,
+        "nonlinear_error_advection": 15.015767118106517
+      },
+      "total": -25.737252480488017
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.049763253276876154,
+        "reference_wind_on_vorticity_error": -0.05253457689364646,
+        "nonlinear_error_advection": 0.015725164389937887
+      },
+      "total": 0.01295384077316758
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.5794307765633038,
+        "reference_wind_on_vorticity_error": 0.47524585251738594,
+        "nonlinear_error_advection": -0.783080341516901
+      },
+      "total": 2.2715962875637885
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -0.42966850150378144,
+        "reference_wind_on_vorticity_error": -8.854172465703785,
+        "nonlinear_error_advection": 5.890648770753513
+      },
+      "total": -3.393192196454054
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -11.14712144518327,
+        "reference_wind_on_vorticity_error": -14.460638333666415,
+        "nonlinear_error_advection": 13.82982020868074
+      },
+      "total": -11.777939570168943
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.6731877657117646,
+        "reference_wind_on_vorticity_error": -0.14417015150090948,
+        "nonlinear_error_advection": -0.15478535136399046
+      },
+      "total": 0.37423226284686467
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 3.1654456775195676,
+        "reference_wind_on_vorticity_error": 2.5633350899614635,
+        "nonlinear_error_advection": -3.06431131394621
+      },
+      "total": 2.6644694535348212
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 7.747054333367,
+        "reference_wind_on_vorticity_error": -5.83858905162596,
+        "nonlinear_error_advection": -4.118194589918127
+      },
+      "total": -2.209729308177087
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 7.353710333990609,
+        "reference_wind_on_vorticity_error": -2.766715131220721,
+        "nonlinear_error_advection": -4.468781122167627
+      },
+      "total": 0.11821408060226091
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.016188009599211118,
+        "reference_wind_on_vorticity_error": -0.03255708029458321,
+        "nonlinear_error_advection": 0.026742565183826936
+      },
+      "total": -0.022002524709967386
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 1.4503435905360882,
+        "reference_wind_on_vorticity_error": -1.4976488717731,
+        "nonlinear_error_advection": 1.269612912233299
+      },
+      "total": 1.2223076309962873
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -4.498612795624987,
+        "reference_wind_on_vorticity_error": -5.339912701638486,
+        "nonlinear_error_advection": 7.58249832069052
+      },
+      "total": -2.2560271765729523
+    },
+    {
+      "source": "era5init_tianxing",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -17.876072233723345,
+        "reference_wind_on_vorticity_error": -16.4161880699866,
+        "nonlinear_error_advection": 19.217700392999195
+      },
+      "total": -15.07455991071075
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.08111586615556016,
+        "reference_wind_on_vorticity_error": -0.16298650314057422,
+        "nonlinear_error_advection": -0.2236989875134178
+      },
+      "total": -0.30556962449843184
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.410525385048662,
+        "reference_wind_on_vorticity_error": 2.005759709184113,
+        "nonlinear_error_advection": -1.564585689147034
+      },
+      "total": 2.851699405085741
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 0.27699573746452,
+        "reference_wind_on_vorticity_error": -7.506213114145465,
+        "nonlinear_error_advection": 2.871647059637046
+      },
+      "total": -4.3575703170438995
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -12.127034371764193,
+        "reference_wind_on_vorticity_error": -26.000608920462,
+        "nonlinear_error_advection": 8.394390953119908
+      },
+      "total": -29.733252339106286
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.028111254713729026,
+        "reference_wind_on_vorticity_error": -0.09654573154780542,
+        "nonlinear_error_advection": -0.13584712918972242
+      },
+      "total": -0.2042816060237988
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.7921939724212717,
+        "reference_wind_on_vorticity_error": 2.0437495648262165,
+        "nonlinear_error_advection": -1.2085221461406066
+      },
+      "total": 3.627421391106881
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 5.346008746120859,
+        "reference_wind_on_vorticity_error": -8.459888000641897,
+        "nonlinear_error_advection": 2.767139447703179
+      },
+      "total": -0.34673980681785865
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -15.237608070923919,
+        "reference_wind_on_vorticity_error": -15.746346139310399,
+        "nonlinear_error_advection": 14.842297481517289
+      },
+      "total": -16.141656728717027
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.4122730008914438,
+        "reference_wind_on_vorticity_error": -0.3948035403686811,
+        "nonlinear_error_advection": -0.09941689255907533
+      },
+      "total": -0.9064934338192002
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 5.227811624798874,
+        "reference_wind_on_vorticity_error": 4.107985880541939,
+        "nonlinear_error_advection": -3.9746858254444652
+      },
+      "total": 5.361111679896348
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 18.39833531877451,
+        "reference_wind_on_vorticity_error": 6.829727907548251,
+        "nonlinear_error_advection": -17.65886458059734
+      },
+      "total": 7.569198645725422
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 17.561838276920582,
+        "reference_wind_on_vorticity_error": -10.213175605901082,
+        "nonlinear_error_advection": -14.289331506901352
+      },
+      "total": -6.940668835881851
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.08091990862632054,
+        "reference_wind_on_vorticity_error": -0.055609238653198556,
+        "nonlinear_error_advection": -0.07766712502251598
+      },
+      "total": -0.052356455049394
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.669182315342227,
+        "reference_wind_on_vorticity_error": -1.1199946792083781,
+        "nonlinear_error_advection": 0.518499268963707
+      },
+      "total": 2.067686905097556
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -1.3485828785465093,
+        "reference_wind_on_vorticity_error": -9.82322627151241,
+        "nonlinear_error_advection": 8.823530788191874
+      },
+      "total": -2.3482783618670453
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -24.33213184515275,
+        "reference_wind_on_vorticity_error": -17.714187596131108,
+        "nonlinear_error_advection": 22.662504829818566
+      },
+      "total": -19.38381461146529
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.22122798100162772,
+        "reference_wind_on_vorticity_error": -0.07372080403641218,
+        "nonlinear_error_advection": -0.18658986369631286
+      },
+      "total": -0.03908268673109733
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.2823423576563555,
+        "reference_wind_on_vorticity_error": 0.05030729860127872,
+        "nonlinear_error_advection": 0.33615984735939336
+      },
+      "total": 2.6688095036170276
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 0.9382470178066367,
+        "reference_wind_on_vorticity_error": -9.849051820920316,
+        "nonlinear_error_advection": 5.59079883374849
+      },
+      "total": -3.320005969365189
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -11.34148580760465,
+        "reference_wind_on_vorticity_error": -25.097572646514944,
+        "nonlinear_error_advection": 12.145523872018968
+      },
+      "total": -24.293534582100627
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.0975476600046764,
+        "reference_wind_on_vorticity_error": -0.03742729652947245,
+        "nonlinear_error_advection": -0.10196825577102805
+      },
+      "total": -0.0418478922958241
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.4018536086085103,
+        "reference_wind_on_vorticity_error": 0.42539520804812214,
+        "nonlinear_error_advection": -0.038684520900561375
+      },
+      "total": 2.7885642957560712
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 4.256610150228385,
+        "reference_wind_on_vorticity_error": -9.05614904571416,
+        "nonlinear_error_advection": 4.0889600906807395
+      },
+      "total": -0.710578804805035
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -13.589001393406082,
+        "reference_wind_on_vorticity_error": -13.85929440960397,
+        "nonlinear_error_advection": 14.918318308047573
+      },
+      "total": -12.529977494962482
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.33977584019111556,
+        "reference_wind_on_vorticity_error": 0.06563402804606476,
+        "nonlinear_error_advection": 0.2424143009352952
+      },
+      "total": -0.03172751120975559
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 0.5896214052663735,
+        "reference_wind_on_vorticity_error": 4.238312978640194,
+        "nonlinear_error_advection": -2.375686194980606
+      },
+      "total": 2.452248188925962
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 10.637144829494535,
+        "reference_wind_on_vorticity_error": 2.6799266511871815,
+        "nonlinear_error_advection": -10.146083615863368
+      },
+      "total": 3.170987864818347
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 9.3509410843357,
+        "reference_wind_on_vorticity_error": 2.007358618607732,
+        "nonlinear_error_advection": -13.574975191833794
+      },
+      "total": -2.2166754888903615
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.17686754417487216,
+        "reference_wind_on_vorticity_error": 0.10557500565863683,
+        "nonlinear_error_advection": -0.1587844903076511
+      },
+      "total": 0.12365805952585787
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.636228347160374,
+        "reference_wind_on_vorticity_error": -3.1828204152300397,
+        "nonlinear_error_advection": 2.3029979162267926
+      },
+      "total": 1.7564058481571267
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -0.42949118146232457,
+        "reference_wind_on_vorticity_error": -6.71485956583688,
+        "nonlinear_error_advection": 7.507990895422582
+      },
+      "total": 0.36364014812337686
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -23.432268096504124,
+        "reference_wind_on_vorticity_error": -15.339307108180606,
+        "nonlinear_error_advection": 23.92233753927243
+      },
+      "total": -14.8492376654123
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.188588008677949,
+        "reference_wind_on_vorticity_error": -0.08447514018476567,
+        "nonlinear_error_advection": -0.2020837362406595
+      },
+      "total": -0.09797086774747617
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.253299643043412,
+        "reference_wind_on_vorticity_error": 1.0606200982258773,
+        "nonlinear_error_advection": -0.6619784488135823
+      },
+      "total": 2.651941292455707
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 0.9295241945609722,
+        "reference_wind_on_vorticity_error": -9.21639438320215,
+        "nonlinear_error_advection": 3.795594166501492
+      },
+      "total": -4.491276022139686
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -10.64669443254031,
+        "reference_wind_on_vorticity_error": -26.41236508328319,
+        "nonlinear_error_advection": 9.510741537760401
+      },
+      "total": -27.548317978063096
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.09087778309231667,
+        "reference_wind_on_vorticity_error": -0.03858060029756119,
+        "nonlinear_error_advection": -0.11140163538282104
+      },
+      "total": -0.059104452588065556
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.465357517663924,
+        "reference_wind_on_vorticity_error": 1.2650136197742958,
+        "nonlinear_error_advection": -0.648800993231124
+      },
+      "total": 3.0815701442070957
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 4.800435652270055,
+        "reference_wind_on_vorticity_error": -9.028747063767412,
+        "nonlinear_error_advection": 3.141786311359837
+      },
+      "total": -1.0865251001375196
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -13.97183224343335,
+        "reference_wind_on_vorticity_error": -15.101686402733318,
+        "nonlinear_error_advection": 14.270765936649553
+      },
+      "total": -14.802752709517115
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.47019727849065274,
+        "reference_wind_on_vorticity_error": 0.05951923734619014,
+        "nonlinear_error_advection": 0.0696108726187779
+      },
+      "total": -0.3410671685256847
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.0806380964051407,
+        "reference_wind_on_vorticity_error": 5.047047925410459,
+        "nonlinear_error_advection": -3.3447031279353894
+      },
+      "total": 3.7829828938802113
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 13.741358379652462,
+        "reference_wind_on_vorticity_error": 3.4286068404305223,
+        "nonlinear_error_advection": -13.668877716657352
+      },
+      "total": 3.5010875034256337
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 13.38698474991294,
+        "reference_wind_on_vorticity_error": -3.393333894812043,
+        "nonlinear_error_advection": -15.783364114267673
+      },
+      "total": -5.789713259166776
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.14325518597903564,
+        "reference_wind_on_vorticity_error": 0.044397468184211315,
+        "nonlinear_error_advection": -0.12041086880123894
+      },
+      "total": 0.067241785362008
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.514516148553071,
+        "reference_wind_on_vorticity_error": -2.206100882868536,
+        "nonlinear_error_advection": 1.4630778101997712
+      },
+      "total": 1.7714930758843066
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -0.8150837106702951,
+        "reference_wind_on_vorticity_error": -8.495670751209206,
+        "nonlinear_error_advection": 8.03505736739837
+      },
+      "total": -1.2756970944811314
+    },
+    {
+      "source": "control_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -23.679179062169773,
+        "reference_wind_on_vorticity_error": -16.699134077153875,
+        "nonlinear_error_advection": 23.212509198735376
+      },
+      "total": -17.165803940588276
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.09030960426678639,
+        "reference_wind_on_vorticity_error": -0.20681133986303285,
+        "nonlinear_error_advection": -0.10963680571346025
+      },
+      "total": -0.22613854130970673
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -0.21881251117600686,
+        "reference_wind_on_vorticity_error": -2.0103947735525534,
+        "nonlinear_error_advection": 1.5271233541163793
+      },
+      "total": -0.7020839306121811
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -9.34953141120925,
+        "reference_wind_on_vorticity_error": -8.676419340228811,
+        "nonlinear_error_advection": 6.589502131207794
+      },
+      "total": -11.436448620230266
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -15.327726253527695,
+        "reference_wind_on_vorticity_error": -19.986478508479077,
+        "nonlinear_error_advection": 17.956770682955998
+      },
+      "total": -17.357434079050776
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.2973994331095804,
+        "reference_wind_on_vorticity_error": -0.44828877362634456,
+        "nonlinear_error_advection": -0.06842795207725713
+      },
+      "total": -0.2193172925940213
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 0.08437775825024259,
+        "reference_wind_on_vorticity_error": -1.1131939482334843,
+        "nonlinear_error_advection": 0.8404255824831031
+      },
+      "total": -0.1883906075001387
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -6.96110963855884,
+        "reference_wind_on_vorticity_error": -6.930341613348745,
+        "nonlinear_error_advection": 5.750969484747053
+      },
+      "total": -8.140481767160534
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -5.672017536724701,
+        "reference_wind_on_vorticity_error": -11.11517628443926,
+        "nonlinear_error_advection": 12.23914715262143
+      },
+      "total": -4.548046668542531
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.013682363629698095,
+        "reference_wind_on_vorticity_error": -3.2490773761288247,
+        "nonlinear_error_advection": 0.4090588349616341
+      },
+      "total": -2.853700904796889
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.3731334889935285,
+        "reference_wind_on_vorticity_error": -2.3784327323032786,
+        "nonlinear_error_advection": 0.1434471162577055
+      },
+      "total": 0.13814787294795544
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -12.405986459351599,
+        "reference_wind_on_vorticity_error": -14.092382177803742,
+        "nonlinear_error_advection": 14.898887060412177
+      },
+      "total": -11.599481576743164
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 14.705436504685053,
+        "reference_wind_on_vorticity_error": 3.5323349541102327,
+        "nonlinear_error_advection": -13.509034497696602
+      },
+      "total": 4.728736961098685
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.1452193846438125,
+        "reference_wind_on_vorticity_error": -0.10751463814168735,
+        "nonlinear_error_advection": 0.07924691698264552
+      },
+      "total": 0.11695166348477068
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 0.1608724348295957,
+        "reference_wind_on_vorticity_error": -1.3457479942498825,
+        "nonlinear_error_advection": 0.8190204693269405
+      },
+      "total": -0.36585509009334616
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -1.3852727138191943,
+        "reference_wind_on_vorticity_error": -1.8435084220086702,
+        "nonlinear_error_advection": -0.7930216827161752
+      },
+      "total": -4.02180281854404
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -11.954954087438495,
+        "reference_wind_on_vorticity_error": -18.302053152827174,
+        "nonlinear_error_advection": 22.467955107347567
+      },
+      "total": -7.789052132918101
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.6123117126977344,
+        "reference_wind_on_vorticity_error": -1.0691092498259405,
+        "nonlinear_error_advection": 0.8378076664955454
+      },
+      "total": -0.8436132960281295
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -1.0885011223128762,
+        "reference_wind_on_vorticity_error": -2.1126829249815002,
+        "nonlinear_error_advection": 1.8739856377499817
+      },
+      "total": -1.3271984095443947
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -11.604279503084117,
+        "reference_wind_on_vorticity_error": -11.405459705587855,
+        "nonlinear_error_advection": 9.236663798176126
+      },
+      "total": -13.773075410495847
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -12.328416501897339,
+        "reference_wind_on_vorticity_error": -15.997127697761439,
+        "nonlinear_error_advection": 13.304544634167218
+      },
+      "total": -15.020999565491561
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.19329445851077004,
+        "reference_wind_on_vorticity_error": -0.7247003564392678,
+        "nonlinear_error_advection": 0.48213727839509046
+      },
+      "total": -0.4358575365549474
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -0.509299853090626,
+        "reference_wind_on_vorticity_error": -1.745826843091432,
+        "nonlinear_error_advection": 1.3319741263919502
+      },
+      "total": -0.9231525697901077
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -8.882523470789952,
+        "reference_wind_on_vorticity_error": -8.797998933402349,
+        "nonlinear_error_advection": 7.812254869482128
+      },
+      "total": -9.868267534710174
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -2.8402865292661734,
+        "reference_wind_on_vorticity_error": -7.405013640482117,
+        "nonlinear_error_advection": 6.355539778973258
+      },
+      "total": -3.8897603907750327
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.7474026625312754,
+        "reference_wind_on_vorticity_error": 0.2485398931284227,
+        "nonlinear_error_advection": 0.47808614951447337
+      },
+      "total": -0.02077661988837931
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -0.4433595526549387,
+        "reference_wind_on_vorticity_error": -3.4652759244091422,
+        "nonlinear_error_advection": 1.8031571002719582
+      },
+      "total": -2.1054783767921226
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -14.094185272294817,
+        "reference_wind_on_vorticity_error": -16.356392795151873,
+        "nonlinear_error_advection": 16.168493351704836
+      },
+      "total": -14.282084715741856
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 9.899891727753163,
+        "reference_wind_on_vorticity_error": 2.957299824953656,
+        "nonlinear_error_advection": -11.720406963479162
+      },
+      "total": 1.1367845892276573
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.3514174938945138,
+        "reference_wind_on_vorticity_error": -0.6066166510282693,
+        "nonlinear_error_advection": 0.62066382167733
+      },
+      "total": -0.33737032324545313
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -0.1488033170237217,
+        "reference_wind_on_vorticity_error": -0.9830993829187683,
+        "nonlinear_error_advection": 0.7415736657855894
+      },
+      "total": -0.39032903415690057
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -2.975426587187967,
+        "reference_wind_on_vorticity_error": -2.3165073064377304,
+        "nonlinear_error_advection": 0.6809687042382037
+      },
+      "total": -4.6109651893874934
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -10.537074900655995,
+        "reference_wind_on_vorticity_error": -14.335927400634333,
+        "nonlinear_error_advection": 17.44100529310839
+      },
+      "total": -7.431997008181938
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.1615919937791645,
+        "reference_wind_on_vorticity_error": -0.5636489145010246,
+        "nonlinear_error_advection": 0.29133889494514775
+      },
+      "total": -0.4339020133350414
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -0.7731360021332225,
+        "reference_wind_on_vorticity_error": -2.0715128249324373,
+        "nonlinear_error_advection": 1.735030298067847
+      },
+      "total": -1.1096185289978129
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -10.739545482641915,
+        "reference_wind_on_vorticity_error": -10.12691432497751,
+        "nonlinear_error_advection": 8.093066907579145
+      },
+      "total": -12.773392900040283
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -12.977865696236417,
+        "reference_wind_on_vorticity_error": -18.878322783757426,
+        "nonlinear_error_advection": 15.253028092053526
+      },
+      "total": -16.603160387940317
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.11722226433478422,
+        "reference_wind_on_vorticity_error": -0.5285947697193122,
+        "nonlinear_error_advection": 0.16586476351624932
+      },
+      "total": -0.24550774186827864
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -0.2943656932100188,
+        "reference_wind_on_vorticity_error": -1.4265040290079423,
+        "nonlinear_error_advection": 1.084475210835623
+      },
+      "total": -0.6363945113823379
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -8.094782442419415,
+        "reference_wind_on_vorticity_error": -7.875772673425398,
+        "nonlinear_error_advection": 6.798062240125715
+      },
+      "total": -9.172492875719099
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -3.895335934024262,
+        "reference_wind_on_vorticity_error": -9.821230686438419,
+        "nonlinear_error_advection": 8.88115589831936
+      },
+      "total": -4.835410722143321
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.5946430881987808,
+        "reference_wind_on_vorticity_error": -1.1658184791802184,
+        "nonlinear_error_advection": 0.478519699309772
+      },
+      "total": -1.2819418680692272
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 0.404111294895579,
+        "reference_wind_on_vorticity_error": -2.744392080628446,
+        "nonlinear_error_advection": 0.979263047782971
+      },
+      "total": -1.3610177379498962
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -14.341018402083279,
+        "reference_wind_on_vorticity_error": -15.637391097841999,
+        "nonlinear_error_advection": 16.09404363308158
+      },
+      "total": -13.884365866843698
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 12.101660970298457,
+        "reference_wind_on_vorticity_error": 3.834771762914764,
+        "nonlinear_error_advection": -14.288829795313172
+      },
+      "total": 1.64760293790005
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.04797930910185042,
+        "reference_wind_on_vorticity_error": -0.3191253232234099,
+        "nonlinear_error_advection": 0.29487449887490436
+      },
+      "total": -0.072230133450356
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": -0.11262240039811387,
+        "reference_wind_on_vorticity_error": -1.2752638424114153,
+        "nonlinear_error_advection": 0.8593580986171807
+      },
+      "total": -0.5285281441923484
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": -2.318757021624158,
+        "reference_wind_on_vorticity_error": -2.1140078376017004,
+        "nonlinear_error_advection": -0.010466351644843608
+      },
+      "total": -4.443231210870703
+    },
+    {
+      "source": "optimal_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -10.754522817370496,
+        "reference_wind_on_vorticity_error": -16.421163942917573,
+        "nonlinear_error_advection": 19.609143798991738
+      },
+      "total": -7.5665429612963315
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.12100832938418996,
+        "reference_wind_on_vorticity_error": 0.08605753175229969,
+        "nonlinear_error_advection": -0.07328067207727093
+      },
+      "total": 0.1337851890592187
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.527081037612146,
+        "reference_wind_on_vorticity_error": 4.053695096268221,
+        "nonlinear_error_advection": -2.6411590290418028
+      },
+      "total": 3.9396171048385646
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 3.5986955008902655,
+        "reference_wind_on_vorticity_error": -9.398380422991028,
+        "nonlinear_error_advection": 3.119901997377667
+      },
+      "total": -2.6797829247230958
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -7.710143596523659,
+        "reference_wind_on_vorticity_error": -24.88198684601926,
+        "nonlinear_error_advection": 8.480433824966173
+      },
+      "total": -24.111696617576744
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.09798657770725265,
+        "reference_wind_on_vorticity_error": 0.006121619216595799,
+        "nonlinear_error_advection": -0.030688971579209877
+      },
+      "total": 0.07341922534463857
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 3.239342119555213,
+        "reference_wind_on_vorticity_error": 3.449548439885061,
+        "nonlinear_error_advection": -2.701665535422872
+      },
+      "total": 3.9872250240174023
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 5.9606990536111875,
+        "reference_wind_on_vorticity_error": -7.710281636427574,
+        "nonlinear_error_advection": 3.020880017977109
+      },
+      "total": 1.2712974351607227
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -7.069707298341326,
+        "reference_wind_on_vorticity_error": -21.733963244403302,
+        "nonlinear_error_advection": 19.093211243384758
+      },
+      "total": -9.710459299359869
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.4111426405277556,
+        "reference_wind_on_vorticity_error": -0.91742384488705,
+        "nonlinear_error_advection": 0.2677922515607889
+      },
+      "total": -1.0607742338540167
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 6.681933113080017,
+        "reference_wind_on_vorticity_error": 7.010686334759953,
+        "nonlinear_error_advection": -7.593390762002748
+      },
+      "total": 6.099228685837222
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 17.991442565621835,
+        "reference_wind_on_vorticity_error": 4.098570692062237,
+        "nonlinear_error_advection": -15.91716139433915
+      },
+      "total": 6.1728518633449205
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 35.417673810872486,
+        "reference_wind_on_vorticity_error": -18.454125190510332,
+        "nonlinear_error_advection": -9.95566681684584
+      },
+      "total": 7.007881803516314
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.019270201801944754,
+        "reference_wind_on_vorticity_error": 0.11543700965085302,
+        "nonlinear_error_advection": -0.06628169437067577
+      },
+      "total": 0.068425517082122
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.6760217490158347,
+        "reference_wind_on_vorticity_error": -1.3549686749062542,
+        "nonlinear_error_advection": 0.8021648911949988
+      },
+      "total": 2.1232179653045793
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 2.341460081090249,
+        "reference_wind_on_vorticity_error": -6.923218655992763,
+        "nonlinear_error_advection": 3.37620932257443
+      },
+      "total": -1.2055492523280837
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "850",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -26.470826966003777,
+        "reference_wind_on_vorticity_error": -11.902280110618559,
+        "nonlinear_error_advection": 21.916424450184017
+      },
+      "total": -16.456682626438315
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.08650939440162707,
+        "reference_wind_on_vorticity_error": -0.09279810641393245,
+        "nonlinear_error_advection": 0.10965672212444183
+      },
+      "total": -0.06965077869111769
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.9173831048236063,
+        "reference_wind_on_vorticity_error": 2.428954708576595,
+        "nonlinear_error_advection": -0.7708786021227142
+      },
+      "total": 4.575459211277487
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 1.57066727288392,
+        "reference_wind_on_vorticity_error": -11.256984695775037,
+        "nonlinear_error_advection": 5.965631114196581
+      },
+      "total": -3.7206863086945354
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -5.799035951157125,
+        "reference_wind_on_vorticity_error": -21.69066835498372,
+        "nonlinear_error_advection": 10.333869687062284
+      },
+      "total": -17.15583461907856
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.07454726023776825,
+        "reference_wind_on_vorticity_error": -0.08764252412719835,
+        "nonlinear_error_advection": 0.08715424722707743
+      },
+      "total": -0.07503553713788919
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.8428383034872606,
+        "reference_wind_on_vorticity_error": 2.0592290807487448,
+        "nonlinear_error_advection": -1.3061854297442608
+      },
+      "total": 3.5958819544917446
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 4.9069960239730595,
+        "reference_wind_on_vorticity_error": -9.46351498291649,
+        "nonlinear_error_advection": 4.539289098056759
+      },
+      "total": -0.017229860886670778
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -6.737733125044208,
+        "reference_wind_on_vorticity_error": -17.83638913261135,
+        "nonlinear_error_advection": 17.096401178088954
+      },
+      "total": -7.4777210795666065
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.4554077369095639,
+        "reference_wind_on_vorticity_error": 0.2255564538964035,
+        "nonlinear_error_advection": 0.325708855291289
+      },
+      "total": 0.09585757227812863
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 0.5871098493411927,
+        "reference_wind_on_vorticity_error": 7.979199049814888,
+        "nonlinear_error_advection": -5.764655595568422
+      },
+      "total": 2.801653303587658
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 8.001214884197244,
+        "reference_wind_on_vorticity_error": 2.9529005822080316,
+        "nonlinear_error_advection": -9.048644010426218
+      },
+      "total": 1.9054714559790593
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 18.2366988697414,
+        "reference_wind_on_vorticity_error": -1.3166745154944182,
+        "nonlinear_error_advection": -12.821082435765016
+      },
+      "total": 4.098941918481964
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.0509605988477065,
+        "reference_wind_on_vorticity_error": -0.08224587631597684,
+        "nonlinear_error_advection": 0.06998879910817471
+      },
+      "total": -0.06321767605550863
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.8309873605675757,
+        "reference_wind_on_vorticity_error": -3.4259867835670077,
+        "nonlinear_error_advection": 3.0890364880703003
+      },
+      "total": 2.4940370650708683
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 0.9673155588518706,
+        "reference_wind_on_vorticity_error": -6.451873664665337,
+        "nonlinear_error_advection": 5.241265365865492
+      },
+      "total": -0.2432927399479743
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "700",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -20.378954694098255,
+        "reference_wind_on_vorticity_error": -10.562648941876098,
+        "nonlinear_error_advection": 18.830660518147003
+      },
+      "total": -12.11094311782735
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.06457020133961747,
+        "reference_wind_on_vorticity_error": 0.048191319673379196,
+        "nonlinear_error_advection": -0.026665497074454002
+      },
+      "total": 0.08609602393854265
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.6502747000047555,
+        "reference_wind_on_vorticity_error": 3.341841800197411,
+        "nonlinear_error_advection": -1.8320905628467135
+      },
+      "total": 4.160025937355454
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 2.6722528659099964,
+        "reference_wind_on_vorticity_error": -10.577956509286919,
+        "nonlinear_error_advection": 4.138200673700583
+      },
+      "total": -3.7675029696763396
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_core",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -6.143231270549187,
+        "reference_wind_on_vorticity_error": -23.63752581221675,
+        "nonlinear_error_advection": 8.223032157887905
+      },
+      "total": -21.55772492487803
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.04922687193934492,
+        "reference_wind_on_vorticity_error": 0.012959521816848004,
+        "nonlinear_error_advection": -0.009080660879835327
+      },
+      "total": 0.05310573287635759
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.9273176022792464,
+        "reference_wind_on_vorticity_error": 2.8494157903953625,
+        "nonlinear_error_advection": -2.0893284206381333
+      },
+      "total": 3.687404972036476
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 5.427875184142565,
+        "reference_wind_on_vorticity_error": -8.69537063980609,
+        "nonlinear_error_advection": 3.524966673200492
+      },
+      "total": 0.2574712175369678
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_wide",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -6.694553267581354,
+        "reference_wind_on_vorticity_error": -19.828897509181964,
+        "nonlinear_error_advection": 17.25466366794509
+      },
+      "total": -9.26878710881823
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": -0.5651149469318537,
+        "reference_wind_on_vorticity_error": -0.009544366103429108,
+        "nonlinear_error_advection": 0.23015017586566516
+      },
+      "total": -0.3445091371696177
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.934968900233301,
+        "reference_wind_on_vorticity_error": 8.629620574357155,
+        "nonlinear_error_advection": -7.085208439514844
+      },
+      "total": 4.479381035075612
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 11.539669565061669,
+        "reference_wind_on_vorticity_error": 3.682139205136257,
+        "nonlinear_error_advection": -12.387026495715292
+      },
+      "total": 2.8347822744826345
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "western_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": 26.76454892130579,
+        "reference_wind_on_vorticity_error": -8.463506825292784,
+        "nonlinear_error_advection": -13.58828917675764
+      },
+      "total": 4.712752919255367
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 0,
+      "end_hour": 24,
+      "components": {
+        "wind_error_on_reference": 0.024052544293578147,
+        "reference_wind_on_vorticity_error": 0.041812425651219176,
+        "nonlinear_error_advection": -0.028573483611975065
+      },
+      "total": 0.037291486332822255
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 24,
+      "end_hour": 72,
+      "components": {
+        "wind_error_on_reference": 2.6431036725324883,
+        "reference_wind_on_vorticity_error": -2.3965108306489444,
+        "nonlinear_error_advection": 1.917430440638876
+      },
+      "total": 2.16402328252242
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 72,
+      "end_hour": 120,
+      "components": {
+        "wind_error_on_reference": 1.5878541818217466,
+        "reference_wind_on_vorticity_error": -6.905178080531446,
+        "nonlinear_error_advection": 4.217339746643882
+      },
+      "total": -1.099984152065817
+    },
+    {
+      "source": "era5init_pangu_6h",
+      "level": "low_mean",
+      "region": "eastern_flank",
+      "start_hour": 120,
+      "end_hour": 168,
+      "components": {
+        "wind_error_on_reference": -22.787883792265816,
+        "reference_wind_on_vorticity_error": -11.882799909684595,
+        "nonlinear_error_advection": 20.175236443347103
+      },
+      "total": -14.495447258603306
+    }
+  ],
+  "checks": {
+    "max_closure": 1.2434497875801753e-14
+  },
+  "definitions": {
+    "wind_error_on_reference": "-delta_V dot grad(zeta_reference)",
+    "reference_wind_on_vorticity_error": "-V_reference dot grad(delta_zeta)",
+    "nonlinear_error_advection": "-delta_V dot grad(delta_zeta)"
+  },
+  "meaning": "Each tendency difference projected onto midpoint forecast-minus-ERA5T vorticity error. Positive amplifies squared pattern error. Finite-amplitude bookkeeping, not causal fractions."
+}
